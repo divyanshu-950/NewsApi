@@ -1,0 +1,1237 @@
+{"articles" : [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Matt Burgess",
+      "title": "Therapy Sessions Exposed by Mental Health Care Firm’s Unsecured Database",
+      "description": "Video and audio of therapy sessions, transcripts, and other patient records were accidentally exposed in a publicly accessible database operated by the virtual medical company Confidant Health.",
+      "url": "https://www.wired.com/story/confidant-health-therapy-records-database-exposure/",
+      "urlToImage": "https://media.wired.com/photos/66d9e57ff7f1ee72477cac9b/191:100/w_1280,c_limit/090524-virtual-medical-company-therapy-notes-leak.jpg",
+      "publishedAt": "2024-09-06T10:45:00Z",
+      "content": "Thousands of peoples highly sensitive health details, including audio and video of therapy sessions, were openly accessible on the internet, new research has revealed. The cache of information, assoc… [+3114 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "David Cox",
+      "title": "This Mpox Outbreak Isn't Like the Last One",
+      "description": "The strain of mpox behind the current global health emergency is believed to be up to 10 times deadlier than the one that swept the globe in 2022.",
+      "url": "https://www.wired.com/story/mpox-outbreak-global-public-health-emergency/",
+      "urlToImage": "https://media.wired.com/photos/66bd39e7cf6232ff4521bd75/191:100/w_1280,c_limit/Science_mpox_Alamy_2J9AN2H.jpg",
+      "publishedAt": "2024-08-15T21:52:11Z",
+      "content": "In May 2023, the World Health Organization released a statement declaring the end of mpoxformerly known as monkeypoxas a public health emergency. Just over a year later, the agency has been forced to… [+3160 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ed Cara",
+      "title": "Beyond CPAP: Future Sleep Apnea Treatments Could Revolutionize Nighttime Health",
+      "description": "Sleep apnea used to be managed by puncturing the neck, but treatments for the common condition in the near-future promise to be far less intrusive.",
+      "url": "https://gizmodo.com/beyond-cpap-future-sleep-apnea-treatments-could-revolutionize-nighttime-health-2000484840",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/CPAP-machine.jpg",
+      "publishedAt": "2024-08-11T10:00:21Z",
+      "content": "Snoring is routinely a nuisance, particularly for people who share a bed with a light sleeper. For some, though, snoring can be a sign of a more serious health problem: sleep apnea. Once a barely kno… [+8608 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ed Cara",
+      "title": "As Feared, Mpox Is Now Officially a Global Health Emergency",
+      "description": "A new, deadlier variant of the viral disease is spreading widely again, WHO officials warn.",
+      "url": "https://gizmodo.com/mpox-is-a-global-health-emergency-who-declares-2000487158",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/Mpox-virus_20240814_150714_0000-1.jpg",
+      "publishedAt": "2024-08-14T20:00:50Z",
+      "content": "The viral disease mpox, formerly known as monkeypox, has become a worldwide threat once again. On Wednesday afternoon, the World Health Organization declared a public health emergency of internationa… [+2120 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Adam Kovac",
+      "title": "Nearly .05% of Your Brain Is Likely Microplastic, Brain Samples Reveal",
+      "description": "The tiny, omnipresent pieces of plastic are linked to a wide array of health problems in humans and animals.",
+      "url": "https://gizmodo.com/nearly-05-of-your-brain-is-likely-microplastic-brain-samples-reveal-2000490136",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/microplastics-brains-human-organs.jpg",
+      "publishedAt": "2024-08-23T11:54:26Z",
+      "content": "A shocking amount plastic has found its way into our brains, research finds. In a new paper, scientists report that brain samples taken from cadavers had an average of 0.48% of their weight made up o… [+2463 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Scott Hastings' family 'heartbroken' as wife Jenny confirmed missing",
+      "description": "Jenny Hastings \"struggled with her mental health for a number of years\", says family.",
+      "url": "https://www.bbc.com/news/articles/ceq5ej0dex3o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b7c3/live/4d497d30-6b8c-11ef-bfd9-5f2d264bba80.jpg",
+      "publishedAt": "2024-09-05T18:21:59Z",
+      "content": "Former Scotland rugby player Scott Hastings has confirmed his wife Jenny has been missing since disappearing at a wild swimming spot in the Firth of Forth on Tuesday.\r\nShe was reported missing in War… [+2133 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Baby contracts Gaza's first case of polio in 25 years",
+      "description": "The head of the World Health Organization, Tedros Adhanom Ghebreyesus, says he is \"gravely concerned\".",
+      "url": "https://www.bbc.com/news/articles/cevjz7zreyxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8867/live/e3c8a8a0-6149-11ef-b530-ab85493fe5fe.jpg",
+      "publishedAt": "2024-08-23T15:12:38Z",
+      "content": "A 10-month-old baby has been partially paralysed after contracting polio in Gaza, United Nations officials have said.\r\nAccording to the UN, Gaza, now in its 11th month of war, has not registered a po… [+2929 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Adam Kovac",
+      "title": "Ancient Egyptian Pyramid Builders Were Poisoned by Copper, Study Suggests",
+      "description": "It's unclear if residents living in the shadows of the Giza pyramids suffered health effects, but the finding offers a glimpse into how they lived.",
+      "url": "https://gizmodo.com/ancient-egyptian-pyramid-builders-were-poisoned-by-copper-study-suggests-2000491652",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/ancient-egypt-giza-copper-contamination-.jpg",
+      "publishedAt": "2024-08-27T20:20:58Z",
+      "content": "The construction of Egypts famed Giza pyramid complex, one of the ancient world’s wonders, came with a cost. As laborers worked on the necropolis, they may have been exposed to significant amounts of… [+3430 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Sir Van and Robin Swann settle defamation battle",
+      "description": "The singer faced legal action after he called the former NI health minister \"very dangerous\".",
+      "url": "https://www.bbc.com/news/articles/c9wj02gx4p1o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4c37/live/711ee300-6c39-11ef-8589-49d352db8330.jpg",
+      "publishedAt": "2024-09-06T10:28:14Z",
+      "content": "Sir Van Morrison's long-running defamation battle with former Stormont Health Minister Robin Swann has been settled.\r\nMr Swann sued the singer for slander after Sir Van declared that the politician w… [+498 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Sweden announces first case of more contagious mpox found outside Africa",
+      "description": "Sweden's public health agency records what it says is the first case of a contagious new variant of mpox outside the African continent.",
+      "url": "https://www.bbc.com/news/articles/c4gqr5lrpwxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "publishedAt": "2024-08-15T15:54:07Z",
+      "content": "Sweden's public health agency has recorded what it says is the first case of a contagious new variant of mpox outside the African continent.\r\nThe person became infected during a stay in an area of Af… [+1181 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ed Cara",
+      "title": "Massachusetts Town Enacts Evening Curfew Over Rare But Deadly Mosquito Virus",
+      "description": "Health officials in Oxford, Massachusetts, voted unanimously to enact a voluntary curfew until the year's first hard frost, after a local resident was hospitalized with the Eastern equine encephalitis virus.",
+      "url": "https://gizmodo.com/massachusetts-town-enacts-evening-curfew-over-rare-but-deadly-mosquito-virus-2000491394",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/mosquito-feeding.jpg",
+      "publishedAt": "2024-08-27T18:15:32Z",
+      "content": "A rare but deadly mosquito-borne virus has sent Massachusetts residents scrambling for cover. Last week, the town of Oyster enacted a voluntary curfew to lessen the risk of people contracting Eastern… [+4030 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Todd Feathers",
+      "title": "Judge Rules $400 Million Algorithmic System Illegally Denied Thousands of People’s Medicaid Benefits",
+      "description": "Thousands of children and adults were automatically terminated from Medicaid and disability benefits programs by a computer system that was supposed to make applying for and receiving health coverage easier.",
+      "url": "https://gizmodo.com/judge-rules-400-million-algorithmic-system-illegally-denied-thousands-of-peoples-medicaid-benefits-2000492529",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/deloitte-medicaid-tennessee-lawsuit.jpg",
+      "publishedAt": "2024-08-29T15:40:14Z",
+      "content": "Thousands of Tennesseans were illegally denied Medicaid and other benefits due to programming and data errors in an algorithmic system the state uses to determine eligibility for low-income residents… [+2416 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Pub bosses and health leaders clash over plans for outdoor smoking restrictions",
+      "description": "The prime minister says his government is looking at tougher rules to reduce the burden on the NHS.",
+      "url": "https://www.bbc.com/news/articles/cql3gy63rp3o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6cc7/live/bf8c0960-662a-11ef-b737-11b40758ce69.jpg",
+      "publishedAt": "2024-08-29T18:26:05Z",
+      "content": "Health experts have welcomed potential plans for tougher regulations on outdoor smoking, but leading figures in the hospitality sector worry restrictions could hinder some businesses, particularly pu… [+5113 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Beth Mole",
+      "title": "Tattoo ink sold on Amazon has high levels of weird and rare bacteria",
+      "description": "The recall announcement noted that the germs \"present a health concern.\"",
+      "url": "https://arstechnica.com/health/2024/08/tattoo-ink-sold-on-amazon-has-high-levels-of-weird-and-rare-bacteria/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-1235659249-760x380.jpg",
+      "publishedAt": "2024-08-27T19:21:27Z",
+      "content": "Enlarge/ BARCELONA, SPAIN - 2021/10/02: Spanish tattoo artist Oscar Garcia works on a man, during the Expo.\r\nFira de Barcelona hosts the XXIV edition of the Barcelona Tattoo Expo where tattoo artists… [+3319 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Beth Mole",
+      "title": "CEO of failing hospital chain got $250M amid patient deaths, layoffs, bankruptcy",
+      "description": "Steward Health Care System, run by CEO Ralph de la Torre, filed for bankruptcy in May.",
+      "url": "https://arstechnica.com/science/2024/08/as-hospitals-failed-and-patients-died-ceo-reportedly-netted-250m/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2165063809-760x380.jpg",
+      "publishedAt": "2024-08-20T21:20:06Z",
+      "content": "Enlarge/ Hospital staff and community members held a protest in front of Carney Hospital in Boston on August 5 as Steward has announced it will close the hospital. \"Ralph\" refers to Steward's CEO, Ra… [+6119 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Apple Watch Series 10 rumored to add sleep apnea detection",
+      "description": "The Apple Watch Series 10 could come with an upgraded ECG sensor for sleep apnea detection, according to a report from 9to5Mac.",
+      "url": "https://www.theverge.com/2024/9/6/24237873/apple-watch-series-10-rumor-sleep-apnea",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/h0lDj1MGL2S5u584RO70MlO01Lk=/0x0:2040x1360/1200x628/filters:focal(759x550:760x551)/cdn.vox-cdn.com/uploads/chorus_asset/file/24933442/236790_Apple_watch_9_Ultra_2_AKrales_0356.jpg",
+      "publishedAt": "2024-09-06T21:45:15Z",
+      "content": "Photo by Amelia Holowaty Krales / The Verge\r\n\n \n\n Rumors about the Watch Series 10 have been relatively scant in the runup to Apple’s event next week, where it’s expected to debut alongside the iPhon… [+1105 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Lawrence Bonk",
+      "title": "Abbott’s OTC glucose monitor is now available in the US",
+      "description": "Health tech company Abbott has been working on a number of biometric wearables\r\n for regular consumers. Now, we can get our hands on one. The company just released the Lingo continuous glucose monitor. \nThis is an over-the-counter device, so you can just orde…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_27f95d4f-db96-42de-9e3f-8684a144e8f0",
+      "urlToImage": null,
+      "publishedAt": "2024-09-05T17:00:36Z",
+      "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Harvard Business Review"
+      },
+      "author": "Carol Cruickshank, Cian Wade, Junaid Bajwa",
+      "title": "How AI Could Help Reduce Inequities in Health Care",
+      "description": "The number of AI tools in health care is growing. They hold the promise to help health systems address many of the causes of inequities in health care. This article reviews some of the new tools and explains how they hold great potential for tackling the seem…",
+      "url": "https://hbr.org/2024/08/how-ai-could-help-reduce-inequities-in-health-care",
+      "urlToImage": "https://hbr.org/resources/images/article_assets/2024/08/Aug24_29_73434335.jpg",
+      "publishedAt": "2024-08-29T12:05:34Z",
+      "content": "The number of AI tools in health care is growing. They hold the promise to help health systems address many of the causes of inequities in health care. This article reviews some of the new tools and … [+143 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ed Cara",
+      "title": "New Study Links Shingles to Cognitive Decline",
+      "description": "Scientists have uncovered a link between having shingles and cognitive decline.",
+      "url": "https://gizmodo.com/shingles-might-be-bad-for-your-brain-2000486473",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-1292254104-e1723583254454.jpg",
+      "publishedAt": "2024-08-14T00:00:26Z",
+      "content": "Research published on Tuesday is the latest to suggest that the viral disease shingles can be harmful to our long-term brain health. Scientists have shown that people who have had shingles were about… [+3839 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Emily Mullin",
+      "title": "Promising Mpox Drug Fails in Trials as Virus Spreads",
+      "description": "In a trial in the Democratic Republic of the Congo, the drug tecovirimat, also known as TPOXX, was found to be no better than placebo at clearing mpox lesions.",
+      "url": "https://www.wired.com/story/a-promising-drug-for-mpox-just-failed-in-trials/",
+      "urlToImage": "https://media.wired.com/photos/66c5d72593c0e79e4a93a231/191:100/w_1280,c_limit/GettyImages-1242725844.jpg",
+      "publishedAt": "2024-08-27T18:51:32Z",
+      "content": "As mpox continues to spread in Central Africa, a promising antiviral drug to treat the infection has failed to improve patients symptoms in a trial in the Democratic Republic of the Congo, the epicen… [+3121 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Macy Meyer",
+      "title": "7 Ways to Exercise More Day-to-Day Without It Feeling Miserable",
+      "description": "Try these easy ways to sneak exercise into your daily routine and improve your everyday health.",
+      "url": "https://www.cnet.com/health/fitness/7-ways-to-exercise-more-day-to-day-without-it-feeling-miserable/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/a7bb44d53e74370087584d122d47419a78d6d84f/hub/2023/02/17/c105467e-058c-46a0-9a05-46ea117f777b/gettyimages-960937940.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-09-05T14:28:27Z",
+      "content": "I'm far from the first person to say it, but exercise is essential for our overall health. Exercise helps boost your mood, relieve stress, increase energy, improve sleep quality and lower your risk f… [+8218 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Michelle Honeyager",
+      "title": "12 Probiotic Foods That Make for a Healthy, Happy Gut",
+      "description": "To maintain your gut health, consider incorporating these 12 probiotic foods into your diet.",
+      "url": "https://www.cnet.com/health/nutrition/probiotic-foods-gut-health/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/ca6531d803a1e40d5b2f0078055190486cc1e642/hub/2024/08/30/84110b90-62ef-4f96-b33f-0d9ac0e06651/person-holding-yogurt-at-store.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-09-05T16:25:30Z",
+      "content": "When it comes to discussions about gut health, probiotics are a hot topic. After all, who doesn't want a healthy gut? Perhaps you've heard of probiotic supplements or even seen them at your local pha… [+7299 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "'No jobs' for new physician associates",
+      "description": "A couple who studied to become physician associates at Ulster University have been left in debt without work.",
+      "url": "https://www.bbc.com/news/articles/c9qgxxxpggyo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7ab2/live/db52c0b0-5fce-11ef-8b3a-855e585a4dd6.jpg",
+      "publishedAt": "2024-08-22T05:26:06Z",
+      "content": "A couple who spent two years studying to become physician associates at Ulster University and are now in debt have said they feel \"let down\" and confused about not getting jobs in the health service.… [+4950 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Ronnie Cohen",
+      "title": "Public health advocates push Olympics to drop Coca-Cola sponsorship",
+      "description": "The soft-drink giant is one of the Olympics' biggest sponsors. But advocates argue pushing sugary beverages promotes obesity and diabetes worldwide, and is inconsistent with the values of the games.",
+      "url": "https://www.npr.org/sections/shots-health-news/2024/08/09/nx-s1-5068712/olympics-coke-coca-cola-sponsorship-public-health",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa5%2F06%2Fe7fd07a74cf2adb3bac0fccef253%2Fgettyimages-2162876845.jpg",
+      "publishedAt": "2024-08-09T11:02:00Z",
+      "content": "When Portuguese soccer star Cristiano Ronaldo slid two bottles of Coca-Cola off camera and raised a bottle of water to toast his hundreds of millions of social media followers during a news conferenc… [+4012 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Terminal cancer recovery man addicted to morphine",
+      "description": "Colin Whitney only had weeks to live, but after recovering, the treatment still takes its toll.",
+      "url": "https://www.bbc.com/news/articles/c87gy2xqrjpo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ae66/live/c73b5960-6178-11ef-8bcc-ed9315809911.jpg",
+      "publishedAt": "2024-08-26T21:00:06Z",
+      "content": "Colin has depression and struggles to get out of bed after years of taking painkillers following his cancer diagnosis\r\nA man has become addicted to morphine after what his family have said was a misd… [+6163 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Moves to reassure public after canal cyanide spill",
+      "description": "A major incident is declared in Walsall after sodium cyanide spilled into the canal network.",
+      "url": "https://www.bbc.com/news/articles/cgrj2g29kzxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1d50/live/0654eae0-5a1b-11ef-8f0f-0577398c3339.jpg",
+      "publishedAt": "2024-08-14T09:01:23Z",
+      "content": "A major incident was declared on Tuesday as the leaked chemical was confirmed to be sodium cyanide\r\nPublic health bosses say they hope to start reducing restrictions very quickly on a 12-mile stretch… [+2459 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Julia Naftulin",
+      "title": "Many working Americans want children later in life. Fertility startups are making their dreams more possible.",
+      "description": "Family-planning startups can help cover employees' fertility treatments when their employers' health-insurance plans don't.",
+      "url": "https://www.businessinsider.com/workplace-fertility-benefits-employee-recruiting-retention-2024-8",
+      "urlToImage": "https://i.insider.com/66bcb744b4912df3ae1b85bc?width=1200&format=jpeg",
+      "publishedAt": "2024-08-15T16:59:53Z",
+      "content": "Getty Images; Alyssa Powell/BI\r\n<ul><li>Infertility is top of mind for many adults having children later or with a partner of the same sex.</li><li>Startups like Carrot and Progyny provide fertility-… [+8581 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Kim Schewitz",
+      "title": "5 fermented foods a chef who worked at 'World's Best Restaurant' Noma always has in his fridge",
+      "description": "Fermented foods are delicious and contain \"good\" microbes that support gut health.",
+      "url": "https://www.businessinsider.com/5-fermented-foods-ex-noma-chef-has-in-fridge-2024-8",
+      "urlToImage": "https://i.insider.com/66c365055da406397bf6dae5?width=1200&format=jpeg",
+      "publishedAt": "2024-08-26T07:46:02Z",
+      "content": "David Zilber made a name for himself in the culinary world by creating experimental fermented foods at Noma.Novonesis\r\n<ul><li>Fermented foods are delicious and contain \"good\" microbes that support g… [+3398 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Ambulances ‘waste vital time’ on prison call-outs",
+      "description": "Three-quarters of requests from prisons did not need an ambulance response, a watchdog finds.",
+      "url": "https://www.bbc.com/news/articles/cg58gmp416yo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3283/live/292d8e30-655d-11ef-b43e-6916dcba5cbf.jpg",
+      "publishedAt": "2024-08-29T02:30:54Z",
+      "content": "Ambulance crews are wasting significant amounts of time being called out unnecessarily to prisons across England, the health safety watchdog has said.\r\nOne NHS trust told investigators it dealt with … [+2895 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Doctor gave warning about Nottingham killer years before attacks",
+      "description": "The concern that Valdo Calocane could \"end up killing someone\" appears in a summary of medical records shared with BBC Panorama.",
+      "url": "https://www.bbc.com/news/articles/c990rmvy4ero",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/82ed/live/0a13f000-563c-11ef-aebc-6de4d31bf5cd.jpg",
+      "publishedAt": "2024-08-12T05:00:21Z",
+      "content": "Valdo Calocane was diagnosed with paranoid schizophrenia three years before the killings\r\nA doctor warned three years before the Nottingham attacks that Valdo Calocane's mental illness was so severe … [+13104 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Jessica Rendall",
+      "title": "Human Bird Flu Case Reported in US Without Known Animal Contact",
+      "description": "Other US cases of H5 were detected in people who've worked directly with sick animals. Health officials say the risk to the general public remains low.",
+      "url": "https://www.cnet.com/health/medical/human-bird-flu-case-reported-in-us-without-known-animal-contact/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/e6798ff1fdaa4f9add1f598a22413a4c26b2d40b/hub/2024/07/24/65a5f3ad-f2c1-4473-8b7d-0423df1d2a7f/gettyimages-1515026137.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-09-07T03:32:00Z",
+      "content": "A person in Missouri was sick with bird flu, or avian influenza, but as of now doesn't have a known exposure to animals in the ongoing bird flu outbreak, according to a Friday news release from the U… [+6840 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Emily Stewart",
+      "title": "Gen Z is redefining sick days",
+      "description": "Americans are calling out sick and taking more mental health days. Gen Z is driving the change.",
+      "url": "https://www.businessinsider.com/gen-z-sick-leave-pto-mental-health-work-from-home-2024-8",
+      "urlToImage": "https://i.insider.com/66c8a362c72ebc54a40e4aad?width=1200&format=jpeg",
+      "publishedAt": "2024-08-26T09:21:02Z",
+      "content": "Getty Images; Jenny Chang-Rodriguez/BI\r\nThe kids are calling in sick to work. Not actual kids, who (hopefully) are not working, but Gen Zers. They're racking up sick days and taking more mental-healt… [+8901 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Sarah Sloat",
+      "title": "Women face bias and disparities in healthcare. Digital tools could help meet their needs.",
+      "description": "Femtech, or digital solutions centered on women's health and wellness, could help address gaps in the healthcare system.",
+      "url": "https://www.businessinsider.com/digital-technology-women-healthcare-access-gaps-femtech-platform-medical-providers-2024-9",
+      "urlToImage": "https://i.insider.com/66d9f2781d8d2deb96b97c48?width=1200&format=jpeg",
+      "publishedAt": "2024-09-06T16:24:05Z",
+      "content": "Ariel Davis for BI\r\nAshlee Wisdom left a toxic workplace environment after developing chronic hives.At the time, Wisdom was also getting her master's in public health at New York University, where sh… [+9198 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Lucas Ropek",
+      "title": "CIA May Have Derailed Research Into ‘Havana Syndrome’",
+      "description": "Mystery around the bizarre psychological phenomenon continues to deepen, despite years of investigation into the matter.",
+      "url": "https://gizmodo.com/cia-may-have-derailed-research-into-havana-syndrome-2000494177",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/The-CIA-emblem.jpg",
+      "publishedAt": "2024-09-03T19:45:10Z",
+      "content": "It’s been awhile since we heard anything about “Havana Syndrome,” the bizarre brain malady supposedly impacting droves of U.S. service members all over the world. Now, a new report suggests that the … [+3343 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ed Cara",
+      "title": "There’s Now an At-Home Test for Syphilis",
+      "description": "The FDA has just authorized the first at-home, over-the-counter test for syphilis, developed by NOWDiagnostics.",
+      "url": "https://gizmodo.com/theres-now-an-at-home-test-for-syphilis-2000488684",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/OTC-syphilis-test.jpg",
+      "publishedAt": "2024-08-19T20:45:50Z",
+      "content": "People looking to stay on top of their sexual health will now have a new tool at their disposal. Over the weekend, the Food and Drug Administration (FDA) authorized the first at-home, over-the-counte… [+3668 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ed Cara",
+      "title": "People Who Are More Flexible Tend to Live Longer, Study Finds",
+      "description": "Higher flexibility correlated with a lower risk of dying early in middle-aged people.",
+      "url": "https://gizmodo.com/people-who-are-more-flexible-tend-to-live-longer-study-finds-2000489972",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/outdoor-yoga.jpg",
+      "publishedAt": "2024-08-23T12:35:09Z",
+      "content": "Some big stretches a day might keep the doctor away. New research uncovered a link between living longer and being more flexible. The findings suggest that proactively helping people stay limber can … [+2677 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Erin Liam",
+      "title": "Demi Lovato said she's in a 'weird position' in her career because she didn't have a backup plan",
+      "description": "Her comments come as more Gen Z are putting mental health first and quitting toxic jobs without a backup plan.",
+      "url": "https://www.businessinsider.com/demi-lovato-backup-plan-music-acting-career-childstar-future-kids-2024-8",
+      "urlToImage": "https://i.insider.com/66c2c90ab4912df3ae1c86cf?width=1200&format=jpeg",
+      "publishedAt": "2024-08-19T06:06:32Z",
+      "content": "Lovato said she'll come up with a backup plan for her future child if they want to follow in her footsteps.Rich Polk/ Getty Images\r\n<ul><li>Demi Lovato said she wants her children to have the childho… [+3068 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jennifer Rigby",
+      "title": "Explainer-Why is mpox an emergency again, and how worried should I be?",
+      "description": "The World Health Organization has declared that an outbreak of mpox, a viral infection that spreads through close contact, represents a global health...",
+      "url": "https://www.yahoo.com/news/explainer-why-mpox-emergency-again-093828198.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters.com/0f38f6d89e41bf90cdca5df817d6134a",
+      "publishedAt": "2024-08-15T09:38:28Z",
+      "content": "By Jennifer Rigby\r\nLONDON (Reuters) - The World Health Organization has declared that an outbreak of mpox, a viral infection that spreads through close contact, represents a global health emergency f… [+3246 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Reuters Videos",
+      "title": "WHO declares mpox outbreak a global health emergency",
+      "description": "STORY: \"The situation constitutes a public health emergency of international concern...\"The World Health Organization on Wednesday declared mpox a global...",
+      "url": "https://www.yahoo.com/news/declares-mpox-outbreak-global-health-220045635.html",
+      "urlToImage": "https://media.zenfs.com/en/video.reutersnews.com/da9bd0304382c1954da64e6f08bf34cb",
+      "publishedAt": "2024-08-14T22:00:45Z",
+      "content": "STORY: \"The situation constitutes a public health emergency of international concern...\"\r\nThe World Health Organization on Wednesday declared mpox a global public health emergency for the second time… [+1271 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "YouTube restricts teenager access to fitness videos",
+      "description": "The platform says it is acting on concerns about teens being over-exposed to \"idealised\" body types.",
+      "url": "https://www.bbc.com/news/articles/c049kn7wlgxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8e8e/live/b72fd520-6b6c-11ef-b43e-6916dcba5cbf.jpg",
+      "publishedAt": "2024-09-05T14:13:03Z",
+      "content": "YouTube is to limit recommendations of certain health and fitness videos to teenagers, including those which \"idealise\" certain body types.\r\nIt says 13 to 17-year-old users will still be able to sear… [+2426 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Delish.com"
+      },
+      "author": "Brittany Anas",
+      "title": "How Bad Is It To Drink A Beer Every Day?",
+      "description": "When it comes to alcoholic beverages with health benefits, it's usually wine (especially red) that gets the accolades. But what about the health benefits of ...",
+      "url": "https://www.delish.com/food-news/a61957224/is-it-healthy-to-drink-beer-every-day/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/F01QcRJfKk_A95i6sa3FeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/delish_597/3123ac4c2edbc9a37b6eed261e200acc",
+      "publishedAt": "2024-08-23T16:58:00Z",
+      "content": "\"Hearst Magazines and Yahoo may earn commission or revenue on some items through these links.\"\r\nWhen it comes to alcoholic drinks with health benefits, it's usually red wine\r\n that gets all the atten… [+4675 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Asma Khalid",
+      "title": "Harris to lay out her vision for the economy in a policy speech in Raleigh, N.C.",
+      "description": "Democratic presidential candidate Kamala Harris on Friday will reveal more of her plan for the economy. She’s expected to propose cutting expenses such as health care and groceries.",
+      "url": "https://www.npr.org/2024/08/16/nx-s1-5072650/harris-to-lay-out-her-vision-for-the-economy-in-a-policy-speech-in-raleigh-n-c",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2024-08-16T11:05:12Z",
+      "content": "Democratic presidential candidate Kamala Harris on Friday will reveal more of her plan for the economy. Shes expected to propose cutting expenses such as health care and groceries."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Annie Waldman",
+      "title": "Finding a therapist who takes your insurance can be nearly impossible. Here's why",
+      "description": "Getting mental health care covered by insurance can be really tough. Reporters spoke to hundreds of therapists who left their insurance networks to find out why.",
+      "url": "https://www.npr.org/sections/shots-health-news/2024/08/24/nx-s1-5028551/insurance-therapy-therapist-mental-health-coverage",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+156/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F77%2F15%2F5b8f15b94c4481ed3abb30a65a8d%2F20240616-luong-mental-health-project-3400-1.jpg",
+      "publishedAt": "2024-08-25T11:00:00Z",
+      "content": "Carter J. Carter became a therapist to help young people struggling with their mental health. Rosanne Marmor wanted to support survivors of trauma. Kendra F. Dunlap aspired to serve people of color.\r… [+15124 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Elena Moore",
+      "title": "Gen Z activist Deja Foxx is the first content creator to speak at the convention",
+      "description": "Foxx described her childhood — being raised by a single mom, growing up in public housing and going to Planned Parenthood for health services",
+      "url": "https://www.npr.org/2024/08/20/g-s1-17896/gen-z-activist-deja-foxx-is-the-first-content-creator-to-speak-at-the-convention",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2025+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F36%2Fc8%2Fb2d06fa946fbb78fbc6c3f8f11bf%2Fgettyimages-1697654457.jpg",
+      "publishedAt": "2024-08-20T04:07:06Z",
+      "content": "The NPR Network will be reporting live from Chicago throughout the week bringing you the latest on the Democratic National Convention.\r\nPoliticians aren't the only ones with speaking slots tonight. \r… [+1165 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Pien Huang",
+      "title": "Fluoride and IQ",
+      "description": "A newly released report from the National Institutes of Health says fluoride in drinking water at twice the recommended limit is associated with lower IQ in children.",
+      "url": "https://www.npr.org/2024/08/23/nx-s1-5086886/fluoride-and-iq",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2024-08-23T20:42:34Z",
+      "content": "A newly released report from the National Institutes of Health says fluoride in drinking water at twice the recommended limit is associated with lower IQ in children."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Christopher Burrell",
+      "title": "As shipping traffic increases in U.S. ports, communities see serious health impacts",
+      "description": "Billions of federal dollars are aimed at mitigating health issues, such as asthma and heart disease, by turning ports away from diesel to electric.",
+      "url": "https://www.npr.org/2024/08/23/nx-s1-4743543/as-shipping-traffic-increases-in-u-s-ports-communities-see-serious-health-impacts",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2024-08-23T08:21:47Z",
+      "content": "Billions of federal dollars are aimed at mitigating health issues, such as asthma and heart disease, by turning ports away from diesel to electric."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Gabby Landsverk",
+      "title": "The 1 fitness supplement worth taking to burn fat and build muscle, according to science",
+      "description": "Scientists agree that creatine is the best fitness supplement, with the most evidence-based benefits for fat-burning, muscle-building, and overall health.",
+      "url": "https://www.businessinsider.com/creatine-most-effective-fitness-supplement-science-burn-fat-build-muscle-2024-8",
+      "urlToImage": "https://i.insider.com/66c8e1d443b5e59d16b4d363?width=1200&format=jpeg",
+      "publishedAt": "2024-08-26T19:23:19Z",
+      "content": "Creatine is one of the most researched fitness supplements on the market. it offers a lot of value for its low costs, according to trainers and sports nutritionists.Farion_O/Getty Images\r\n<ul><li>The… [+4711 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Kelsey Vlamis",
+      "title": "A travel influencer said social media has become a 'copycat rabbit hole' with little support for original content creators",
+      "description": "Bree Rose, a popular travel influencer, said she thinks social media favors trend-driven content and should do more for creators' mental health.",
+      "url": "https://www.businessinsider.com/travel-influencer-social-media-became-copycat-rabbit-hole-2024-8",
+      "urlToImage": "https://i.insider.com/66cfd1eac7fd1f65e6857550?width=1200&format=jpeg",
+      "publishedAt": "2024-08-31T11:34:02Z",
+      "content": "Bree Rose, a full-time travel photographer and content creator, said creators do not get much support from social-media companies.Bree Rose\r\n<ul><li>Bree Rose, a travel photographer, said many origin… [+6517 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Brent D. Griffiths",
+      "title": "Harris sprints to the middle ahead of 2024 home stretch",
+      "description": "Kamala Harris has shifted her stances on immigration, energy, and health care as Donald Trump tries to brand her as too liberal.",
+      "url": "https://www.businessinsider.com/harris-trump-race-to-the-middle-labor-day-election-2024-9",
+      "urlToImage": "https://i.insider.com/66d26e1f1d8d2deb96b7ed94?width=1200&format=jpeg",
+      "publishedAt": "2024-09-02T11:49:02Z",
+      "content": "Vice President Kamala Harris has jettisoned her old views to appeal to more moderate voters, though she emphasized her \"values have no changed.\"Saul Loeb/ Getty Images\r\n<ul><li>Vice President Kamala … [+7899 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Shubhangi Goel",
+      "title": "Nvidia just recorded the biggest single-day wipeout by a US company",
+      "description": "Nvidia stock fell 9.5%, shedding $278.9 billion in valuation. The loss is tied to concerns that include the health of AI and the US economy.",
+      "url": "https://www.businessinsider.com/nvidia-records-biggest-ever-single-day-market-value-loss-2024-9",
+      "urlToImage": "https://i.insider.com/6616be9216bde8d4ead75ba5?width=1200&format=jpeg",
+      "publishedAt": "2024-09-04T05:00:29Z",
+      "content": "Nvidia's stock fell 9.5% due to concerns about AI and the US economy.Michael M. Santiago/Getty; Jenny Chang-Rodriguez/BI\r\n<ul><li>Nvidia's stock fell 9.5% due to concerns about AI and the US economy.… [+2930 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Rebecca Torrence,Sri Muppidi",
+      "title": "Exclusive: Buzzy mental health startup Slingshot AI just grabbed $30 million from A16z",
+      "description": "Mental health startup Slingshot AI grabbed about $30 million led by Andreessen Horowitz, with additional funding from Menlo Ventures, BI has learned.",
+      "url": "https://www.businessinsider.com/scoop-slingshot-ai-raises-30-million-a16z-menlo-follow-2024-8",
+      "urlToImage": "https://i.insider.com/66c3b5a95da406397bf706ca?width=1200&format=jpeg",
+      "publishedAt": "2024-08-20T14:34:00Z",
+      "content": "Slingshot AI launched this year to build large-language models for mental health.porcorex/Getty Images\r\n<ul><li>Slingshot AI raised about $30 million in an Andreessen Horowitz-led round, per multiple… [+3272 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Serafina Kenny",
+      "title": "How to invest 3% of your day in exercise to live longer, according to an expert in healthy aging",
+      "description": "Setting a side a small portion of your day can lead to huge returns for health and longevity, a physiologist said.",
+      "url": "https://www.businessinsider.com/invest-day-exercise-boost-longevity-aging-expert-physiologist-2024-8",
+      "urlToImage": "https://i.insider.com/66bb40705da406397bf54b9a?width=1200&format=jpeg",
+      "publishedAt": "2024-08-17T09:42:01Z",
+      "content": "Getty Images; Alyssa Powell/BI\r\n<ul><li>Investing 3% of your day in exercise could help you live a long, healthy life, a physiologist said.</li><li>Nathan K. LeBrasseur said that 30 minutes of exerci… [+4544 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Alex Bitter",
+      "title": "A supplement derived from cow's milk is taking over TikTok, but health experts say its benefits aren't clear",
+      "description": "Colostrum has gained popularity on TikTok for reducing bloating and improving gut health. But there's not much evidence for those benefits.",
+      "url": "https://www.businessinsider.com/colostrum-health-benefits-unclear-experts-say-2024-9",
+      "urlToImage": "https://i.insider.com/66d652501d8d2deb96b8095f?width=1200&format=jpeg",
+      "publishedAt": "2024-09-03T01:31:18Z",
+      "content": "Social media influencers have been promoting colostrum.Tatiana Sidorova/Getty Images\r\n<ul><li>Colostrum has been gaining attention on social media.</li><li>Some TikTokers say that the supplement aids… [+3199 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Rachel Hosie,Eammon Jacobs",
+      "title": "7 actors on the shocking toll losing weight for roles took on their bodies and minds",
+      "description": "From Hugh Jackman in \"Deadpool & Wolverine\" to Zac Efron in \"Baywatch,\" actors can go to great lengths to look lean, putting their health at risk.",
+      "url": "https://www.businessinsider.com/how-actors-cutting-weight-for-role-downsides-2023-7",
+      "urlToImage": "https://i.insider.com/66dadaaa1d8d2deb96b9c39b?width=1200&format=jpeg",
+      "publishedAt": "2024-09-06T10:38:35Z",
+      "content": "Hugh Jackman at the 2024 US Open, and a behind-the-scenes photo of him shirtless as Wolverine.Jean Catuffe/GC Images/Getty Images/Marvel Studios/Disney\r\n<ul>\n<li>Actors often go to drastic lengths to… [+7363 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Officials reconsider national ban after finding popular home appliance tied to public health risks: 'Contributes to many underlying health issues'",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_38c8485d-8da9-40d8-945e-117e46d2e0d9",
+      "urlToImage": null,
+      "publishedAt": "2024-08-12T00:30:00Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Justine Calma",
+      "title": "Summer 2024 is already the hottest on record",
+      "description": "Heat has been record-breaking this summer, and it’s not over yet.",
+      "url": "https://www.theverge.com/2024/9/6/24237451/summer-2024-is-already-the-hottest-on-record",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/b7KnjkaaR4EoFj5GOUNRRVBmPuc=/0x0:4680x3124/1200x628/filters:focal(2340x1562:2341x1563)/cdn.vox-cdn.com/uploads/chorus_asset/file/25606948/2164857015.jpg",
+      "publishedAt": "2024-09-06T15:38:38Z",
+      "content": "Spectators and cyclists during a heatwave coinciding with the Paris Olympics on August 4th, 2024. | Photo by Magali Cohen / Hans Lucas / AFP via Getty Images\r\n\n \n\n The Northern Hemisphere just experi… [+2862 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "Medicare Scores Major Win With Lower Prices for These 10 High-Cost Drugs",
+      "description": "For almost two decades, Medicare was banned from negotiating drug prices. The Inflation Reduction Act changed that.",
+      "url": "https://gizmodo.com/medicare-scores-major-win-with-lower-prices-for-these-10-high-cost-drugs-2000487435",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/prescription-drugs-lower-medicare.jpg",
+      "publishedAt": "2024-08-15T16:55:45Z",
+      "content": "The Biden administration announced Thursday successful negotiations with major pharmaceutical companies to lower the cost of 10 different drugs for people on Medicare Part D starting January 1, 2026.… [+2806 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Annie Waldman",
+      "title": "Insurers can restrict mental health care. What laws protect patients in your state?",
+      "description": "It can be really hard to get mental health care in the U.S. Even if you find a therapist in network, your insurer can refuse to cover the prescribed treatment. Here are the laws protecting patients.",
+      "url": "https://www.npr.org/sections/shots-health-news/2024/08/23/nx-s1-5084256/insurance-mental-health-care-coverage-legal-protection",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2084x1172+0+185/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fea%2F10%2F02d56e9e481589b2efc9cbe04087%2Fmental-health-care-promo.png",
+      "publishedAt": "2024-08-27T11:00:00Z",
+      "content": "Accessing mental health care can be a harrowing ordeal. Even if a patient finds a therapist in their network, their insurance company can overrule that therapist and decide the prescribed treatment i… [+12139 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Tim Evans",
+      "title": "Photos: How older adults navigate their health care needs in rural America",
+      "description": "Reporters for NPR traveled across North and South Dakota to see the challenges older adults in rural areas face when they need medical care — and to see what it's like for the people trying to help.",
+      "url": "https://www.npr.org/sections/the-picture-show/2024/09/05/g-s1-20446/photos-older-adults-seniors-health-care-rural",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1200x675+0+63/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1b%2F58%2F8280db4948c6ad232972ef4bbaba%2Frural-healthcare-pictureshow002.JPG",
+      "publishedAt": "2024-09-05T09:00:00Z",
+      "content": "Senior health care access across much of rural America is in a state of crisis. \r\nDecades of agricultural industrialization and consolidation have eroded rural employment opportunities, leading to a … [+1802 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Benjamin Thorp",
+      "title": "Could bird flu spread at state fairs? Here’s why health experts advise caution",
+      "description": "Corn dogs, deep-fried Twinkies, butter sculptures and influenza virus? Here’s why state fairs could be potential breeding grounds for viral mutation.",
+      "url": "https://www.npr.org/sections/shots-health-news/2024/09/04/nx-s1-5096213/state-fair-bird-flu-cows-risk-spread",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1760x990+0+92/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F91%2Fbf72ff8745a29f84200168aa6fbc%2F1.jpg",
+      "publishedAt": "2024-09-04T11:00:00Z",
+      "content": "Between July and October states across the country hold their annual state fairs.\r\nThe events are known for things like Ferris wheels and corn dogs, sculptures made entirely from butter and the bigge… [+6439 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Jaclyn Diaz",
+      "title": "Reproductive health is a major topic at the DNC. Here's the current state of abortion laws",
+      "description": "Following the Dobbs decision in 2022, states have enacted various levels of abortion restrictions — confusing doctors and patients. A number of states have the abortion question on the ballot for November — including key battlegrounds like Arizona and Nevada",
+      "url": "https://www.npr.org/2024/08/20/g-s1-18220/democratic-national-convention-abortion",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8017x4510+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2Ff8%2Faea0da3f40a4a830bec9c43eaf67%2Fgettyimages-2166799826.jpg",
+      "publishedAt": "2024-08-21T02:22:13Z",
+      "content": "The NPR Network will be reporting live from Chicago throughout the week bringing you the latest on the Democratic National Convention.\r\nReproductive health access is taking center stage at the conven… [+1501 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Aaron Bolton",
+      "title": "After health care attacks, tech giants will help small hospitals with cyber defenses",
+      "description": "As small and rural hospitals struggle against cyber attacks, a federally brokered deal will allow them to access free and discounted cybersecurity services. Experts say it may not be enough.",
+      "url": "https://www.npr.org/sections/shots-health-news/2024/08/14/nx-s1-5068751/healthcare-cyber-attacks-microsoft-google-tech-rural-patient-data-breach-medical-privacy",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2Fad%2Fdf4dcb5147f5a030d680de166b6c%2Fimg-1202.jpg",
+      "publishedAt": "2024-08-14T09:00:00Z",
+      "content": "More devices than ever inside hospitals require an internet connection, everything from MRI machines and health records to heart rate monitors. The latest and best equipment can speed up and improve … [+6282 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Phil Galewitz",
+      "title": "Amid Medicaid's 'unwinding,' many states work to expand health care access",
+      "description": "States have been culling their Medicaid rolls since pandemic coverage protections expired last year. But more than a dozen states have also expanded access for lower-income people, including children.",
+      "url": "https://www.npr.org/sections/shots-health-news/2024/08/15/nx-s1-5077767/medicaid-unwinding-expanding-access-north-carolina",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3888x2187+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa5%2Fe3%2F3df7b5bf4128b5bdc74e1212e1d7%2Fap24194588740344.jpg",
+      "publishedAt": "2024-08-16T11:00:00Z",
+      "content": "Trisha Byers left behind one crucial item when she moved to North Carolina last year to be closer to her family after suffering a brain injury: health insurance.\r\nIn Massachusetts, Byers, 39, was enr… [+8351 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Ari Daniel",
+      "title": "Certain bats have no health issues with sugar. Can bats teach us about diabetes?",
+      "description": "Bats are able to consume an extraordinary amount of sugar without getting sick. Scientists are trying to learn more about how bats do it, and if they have something to teach humans.",
+      "url": "https://www.npr.org/2024/08/16/nx-s1-5064652/certain-bats-have-no-health-issues-with-sugar-can-bats-teach-us-about-diabetes",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2024-08-16T07:23:09Z",
+      "content": "Bats are able to consume an extraordinary amount of sugar without getting sick. Scientists are trying to learn more about how bats do it, and if they have something to teach humans."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "msmash",
+      "title": "No Screens Before Age of Two, Swedish Health Authority Tells Parents",
+      "description": "Children under the age of two should not be exposed to any screens whatsoever and teenagers should have no more than three hours of screen time a day, according to guidelines announced by health authorities in Sweden. From a report: Parents and guardians shou…",
+      "url": "https://news.slashdot.org/story/24/09/03/0838232/no-screens-before-age-of-two-swedish-health-authority-tells-parents",
+      "urlToImage": "https://a.fsdn.com/sd/topics/news_64.png",
+      "publishedAt": "2024-09-03T09:01:00Z",
+      "content": "So provide cheap accessible alternatives and clubs.\r\nWith both parents working, when they are at home there is too much to catch up on, and it is inevitable that children will get left with the TV an… [+310 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Serafina Kenny",
+      "title": "The breakfast a top nutrition scientist eats for gut health — plus the common foods he avoids",
+      "description": "Tim Spector used to have orange juice and granola for breakfast. Now, he eats a more gut-healthy combination, including yogurt.",
+      "url": "https://www.businessinsider.com/tim-spector-gut-health-microbiome-healthy-breakfast-foods-2024-8",
+      "urlToImage": "https://i.insider.com/66c86bf41aa2ac29ee339443?width=1200&format=jpeg",
+      "publishedAt": "2024-08-23T12:25:51Z",
+      "content": "Tim Spector has yogurt with fruit, nuts, and seeds for breakfast every morning.ZOE/ Getty\r\n<ul><li>Nutrition scientist Tim Spector is an expert in gut health.</li><li>He has a go-to breakfast that he… [+3082 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "'My throat was so painful I couldn’t sleep' - on the mpox frontline",
+      "description": "Cases are rising in Burundi as the virus moves from neighbouring Democratic Republic of Congo.",
+      "url": "https://www.bbc.com/news/articles/cly3xzdq909o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d68d/live/9b7bb830-6171-11ef-b43e-6916dcba5cbf.jpg",
+      "publishedAt": "2024-08-24T00:16:07Z",
+      "content": "Egide Irambona, who thinks he contracted mpox from a friend, may have passed it on to his wife \r\nEgide Irambona, 40, sits bare-chested on his hospital bed, next to the window, in a treatment room tha… [+5488 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Gabrielle Emanuel",
+      "title": "Mpox outbreak grows in Africa",
+      "description": "On Tuesday, it's expected that Africa CDC will announce that Mpox is a health emergency of \"continental\" concern. An outbreak in the DRC has spread to four countries that have never had Mpox.",
+      "url": "https://www.npr.org/2024/08/12/nx-s1-5072543/mpox-outbreak-grows-in-africa",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2024-08-12T23:23:10Z",
+      "content": "On Tuesday, it's expected that Africa CDC will announce that Mpox is a health emergency of \"continental\" concern. An outbreak in the DRC has spread to four countries that have never had Mpox."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Yuki Noguchi",
+      "title": "Her son died of an overdose in his dorm room. Where was the Narcan?",
+      "description": "Drug overdoses on college campuses are not tracked, and rarely publicized, as colleges cite health privacy laws. But advocates are working to make overdose reversal treatment widely available on campus.",
+      "url": "https://www.npr.org/sections/shots-health-news/2024/08/13/g-s1-16649/narcan-naloxone-college-campus-drug-overdose",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fca%2F63%2Fe62a8d39424e80eb4f4f4a0b6064%2Fmette-lampcov-bobby-drug-overdose-1b.jpeg",
+      "publishedAt": "2024-08-13T11:00:00Z",
+      "content": "In the summer of 2020, Monica Vera-Schubert talked to NPR about her long struggle to get insurance coverage for her son Bobbys addiction treatment. Theyd recently prevailed, he was getting sober, and… [+9564 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Steve Inskeep",
+      "title": "HHS team negotiated with drug companies to save on Medicare drug prices",
+      "description": "NPR's Steve Inskeep talks to Secretary of the Department of Health and Human Services Xavier Becerra about the results of negotiations to lower Medicare prices for 10 blockbuster drugs.",
+      "url": "https://www.npr.org/2024/08/15/nx-s1-5075918/hhs-team-negotiated-with-drug-companies-to-save-on-medicare-drug-prices",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2024-08-15T11:32:40Z",
+      "content": "NPR's Steve Inskeep talks to Secretary of the Department of Health and Human Services Xavier Becerra about the results of negotiations to lower Medicare prices for 10 blockbuster drugs."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Max Barnhart",
+      "title": "Our interview with \"TIME's 2024 Kid of the Year,\" inventor of a cancer-fighting soap",
+      "description": "Last year NPR interviewed Heman Bekele about his invention of a soap to fight skin cancer. He was motivated by his childhood in Ethiopia: He saw people working in the sun and thought of health risks.",
+      "url": "https://www.npr.org/sections/goats-and-soda/2024/08/16/g-s1-17326/time-kid-of-the-year-cancer-fighting-soap",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2999x1687+0+157/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fac%2F96%2F5fb8afcd41539aecd6045f203896%2Fimg-2484.jpg",
+      "publishedAt": "2024-08-16T20:14:11Z",
+      "content": "Heman Bekele has just been named Time's 2024 Kid of the Year.\r\nAs Time writes, \"His accomplishment: inventing a soap that could one day treat and even prevent multiple forms of skin cancer. It may ta… [+7355 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Juliana Kim",
+      "title": "Body camera shows how a 911 call for medical help led to the killing of Victoria Lee",
+      "description": "Her family said Victoria Lee, 25, from Fort Lee, N.J., was experiencing a mental health crisis when her brother called 911 for medical help. An officer broke into their apartment and fired at her.",
+      "url": "https://www.npr.org/2024/08/17/nx-s1-5079593/police-shooting-victoria-lee-fort-lee-new-jersey",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1797x1011+57+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2Ff7%2Fed892d2c4d92bb2aca7bd6d034d4%2Fvictorialee.jpg",
+      "publishedAt": "2024-08-17T23:21:36Z",
+      "content": "Moments before a police officer fatally shot 25-year-old Victoria G. Lee in Fort Lee, N.J., body camera footage shows a group of officers yelling out \"Drop the knife!\" as Lee throws a large water jug… [+5693 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Ruchi Kumar",
+      "title": "The rape and murder of a female doctor in India sets off an outcry over women's safety",
+      "description": "The young woman was raped and murdered while on break from a 36-hour hospital shift. Women who work in health care — and other fields — are calling for changes to protect them from sexual violence.",
+      "url": "https://www.npr.org/sections/goats-and-soda/2024/08/26/g-s1-18366/rape-murder-doctor-india-sexual-violence-protests",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+209/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2F62%2F7de6092b4fbdbe439c5860ea1be8%2Findia-healthcare-attack-2.jpg",
+      "publishedAt": "2024-08-26T16:58:36Z",
+      "content": "On August 9, the body of a 31-year-old doctor trainee was found at the RG Kar Medical College and Hospital in Kolkata. The woman had been raped and murdered.\r\nThe case has once again brought to the f… [+4744 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Leila Fadel",
+      "title": "New variants contribute to COVID surge. What's the latest guidance?",
+      "description": "NPR's Steve Inskeep talks to Dr. Ashish Jha, dean of the School of Public Health at Brown University and ex-White House COVID-19 response coordinator, about the summer COVID surge.",
+      "url": "https://www.npr.org/2024/08/15/nx-s1-5075060/new-variants-contribute-to-covid-surge-whats-the-latest-guidance",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2024-08-15T07:38:45Z",
+      "content": "NPR's Steve Inskeep talks to Dr. Ashish Jha, dean of the School of Public Health at Brown University and ex-White House COVID-19 response coordinator, about the summer COVID surge."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "Victoria Whittington, RDN",
+      "title": "The 6 Best Foods for Joint Health, According to Dietitians",
+      "description": "Got achy joints? Learn about the foods that provide nutrients to reduce inflammation and support joint health.",
+      "url": "https://www.eatingwell.com/the-6-best-foods-for-joint-health-8691833",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2Z0bUxGMjZDyTK5V9JKvfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTA-/https://media.zenfs.com/en/eating_well_articles_946/5fd7bf99b3fdabd46918a8a795b1eafb",
+      "publishedAt": "2024-08-09T15:48:55Z",
+      "content": "Got achy joints? Learn about the foods that provide nutrients to reduce inflammation and support joint health.\r\nReviewed by Dietitian Alyssa Pike, RDNReviewed by Dietitian Alyssa Pike, RDN\r\nHealthy j… [+6207 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Graham Rogers & Dawn Limbu - BBC News, Gloucestershire",
+      "title": "Puppies found in skip on their way to full health",
+      "description": "The puppies are recovering well and will be rehomed in the next few weeks.",
+      "url": "https://www.bbc.com/news/articles/c4gq7jk91qpo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/avRXTWglAlQLtQSyYgGnvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bbc_us_articles_995/a8b15553f1920221274dccb7d46be9fb",
+      "publishedAt": "2024-08-30T13:15:10Z",
+      "content": "A box of malnourished puppies found in a skip are well on their way to full health, according to an animal sanctuary.\r\nThey were taken in by the Forest of Dean Dog Rescue in Gloucestershire and have … [+1732 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Bryan Mena",
+      "title": "The health care industry is defying America’s slowing job market",
+      "description": "America’s lucrative job market of recent years is now long gone, with the unemployment rate recently rising to its highest level since October 2021. But...",
+      "url": "https://www.cnn.com/2024/08/10/economy/americas-top-job?cid=external-feeds_iluminar_yahoo",
+      "urlToImage": "https://media.zenfs.com/en/cnn_business_articles_218/0cb8242f44eba13a5aaf4d00522d1590",
+      "publishedAt": "2024-08-10T17:00:02Z",
+      "content": "Americas lucrative job market of recent years is now long gone, with the unemployment rate recently rising to its highest level since October 2021. But theres still some serious momentum in one indus… [+5245 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "17 Mental-Health Tips That Have MASSIVELY Helped Them",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a6539ad9-52e3-43fb-83fd-c94e9d45e2ef",
+      "urlToImage": null,
+      "publishedAt": "2024-09-05T13:16:02Z",
+      "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Hilary Brueck",
+      "title": "An Italian scientist started eating like an American and saw his blood sugar and cholesterol skyrocket. A simple diet helped him reverse the damage.",
+      "description": "Valter Longo ate like an American when he moved from Italy to the US. Within 8 years, his health markers were looking rough. Tweaks to his diet made a difference.",
+      "url": "https://www.businessinsider.com/valter-longo-longevity-diet-reversed-his-high-cholesterol-blood-sugar-2024-8",
+      "urlToImage": "https://i.insider.com/66b38a4aa5247369a3ea2dd8?width=1200&format=jpeg",
+      "publishedAt": "2024-08-07T20:04:51Z",
+      "content": "Valter Longo is a biologist who studies healthy aging.Alan Weissman; Getty Images; Chelsea Jia Feng/BI\r\n<ul><li>Valter Longo moved from Italy to the US as a teenager and quickly saw his cholesterol s… [+6776 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Fyodor Urnov",
+      "title": "The Power and Potential of Gene Tuning",
+      "description": "Fyodor Urnov explains how retuning genes can restore health harmony.",
+      "url": "https://time.com/7009555/7009555/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/08/Gene-editing.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2024-08-12T11:00:00Z",
+      "content": "After a lifetime in the field of epigenetics, and nearly 20 years after my colleagues and I coined the term genome editing, I will be the first to admit that describing the epigenomea marvelous biolo… [+12356 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Parade"
+      },
+      "author": "Emily Laurence",
+      "title": "‘I’m a Cardiologist With Perfect Cholesterol Numbers—Here’s What a Typical Day of Eating Looks Like for Me’",
+      "description": "Want to eat with heart health in mind? Here's what it looks like.",
+      "url": "https://parade.com/health/i-am-a-cardiologist-with-perfect-numbers-here-is-what-i-eat-in-a-day",
+      "urlToImage": "https://media.zenfs.com/en/parade_250/f9795e9816a696062ae126cdafdff071",
+      "publishedAt": "2024-08-17T18:00:00Z",
+      "content": "If the adage is true that you are what you eat, it means every meal is an opportunity to support your health. Decades of scientific research on the connection between diet and heart health certainly … [+6786 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "ULEZ has cut children's school car rides - study",
+      "description": "Research shows children living in the zone are now nearly four times more likely to be walking or cycling.",
+      "url": "https://www.bbc.com/news/articles/cpw8envvv0do",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dbdf/live/520f59d0-6ab4-11ef-9a8d-e39146dafe03.jpg",
+      "publishedAt": "2024-09-05T02:16:49Z",
+      "content": "Schoolchildren living in London's ultra-low emission zone (ULEZ) were nearly four times as likely to switch to walking and cycling after its introduction compared with those outside the zone, new res… [+4739 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Ministers consider tighter outdoor smoking rules",
+      "description": "The government says it is considering a range of measures to \"make the UK smoke-free\".",
+      "url": "https://www.bbc.com/news/articles/cg79ym5mrzyo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/05e8/live/81834be0-6596-11ef-8815-43741f415209.jpg",
+      "publishedAt": "2024-08-28T23:39:03Z",
+      "content": "Ministers are considering tighter restrictions on smoking outdoors as part of a drive to phase out tobacco.\r\nAs first reported by the Sun, smoking could be banned in pub gardens, outdoor restaurants,… [+1656 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Angela Haupt",
+      "title": "7 Metrics Everyone Should Know About Their Own Health",
+      "description": "Data overload isn't helpful—but keeping track of metrics like your LDL cholesterol, blood sugar, and grip strength is.",
+      "url": "https://time.com/7010448/health-metrics-everyone-should-know/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/08/7-health-metrics.gif?w=1080&h=628&crop=1",
+      "publishedAt": "2024-08-14T12:00:00Z",
+      "content": "If youre asked to share a few fun facts about yourself, youre probably not going to rattle off your blood pressure or cholesterol levels (even if your good cholesterol is, well, really good). But you… [+8745 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "'Our daughter should not have died from Covid jab'",
+      "description": "Two families believe their loved ones would still be alive if vaccine warnings had been shared.",
+      "url": "https://www.bbc.com/news/articles/cx2g921rd2lo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/44b6/live/f0bfc3a0-5b08-11ef-b1e4-f56621d77a42.jpg",
+      "publishedAt": "2024-08-23T05:14:08Z",
+      "content": "Marina Waldron, 21, died of complications after being given the AstraZeneca Covid jab\r\nThe parents of a young woman who died after being given an AstraZeneca Covid jab have accused the NHS of failing… [+10518 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Family plea to put mother's killer in high-security facility",
+      "description": "Michele Rutherford’s daughter Amy says it is \"unacceptable\" that there is nowhere in Scotland for her mother’s killer",
+      "url": "https://www.bbc.com/news/articles/cwyj777x4d3o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0ceb/live/78c2f950-58ea-11ef-8dc9-899401541318.jpg",
+      "publishedAt": "2024-08-12T22:09:31Z",
+      "content": "Michele Rutherford died after being stabbed supported accommodation in Stirling\r\nThe family of a carer who was stabbed to death say Scottish ministers have done nothing to create a high-security psyc… [+4727 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Jazmin Orozco Rodriguez | KFF Health News",
+      "title": "Boom, now bust: Budget cuts and layoffs take hold in public health",
+      "description": "State leaders are cutting public health spending and laying off workers hired during the pandemic-era boom. Public health experts say the bust will erode advancements.",
+      "url": "https://abcnews.go.com/Health/boom-now-bust-budget-cuts-layoffs-hold-public/story?id=113022414",
+      "urlToImage": "https://i.abcnewsfe.com/a/84678680-0651-44eb-b099-0a2e2be257d6/covid-test-file-gty-ml-240821_1724261013774_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-08-22T12:13:40Z",
+      "content": "This is a KFF Health News story.\r\nEven as federal aid poured into state budgets in response to the COVID-19 pandemic, public health leaders warned of a boom-and-bust funding cycle on the horizon as t… [+5921 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Mary Kekatos",
+      "title": "WHO declares mpox a public health emergency as new strain spreads in Africa",
+      "description": "The World Health Organization (WHO) declared mpox to be a public health emergency of international concern on [DAY] as a new strain spreads in Africa.",
+      "url": "https://abcnews.go.com/Health/declares-mpox-public-health-emergency-new-strain-spreads/story?id=112827103",
+      "urlToImage": "https://i.abcnewsfe.com/a/40598d68-e99f-4d6a-a71f-3f01f0a4810f/who-1-gty-dp-240814_1723649565752_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-08-14T17:40:55Z",
+      "content": "The World Health Organization (WHO) declared mpox to be a public health emergency of international concern (PHEIC) on Wednesday\r\n\"Today, the Emergency Committee met and advised me that in its view, t… [+2826 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Artofmanliness.com"
+      },
+      "author": "Brett & Kate McKay",
+      "title": "10 Mental Health Rules From the 1930s",
+      "description": "Note: In the 1930s, the Cleveland Academy of Medicine held a contest that solicited submissions for the best set of rules for mental health. The winning set of rules, which we share below, was penned by psychiatrist Dr. Joseph Fetterman and published in the a…",
+      "url": "https://www.artofmanliness.com/character/advice/10-mental-health-rules-from-the-1930s/",
+      "urlToImage": "https://content.artofmanliness.com/uploads/2024/08/mental-1.jpg",
+      "publishedAt": "2024-08-15T16:38:30Z",
+      "content": "Note: In the 1930s, the Cleveland Academy of Medicine held a contest that solicited submissions for the best set of rules for mental health. The winning set of rules, which we share below, was penned… [+955 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "El Paso Times"
+      },
+      "author": "Aaron A. Bedoya, El Paso Times",
+      "title": "Mexican and Vietnamese restaurants in El Paso receive failing inspection scores: See list",
+      "description": "Mexican and Vietnamese restaurants received failing grades in the health inspection report for Aug. 5-9. Learn more.",
+      "url": "https://www.elpasotimes.com/story/entertainment/dining/2024/08/13/vietnamese-mexican-restaurants-receive-failing-inspection-scores/74774593007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FQhK5CxFN5DDs31iviG9TQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the-el-paso-times/8119b9d63467d84d24eb800e794a4509",
+      "publishedAt": "2024-08-13T13:14:09Z",
+      "content": "Explore the latest restaurant buzz in El Paso, where we're providing transparency on inspection scores.The Department of Public Health in El Paso conducts inspections of businesses based on their foo… [+11488 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Inquiry as man left dead at hospital coffee shop",
+      "description": "The Times reports that the man is found slumped over a table in the hospital's cafe.",
+      "url": "https://www.bbc.com/news/articles/cy841lvd27ro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b399/live/79621e70-685f-11ef-82c8-f1443398dac6.jpg",
+      "publishedAt": "2024-09-01T13:29:54Z",
+      "content": "An NHS Trust is investigating after reports a man was slumped dead over a table in a hospital coffee shop for several hours.\r\nThe man, 36, was found dead at the table at Sandwell General Hospital in … [+684 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Mpox not new Covid and can be stopped, expert says",
+      "description": "The world must act now to ensure vaccines reach the areas most in need, the WHO's Dr Hans Kluge says.",
+      "url": "https://www.bbc.com/news/articles/cvg34y37jqgo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/89ea/live/0e4cd1b0-5ee2-11ef-95f0-03cd55644816.jpg",
+      "publishedAt": "2024-08-20T12:07:32Z",
+      "content": "Mpox is \"not the new Covid\", because authorities clearly know how to control its spread, a leading World Health Organization expert has said. \r\nDespite real concern about a new variant of the virus, … [+2218 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ariel Plasencia",
+      "title": "Several cases of 'sloth fever' confirmed in Florida: Here's what to know",
+      "description": "The Florida Department of Health confirms multiple travel-associated cases of sloth fever in the Bay Area.",
+      "url": "https://www.yahoo.com/news/several-cases-sloth-fever-confirmed-213039344.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mG9XADXEvcpxyMiC6NaNUw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/wtvt_fox_local_articles_521/a2575ea656f63c3d6b0147761118bdc3",
+      "publishedAt": "2024-09-06T21:30:39Z",
+      "content": "TAMPA, Fla. - The Florida Department of Health confirms multiple travel-associated cases of sloth fever in the Bay Area.\r\nAccording to the Aug. 25-31 report, there have been 32 cases of travel-relate… [+1495 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Israel says Hamas leader killed on third day of West Bank operation",
+      "description": "Israeli forces say they've killed a Hamas commander on the third day of a big  operation in the occupied West Bank.",
+      "url": "https://www.bbc.com/news/articles/c5ykjx57kz8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4495/live/b5a17ae0-66b4-11ef-b970-9f202720b57a.jpg",
+      "publishedAt": "2024-08-30T10:07:56Z",
+      "content": "The Israeli military says it has killed the head of the Palestinian armed group Hamas in Jenin and two other fighters, as a major operation continues for a third day in the north of the occupied West… [+1890 chars]"
+    }
+  ]}
