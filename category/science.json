@@ -1,5 +1,330 @@
 {"articles": [
-    {
+  {
+    "source": {
+      "id": null,
+      "name": "Protothema.gr"
+    },
+    "author": "Electra Delavogia",
+    "title": "Emmanuel Karalis: “We sat on the bench and cried” – His story",
+    "description": "The decathlete father, the immigrant mother, and the racist coach - The athlete who fought against bullying and overcame panic attacks is one of the 25 pole vaulters in the world to surpass the 6-meter barrier\nThe post Emmanuel Karalis: “We sat on the bench a…",
+    "url": "https://en.protothema.gr/2024/09/10/emmanuel-karalis-we-sat-on-the-bench-and-cried-his-story/",
+    "urlToImage": "https://en.protothema.gr/wp-content/uploads/2024/09/2-35-1024x532.png",
+    "publishedAt": "2024-09-10T07:03:37Z",
+    "content": "In the collective unconscious, September 1999 will likely forever be associated with the devastating Athens earthquake. The 5.9-magnitude tremor centered in Parnitha, which occurred at 2:56 PM on the… [+11438 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Inside Higher Ed"
+    },
+    "author": "Ryan Quinn",
+    "title": "Claremont Institute, Home of ‘Stop the Steal’ Lawyer, Returns to Political Science Conference",
+    "description": "Claremont Institute, Home of ‘Stop the Steal’ Lawyer, Returns to Political Science Conference\n\n \n\n\n \nRyan Quinn\n\nTue, 09/10/2024 - 03:00 AM\n\nSome American Political Science Association members are criticizing their organization for welcoming back a pro-Trump …",
+    "url": "https://www.insidehighered.com/news/faculty-issues/academic-freedom/2024/09/10/claremont-home-stop-steal-lawyer-back-apsa",
+    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2024-09/Claremont_apsa_welcome_back%20%281%29.jpg?itok=hRiHvAQH",
+    "publishedAt": "2024-09-10T07:00:00Z",
+    "content": "Back in September of 2021, Dave Karpf was reading about how former Chapman University law professor John Eastman advised Donald Trump on how to overturn the 2020 presidential election. Thats when Kar… [+8330 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Inside Higher Ed"
+    },
+    "author": "jessica.blake@insidehighered.com",
+    "title": "New Report Shows College Rankings Are Losing Influence",
+    "description": "Among traditional college-bound high school students who consider college rankings, only about one in 10 say they care about an institution’s particular rank, according to a new survey from the Art & Science Group, a higher education consulting and research f…",
+    "url": "https://www.insidehighered.com/news/quick-takes/2024/09/10/new-report-shows-college-rankings-are-losing-influence",
+    "urlToImage": "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png",
+    "publishedAt": "2024-09-10T07:00:00Z",
+    "content": "Among traditional college-bound high school students who consider college rankings, only about one in 10 say they care about an institutions particular rank, according to a new survey from the Art &a… [+1134 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NASA"
+    },
+    "author": null,
+    "title": "Sols 4297-4299: This Way to Tungsten Hills",
+    "description": "Earth planning date: Friday, Sept. 6, 2024 Contact science in our immediate workspace includes a joint effort by MAHLI and APXS to characterize a gray rock with two targets named “Big Baldy” and “Big Bird Lake.” ChemCam focused its Laser Induced Breakdown Spe…",
+    "url": "https://science.nasa.gov/blog/sols-4297-4299-this-way-to-tungsten-hills/",
+    "urlToImage": "https://science.nasa.gov/wp-content/uploads/2024/09/https-mars-nasa-gov-msl-raw-images-proj-msl-redops-ods-surface-sol-04296-opgs-edr-ncam-nlb-778873501edr-f1082018ncam00354m-.jpg?w=1024",
+    "publishedAt": "2024-09-10T06:56:10Z",
+    "content": "Contact science in our immediate workspace includes a joint effort by MAHLI and APXS to characterize a gray rock with two targets named Big Baldy and Big Bird Lake. ChemCam focused its Laser Induced … [+381 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Livemint"
+    },
+    "author": "Livemint",
+    "title": "Hurun India Rich List 2024 says THIS Infosys co-founder is richer than Narayana Murthy…",
+    "description": "As per the Hurun India Rich List 2024, Senapathy ‘Kris’ Gopalakrishnan is richer than fellow Infosys co-founder N Narayana Murthy among Bengaluru's wealthiest families. Here's how much they are worth…",
+    "url": "https://www.livemint.com/companies/news/hurun-india-rich-list-2024-senapathy-kris-gopalakrishnan-infosys-cofounder-richer-narayana-murthy-bengaluru-family-tech-11725947955144.html",
+    "urlToImage": "https://www.livemint.com/lm-img/img/2024/09/10/1600x900/Kris_Gopalakrishnan_Infosys_richer_Narayana_Murthy_1725948601672_1725948601935.jpg",
+    "publishedAt": "2024-09-10T06:52:57Z",
+    "content": "As per the Hurun India Rich List 2024, among Bengaluru's wealthiest, Infosys co-founder and former CEO Senapathy Kris Gopalakrishnan, is richer than fellow co-founder N Narayana Murthy, Hindustan Tim… [+3258 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hurriyet Daily News"
+    },
+    "author": "hurriyetdailynews.com",
+    "title": "Scientists develop AI system to monitor athlete health in real time",
+    "description": "Scientists at Yıldız Technical University (YTU) have developed a cutting-edge system that leverages artificial intelligence (AI) to monitor and assess the performance of athletes in real time.",
+    "url": "https://www.hurriyetdailynews.com/scientists-develop-ai-system-to-monitor-athlete-health-in-real-time-200398",
+    "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/66dfeca281033b9ea3d77c76.jpg",
+    "publishedAt": "2024-09-10T06:52:21Z",
+    "content": "ISTANBUL\r\nScientists at Yldz Technical University (YTU) have developed a cutting-edge system that leverages artificial intelligence (AI) to monitor and assess the performance of athletes in real time… [+1653 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NDTV News"
+    },
+    "author": null,
+    "title": "Kris Gopalakrishnan: The Infosys Co-founder Richer Than Narayana Murthy",
+    "description": "According to the recent Hurun India Rich List 2024, Mr Gopalakrishnan has a net worth of Rs 38,500 crore.",
+    "url": "https://www.ndtv.com/india-news/senapathy-kris-gopalakrishnan-the-infosys-co-founder-who-is-richer-than-narayana-murthy-6531121",
+    "urlToImage": "https://c.ndtvimg.com/2024-09/2fjd3dbo_senapathy-gopalakrishnan_625x300_10_September_24.jpeg",
+    "publishedAt": "2024-09-10T06:44:14Z",
+    "content": "He serves on the Board of Governors of the Indian Institute of Technology, Madras\r\nInfosys co-founder Narayana Murthy and his wife Sudha Murthy secured the fifth spot on Bengaluru's richest families … [+2071 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gematsu"
+    },
+    "author": "Sal Romano",
+    "title": "Side-scrolling action platformer Space Adventure Cobra: The Awakening announced for PS5, Xbox Series, PS4, Xbox One, Switch, and PC",
+    "description": "Publisher Microids and developer Magic Pockets have announced side-scrolling action platformer Space Adventure Cobra: The Awakening for PlayStation 5, Xbox Series, PlayStation 4, Xbox One, Switch, …",
+    "url": "https://www.gematsu.com/2024/09/side-scrolling-action-platformer-space-adventure-cobra-the-awakening-announced-for-ps5-xbox-series-ps4-xbox-one-switch-and-pc",
+    "urlToImage": "https://www.gematsu.com/wp-content/uploads/2024/09/Space-Adventure-Cobra-Ann_09-10-24.jpg",
+    "publishedAt": "2024-09-10T06:30:22Z",
+    "content": "Publisher Microids and developer Magic Pockets have announced side-scrolling action platformerSpace Adventure Cobra: The Awakening for PlayStation 5, Xbox Series, PlayStation 4, Xbox One, Switch, and… [+2515 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hhhistory.com"
+    },
+    "author": "Suzanne Norquist",
+    "title": "Paint Me A Telegram — By Suzanne Norquist",
+    "description": "Who hasn’t watched an old movie where a telegraph operator taps a coded message through a series of dots and dashes—Morse Code? Samuel Mor...",
+    "url": "https://www.hhhistory.com/2024/09/paint-me-telegram-by-suzanne-norquist.html",
+    "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEiHTejk2fq4DBKfd-Y8_9CEo9NuYiVJ7ZZvO7LZH_9dk9P6nJ5Oq8rLaVXw9_xXgBneX2C-aRx3YMHhXZpLtRdEJFhzg9rRv_2Xym_sOBSUDwH9yDfPSMFn315hRP6yelIMes2cYNDbnnjTkCE8CS9O3nSCN2XXSG_mj2g-dy6Oh50OnSvqAPaYJLZXFSY=w1200-h630-p-k-no-nu",
+    "publishedAt": "2024-09-10T06:30:00Z",
+    "content": "Who hasn’t\r\nwatched an old movie where a telegraph operator taps a coded message through a\r\nseries of dots and dashes—Morse Code?\r\nSamuel Morse\r\nwas an artist and professor of painting and sculpture … [+4607 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "SWK (NASDAQ:SWKH) Shares Down 0.6%",
+    "description": "SWK Holdings Co. (NASDAQ:SWKH – Get Free Report) traded down 0.6% during mid-day trading on Monday . The stock traded as low as $16.90 and last traded at $17.00. 6,339 shares were traded during mid-day trading, a decline of 44% from the average session volume…",
+    "url": "https://www.etfdailynews.com/2024/09/10/swk-nasdaqswkh-shares-down-0-6/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/swk-holdings-co-logo-1200x675.jpg?v=20210524055438&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-10T06:26:44Z",
+    "content": "SWK Holdings Co. (NASDAQ:SWKH – Get Free Report) traded down 0.6% during mid-day trading on Monday . The stock traded as low as $16.90 and last traded at $17.00. 6,339 shares were traded during mid-d… [+2848 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Saswati Sarkar",
+    "title": "No GST on R&D grants to educational institutes: Why this is a game-changing move for India’s higher education",
+    "description": "The GST Council's recent decision to exempt R&D grants to educational institutions from GST marks a pivotal shift for India's higher education and research sectors. This policy aims to alleviate financial pressures on institutions, foster public-private colla…",
+    "url": "https://timesofindia.indiatimes.com/education/news/no-gst-on-rd-grants-to-educational-institutes-why-this-is-a-game-changing-move-for-indias-higher-education/articleshow/113216849.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-113216795,width-1070,height-580,imgsize-6176,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "publishedAt": "2024-09-10T06:24:33Z",
+    "content": "10 Engaging Ways for Students to Spend Their Navratri Break"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Electronicintifada.net"
+    },
+    "author": "David Cronin",
+    "title": "Gaza starves as EU helps Israel to fight binge-eating",
+    "description": "Brussels approves 150 grants to a state guilty of genocide.",
+    "url": "https://electronicintifada.net/blogs/david-cronin/gaza-starves-eu-helps-israel-fight-binge-eating",
+    "urlToImage": "https://electronicintifada.net/sites/default/files/styles/medium/public/pictures/picture-44-1316022880.jpg?itok=JEpUylV3",
+    "publishedAt": "2024-09-10T06:17:31Z",
+    "content": "David CroninRights and Accountability10 September 2024\r\nEU officials are now portraying genocide enabler Ursula von der Leyen as a champion of peace. (Dati Bendo / European Union)  \r\nAs Gaza starved,… [+4463 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+  },
+  {
+    "source": {
+      "id": "the-irish-times",
+      "name": "The Irish Times"
+    },
+    "author": "Arlene Harris",
+    "title": "‘I’d be lying if I said I wasn’t nervous’: Why these teenagers are moving to secondary schools abroad",
+    "description": "Four Irish students have won scholarships for two years to study the International Baccalaureate in different parts of the globe",
+    "url": "https://www.irishtimes.com/ireland/education/2024/09/10/id-be-lying-if-i-said-i-wasnt-nervous-why-these-teenagers-are-moving-to-secondary-schools-abroad/",
+    "urlToImage": "https://www.irishtimes.com/resizer/v2/IIG2XA2P3RHNXIBJCFNBX55Q7U.JPG?smart=true&auth=5316280d2b2200e1ffd57ca6059608be0e2c09c0653913a4773f74b4a0eaa691&width=1200&height=630",
+    "publishedAt": "2024-09-10T06:07:56Z",
+    "content": "Thousands of teenagers who are back at school are probably still getting their heads around entering senior cycle and beginning a curriculum that will lead to their Leaving Cert exams and study optio… [+7097 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Conversation Africa"
+    },
+    "author": "Pep Canadell, Chief Research Scientist, CSIRO Environment; Executive Director, Global Carbon Project, CSIRO, Marielle Saunois, Enseignant-chercheur, Laboratoire des sciences du climat et de l’environnement (LSCE), Université de Versailles Saint-Quentin-en-Yvelines (UVSQ) – Université Paris-Saclay , Rob Jackson, Professor, Department of Earth System Science, and Chair of the Global Carbon Project, Stanford University",
+    "title": "Methane emissions are at new highs. It could put us on a dangerous climate path",
+    "description": "Human activities now account for two-thirds of all methane venting to the atmosphere – and our efforts to staunch the flow are not yet bearing fruit.",
+    "url": "https://theconversation.com/methane-emissions-are-at-new-highs-it-could-put-us-on-a-dangerous-climate-path-237809",
+    "urlToImage": "https://images.theconversation.com/files/618389/original/file-20240910-18-3m2rfe.jpg?ixlib=rb-4.1.0&rect=26%2C8%2C5964%2C2982&q=45&auto=format&w=1356&h=668&fit=crop",
+    "publishedAt": "2024-09-10T06:02:42Z",
+    "content": "Ramon Cliff/Shutterstock\r\nThe goal of the 2021 Global Methane Pledge is bold: cut methane emissions by 30% by the end of the decade. This is to buy us vital time to work on cutting carbon dioxide emi… [+7203 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Futureplc.engineering"
+    },
+    "author": "Feride Yalav-Heckeroth",
+    "title": "Turkey: Wine lands on the rise",
+    "description": "Balloons fly over vineyards\nin Cappadocia, a region in central Turkey known for growing the white Emir grape.\r\n\nA guide to the key grapes, producers and regions...\nThe post Turkey: Wine lands on the rise appeared first on Decanter.",
+    "url": "https://www.decanter.com.master.public.keystone-prod-eks-euw1.futureplc.engineering/wine/turkey-wine-lands-on-the-rise-535193/",
+    "urlToImage": "https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/34/2024/07/DEC301.turkey.shutterstock_670629649_credit_antongrachev_shutterstock.jpg",
+    "publishedAt": "2024-09-10T06:00:24Z",
+    "content": "The wine scene in Turkey is on the cusp of change, with a growing movement to revive indigenous grapes making it one of the most exciting new frontiers in the world of wine.\r\nIts also a country of co… [+11852 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Phys.Org"
+    },
+    "author": "Science X",
+    "title": "Methane emissions are rising faster than ever, research shows",
+    "description": "The world has not hit the brakes on methane emissions, a powerful driver of climate change. More than 150 nations have pledged to slash by 30% this decade under a global methane pledge, but new research shows global methane emissions over the past five years …",
+    "url": "https://phys.org/news/2024-09-methane-emissions-faster.html",
+    "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2020/landfill.jpg",
+    "publishedAt": "2024-09-10T06:00:01Z",
+    "content": "The world has not hit the brakes on methane emissions, a powerful driver of climate change. More than 150 nations have pledged to slash by 30% this decade under a global methane pledge, but new resea… [+5894 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Senisca Ltd",
+    "title": "SENISCA appoints Tim Edwards as Chair of the Board",
+    "description": "Life-science leader with 30 years of experience to guide SENISCA towards becoming a clinical stage novel senotherapeutics company  Exeter, UK — 10......",
+    "url": "https://www.globenewswire.com/news-release/2024/09/10/2943371/0/en/SENISCA-appoints-Tim-Edwards-as-Chair-of-the-Board.html",
+    "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/c98245ea-1c4d-4a3d-9f18-1da1c244b463",
+    "publishedAt": "2024-09-10T06:00:00Z",
+    "content": "Life-science leader with 30 years of experience to guide SENISCA towards becoming a clinical stage novel senotherapeutics company\r\nExeter, UK 10 September 2024: SENISCA SENISCA, a biotechnology compa… [+4205 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Naturalnews.com"
+    },
+    "author": "Lance D Johnson",
+    "title": "New Pro-Life video exposes disturbing connection between abortion, organ harvesting, and vaccine development",
+    "description": "A new pro-life video released by CHOICE42 will bring tears to your eyes, as it reveals the connections between abortions, organ trafficking and vaccine development. The video, titled “It’s OK,” premiered on The Steve Deace Show on The Blaze Network, and is th…",
+    "url": "https://www.naturalnews.com/2024-09-10-video-exposes-connection-abortion-organ-harvesting-vaccines.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2024/09/Fetus-Abortion-Mother-Child-Concept.jpg",
+    "publishedAt": "2024-09-10T06:00:00Z",
+    "content": "A new pro-life video released by CHOICE42 will bring tears to your eyes, as it reveals the connections between abortions, organ trafficking and vaccine development. The video, titled \"Its OK,\" premie… [+5124 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Bcala.org"
+    },
+    "author": null,
+    "title": "Scholarly Communications Librarian",
+    "description": "This is a three-year, fixed-term position with the possibility for extension. The position is posted at the Librarian 2 and 3 level. The role requires being onsite on the historic Stanford University ...",
+    "url": "https://jobs.bcala.org/job/scholarly-communications-librarian/75107319/",
+    "urlToImage": "https://d3ogvqw9m2inp7.cloudfront.net/assets/dynamic/headers/cc/responsive/partner_lib/1691/img/logo-1691.png",
+    "publishedAt": "2024-09-10T06:00:00Z",
+    "content": "Description\r\nThis is a three-year, fixed-term position with the possibility for extension. The position is posted at the Librarian 2 and 3 level.  The role requires being onsite on the historic Stanf… [+12416 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Patheos"
+    },
+    "author": "Ben Witherington",
+    "title": "Holy Grail! or Holy Smokes?",
+    "description": "They all say they’ve got the Holy Grail. So who’s right? By Julia Buckley, CNN  12 minute read Published 5:00 AM EDT, Sat August 17, 2024 on the CNN website Jesus is often depicted at the Last Supper with a cup, as depicted here by Frans Pourbus the Younger, …",
+    "url": "https://www.patheos.com/blogs/bibleandculture/2024/09/10/holy-grail-or-holy-smokes/",
+    "urlToImage": "https://wp-media.patheos.com/blogs/sites/55/2024/08/thumbnail_20240622_174250-scaled.jpg",
+    "publishedAt": "2024-09-10T05:57:05Z",
+    "content": "Wherever you go, the experience is usually the same.\r\nYou enter a church or a cathedral, and an ecclesiastical hush descends. You admire the architecture, the artworks, the centuries of history and o… [+14492 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "seattlepi.com"
+    },
+    "author": "By BRIAN MELLEY and MARIA CHENG, Associated Press",
+    "title": "The UK hospital where a nurse was convicted of murdering 7 babies faces investigation",
+    "description": "An English hospital where a neonatal nurse was convicted of murdering seven babies and trying to kill seven others is facing an inquiry into how she was able to harm so many children. The examination into the deaths at the Countess of Chester Hospital begins …",
+    "url": "https://www.seattlepi.com/news/world/article/the-uk-hospital-where-a-nurse-was-convicted-of-19754110.php",
+    "urlToImage": "https://s.hdnux.com/photos/01/42/61/07/25891294/3/rawImage.jpg",
+    "publishedAt": "2024-09-10T05:54:39Z",
+    "content": "LONDON (AP) A hospital in northwest England where a neonatal nurse was convicted of murdering seven babies and trying to kill seven others is facing an inquiry into how so many newborns were harmed.\r… [+6255 chars]"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "BRIAN MELLEY Associated Press, MARIA CHENG Associated Press",
+    "title": "The UK hospital where a nurse was convicted of murdering 7 babies faces investigation",
+    "description": "An English hospital where a neonatal nurse was convicted of murdering seven babies and trying to kill seven others is facing an inquiry into how she was able to harm so many children",
+    "url": "https://abcnews.go.com/Health/wireStory/uk-hospital-nurse-convicted-murdering-7-babies-faces-113541772",
+    "urlToImage": "https://i.abcnewsfe.com/a/29bbca0e-cf0d-45b5-9bbb-b83504686777/wirestory_fbc582b210d498414451297395eab934_16x9.jpg?w=1600",
+    "publishedAt": "2024-09-10T05:50:29Z",
+    "content": "LONDON -- A hospital in northwest England where a neonatal nurse was convicted of murdering seven babies and trying to kill seven others is facing an inquiry into how so many newborns were harmed.\r\nT… [+5972 chars]"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "BRIAN MELLEY Associated Press, MARIA CHENG Associated Press",
+    "title": "The UK hospital where a nurse was convicted of murdering 7 babies faces investigation",
+    "description": "An English hospital where a neonatal nurse was convicted of murdering seven babies and trying to kill seven others is facing an inquiry into how she was able to harm so many children",
+    "url": "https://abcnews.go.com/International/wireStory/uk-hospital-nurse-convicted-murdering-7-babies-faces-113541771",
+    "urlToImage": "https://i.abcnewsfe.com/a/29bbca0e-cf0d-45b5-9bbb-b83504686777/wirestory_fbc582b210d498414451297395eab934_16x9.jpg?w=1600",
+    "publishedAt": "2024-09-10T05:50:27Z",
+    "content": "LONDON -- A hospital in northwest England where a neonatal nurse was convicted of murdering seven babies and trying to kill seven others is facing an inquiry into how so many newborns were harmed.\r\nT… [+5972 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Twistedsifter.com"
+    },
+    "author": "Michael Levanduski",
+    "title": "Scientists Researching Dark Matter May Have Found Evidence Of A New Type Of Particle",
+    "description": "Discovering a new type of particle is always exciting.",
+    "url": "http://twistedsifter.com/2024/09/scientists-researching-dark-matter-may-have-found-evidence-of-a-new-type-of-particle/",
+    "urlToImage": "https://twistedsifter.com/wp-content/uploads/2024/08/Dark-matter.png",
+    "publishedAt": "2024-09-10T05:47:29Z",
+    "content": "When it comes to research into the universe, few ideas get as much attention as dark matter.\r\nThis theoretical substance is predicted to make up about 80% of the mass in the universe, even though we … [+2608 chars]"
+  }, 
+  {
       "source": {
         "id": null,
         "name": "BBC News"

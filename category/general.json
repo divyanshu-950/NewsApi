@@ -1,4 +1,330 @@
-{ "articles": [
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "Guardforce AI (NASDAQ:GFAI) Stock Price Up 0.9%",
+      "description": "Guardforce AI Co., Limited (NASDAQ:GFAI – Get Free Report) shot up 0.9% on Monday . The stock traded as high as $1.14 and last traded at $1.09. 237,162 shares traded hands during trading, a decline of 20% from the average session volume of 297,554 shares. The…",
+      "url": "https://www.etfdailynews.com/2024/09/10/guardforce-ai-nasdaqgfai-stock-price-up-0-9/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/guardforce-ai-co-ltd-logo-1200x675.png?v=20211203083712&w=240&h=240&zc=2",
+      "publishedAt": "2024-09-10T07:12:49Z",
+      "content": "Guardforce AI Co., Limited (NASDAQ:GFAI – Get Free Report) shot up 0.9% on Monday . The stock traded as high as $1.14 and last traded at $1.09. 237,162 shares traded hands during trading, a decline o… [+1825 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Dwayne Oxford",
+      "title": "Before Brazil and Elon Musk: X’s history of run-ins with left and right",
+      "description": "How X's run-ins with foreign governments have shifted across the political spectrum under Musk's leadership.",
+      "url": "https://www.aljazeera.com/news/2024/9/10/before-brazil-and-elon-musk-xs-history-of-run-ins-with-left-and-right",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/09/2024-09-02T160223Z_404584273_RC24R9AED1SP_RTRMADP_3_X-BRAZIL-1725704343.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-09-10T07:12:41Z",
+      "content": "All five judges on Brazils Supreme Court panel voted last week to uphold a ban on Elon Musks social media platform X in the country, rendering the mobile app inaccessible to almost 212 million users … [+9071 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Investing.com",
+      "title": "ASE Technology Holding Co., Ltd. Announces Monthly Net Revenues*",
+      "description": "ASE Technology Holding Co., Ltd. Announces Monthly Net Revenues*",
+      "url": "https://www.investing.com/news/press-releases/ase-technology-holding-co-ltd-announces-monthly-net-revenues-93CH-3608632",
+      "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/investing_300X300.png",
+      "publishedAt": "2024-09-10T07:12:09Z",
+      "content": "TAIPEI\r\n, Sept. 10, 2024\r\n /PRNewswire/ -- ASE Technology Holding Co (NYSE:ASX)., Ltd.  (NYSE: ASX, TAIEX: 3711, \"ASEH\" or the \"Company\"), announces its unaudited consolidated net revenues for August… [+4866 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Investing.com",
+      "title": "NXP Combines Ultra-Wideband Secure Ranging and Short-Range Radar to Enable Autonomous Industrial and IoT Applications",
+      "description": "NXP Combines Ultra-Wideband Secure Ranging and Short-Range Radar to Enable Autonomous Industrial and IoT Applications",
+      "url": "https://www.investing.com/news/press-releases/nxp-combines-ultrawideband-secure-ranging-and-shortrange-radar-to-enable-autonomous-industrial-and-iot-applications-93CH-3608629",
+      "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/investing_300X300.png",
+      "publishedAt": "2024-09-10T07:12:07Z",
+      "content": "<ul><li>Trimension SR250 is the industry's first single-chip solution combining on-chip processing with short-range ultra-wideband (UWB) radar and secure UWB ranging, enabling new user experiences in… [+5908 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Ex-UKIP leader and 'father of Brexit' dies",
+      "description": "One of the \"fathers of Brexit\" was a Euro MP for the East of England, serving alongside Nigel Farage.",
+      "url": "https://www.bbc.com/news/articles/cj9lk4jpr12o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d395/live/7558fab0-6ee0-11ef-afa5-e90e5253da97.jpg",
+      "publishedAt": "2024-09-10T07:12:05Z",
+      "content": "A former leader of the UK Independence Party who was also the party's first MEP in the East of England has died aged 90.\r\nJeffrey Titford was described by a former colleague as \"one of the fathers of… [+2216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSB Atlanta"
+      },
+      "author": "Wsbtv.com News Staff",
+      "title": "Local elections for new City of Mulberry to move forward after latest legal challenge",
+      "description": "Local elections for new City of Mulberry to move forward after latest legal challengewsbtv.com",
+      "url": "https://www.wsbtv.com/news/local/local-elections-new-city-mulberry-move-forward-after-latest-legal-challenge/SN3ML62Z5RCAXDDMNCOHLEZPZU/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/uLJQ-o3IbGOk2f3xlpGBNG0TwG0=/1440x810/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/6XGVXDZA2JAWZL5RZYV6JE45Z4.png",
+      "publishedAt": "2024-09-10T07:08:50Z",
+      "content": "GWINNETT COUNTY, Ga. — Local elections for the new Gwinnett Countys City of Mulberry will move forward after the city survived its latest legal challenge.\r\nA map shows the area in northeast Gwinnett … [+1920 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Boaz Sobrado, Contributor, \n Boaz Sobrado, Contributor\n https://www.forbes.com/sites/boazsobrado/",
+      "title": "Ads In Your Banking App? Why Fintechs Are Starting Ads Ventures",
+      "description": "Financial data is increasingly valuable to advertisers, explaining why Revolut, JPMorganChase and Paypal have recently launched an advertising businesses.",
+      "url": "https://www.forbes.com/sites/boazsobrado/2024/09/10/ads-in-your-banking-app-why-fintechs-are-starting-ads-ventures/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66dfebe2e4b2ec8adabbd928/0x0.jpg?format=jpg&crop=2670,1502,x0,y137,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-09-10T07:08:42Z",
+      "content": "PayPal on App Store displayed on a phone screen and PayPal logo displayed on a screen in the ... [+] background are seen in this illustration photo taken in Krakow, Poland on January 2, 2023. (Photo … [+4948 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bangkok Post"
+      },
+      "author": "Post Reporters",
+      "title": "Udon Thani-Vang Vieng bus service to resume",
+      "description": "<p>The state-run Transport Co plans to resume the Udon Thani-Nong Khai-Vang Vieng bus service in November.</p>",
+      "url": "https://www.bangkokpost.com/thailand/general/2862843/udon-thani-vang-vieng-bus-service-to-resume",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20240910/c1_2862843_700.jpg",
+      "publishedAt": "2024-09-10T07:07:00Z",
+      "content": "The state-run Transport Co plans to resume the Udon Thani-Nong Khai-Vang Vieng bus service in November.\r\nVan Vieng is a town in the Lao province of Vientiane, about half way to Luang Prabang, known f… [+1181 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Simply Wall St.",
+      "title": "Discover 3 Undiscovered Gems in France with Strong Potential",
+      "description": "The French market, like many global indices, has experienced notable fluctuations recently, with the CAC 40 Index dropping 3.65% amid renewed fears about global economic growth. Despite this volatility, opportunities still exist within the small-cap sector fo…",
+      "url": "https://finance.yahoo.com/news/discover-3-undiscovered-gems-france-070644777.html",
+      "urlToImage": "https://media.zenfs.com/en/simply_wall_st__316/297a096e5743176fa71b67c7278a433d",
+      "publishedAt": "2024-09-10T07:06:44Z",
+      "content": "The French market, like many global indices, has experienced notable fluctuations recently, with the CAC 40 Index dropping 3.65% amid renewed fears about global economic growth. Despite this volatili… [+5762 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": null,
+      "title": "Your top stories on Tuesday: EU court to rule on €13bn Apple tax case; disposable vapes to be banned in Ireland",
+      "description": "Here are the stories you need to start your day including: raucous homecoming for Team Ireland Paralympians, and MMA coach co-opted on to South Dublin County Council",
+      "url": "https://www.irishtimes.com/ireland/2024/09/10/breaking-news-in-ireland-weather-forecast-eu-apple-tax-case-donald-trump-kamala-harris/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/INBLEM5IAEX5APQDYLUPWD4KLA.jpg?smart=true&auth=0491caefe7bf821b3e80d884264e68a3403bf47bf48b50310f2f1021dcd5840e&width=1200&height=630",
+      "publishedAt": "2024-09-10T07:06:29Z",
+      "content": "The EUs top court will this morning deliver its keenly-awaited ruling on Apples tax affairs in the Republic.\r\nA key adviser to the European Court of Justice (ECJ) recommended last November that it se… [+838 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Floss Adams and Isla Evans",
+      "title": "Surfers stunned as plane door falls from sky and narrowly misses fisher on NSW beach",
+      "description": "Locals who watched on in disbelief as the door from a small airplane plummeted towards a Far South Coast beach say it was \"a crazy situation to witness\".",
+      "url": "https://www.abc.net.au/news/2024-09-10/plane-door-falls-from-sky-missing-fisherman-south-broulee-beach/104331030",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/bce6c2001a4e2ba8acd79a6cef0c845b?impolicy=wcms_watermark_news&cropH=1515&cropW=2694&xPos=0&yPos=31&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-09-10T07:05:22Z",
+      "content": "Locals who watched on in disbelief as the door from a small airplane plummeted towards a Far South Coast beach say it was \"a crazy situation to witness\".\r\nMurphy Shaw was enjoying a morning surf at S… [+3150 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Patrick Frater",
+      "title": "Australia Proposing to Ban Children From Social Media, Joins Wave of Asian Government Crackdowns on Platforms",
+      "description": "The Australian federal government said Tuesday that it will introduce legislation this year that bans children from accessing social media. The exact age has yet to be determined. The plan, announced by Prime Minister Anthony Albanese, aligns with moves by ot…",
+      "url": "https://variety.com/2024/digital/news/australia-ban-children-social-media-1236139196/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/09/Anthony-Albanese-GettyImages-2152971986-res.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2024-09-10T07:01:00Z",
+      "content": "The Australian federal government said Tuesday that it will introduce legislation this year that bans children from accessing social media. The exact age has yet to be determined.\r\nThe plan, announce… [+5805 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Brothers-brick.com"
+      },
+      "author": "Kyle Keller (TBB Managing Editor)",
+      "title": "The great Bionicle creature feature",
+      "description": "You don't need to know what kind of creature a Yigg is to enjoy this great Bionicle being by @jerac.lego\nThe post The great Bionicle creature feature appeared first on The Brothers Brick.",
+      "url": "https://www.brothers-brick.com/2024/09/10/the-great-bionicle-creature-feature/",
+      "urlToImage": "https://live.staticflickr.com/65535/53962078649_f8e855726b_h.jpg",
+      "publishedAt": "2024-09-10T07:00:57Z",
+      "content": "The Brothers Brick respects your online privacy and security. In accordance with the General Data Protection Regulation (GDPR) effective on May 25, 2018, we are providing greater transparency, and we… [+137 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Life"
+      },
+      "author": "Vivian",
+      "title": "Harris vs. Trump Presidential Debate: What Time Is It on Tuesday Night?",
+      "description": "Here’s what you need to know as the two candidates get ready for their first presidential debate in Philadelphia on Tuesday night.",
+      "url": "https://hollywoodlife.com/feature/what-time-is-the-harris-and-trump-presidential-debate-tonight-tuesday-5318626/",
+      "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2024/09/2.jpg?fit=1240%2C700",
+      "publishedAt": "2024-09-10T07:00:54Z",
+      "content": "Image Credit: Getty Images\r\nWith the election less than two months away, Vice President Kamala Harris and former President Donald Trump are preparing for their first presidential debate. This face-of… [+1943 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "John Archer, Senior Contributor, \n John Archer, Senior Contributor\n https://www.forbes.com/sites/johnarcher/",
+      "title": "Sony Answers Consumer Prayers And Launches 65-Inch Bravia 9 TV In Europe",
+      "description": "You no longer have to live in the U.S. to get your hands on the most affordable version of Sony’s ground-breaking Bravia 9 TV technology.",
+      "url": "https://www.forbes.com/sites/johnarcher/2024/09/10/sony-answers-consumer-prayers-and-launches-65-inch-bravia-9-tv-in-europe/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66df6cfff81349770e38ffe4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-09-10T07:00:23Z",
+      "content": "Amid all the excitement surrounding Sonys announcement of its flagship Bravia 9 TVs for 2024, complete with their groundbreaking new brightness-boosting mini LED backlight technology, there was a sur… [+2959 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "Lauren Burwell",
+      "title": "Want To Whiten Your Teeth? Watch Out For This Major Scam",
+      "description": "Three licensed dentists share why you should approach teeth whitening businesses with caution.",
+      "url": "https://www.huffpost.com/entry/unlicensed-teeth-whitening-dangers_l_66d1ece8e4b0c8d61a38c392",
+      "urlToImage": "https://img.huffingtonpost.com/asset/66d1fd1d2200003200bf3555.jpeg?ops=1200_630",
+      "publishedAt": "2024-09-10T07:00:13Z",
+      "content": "Thanks to a recent media spotlight on veneer techs, many illegal businesses offering non-prep veneer services have closed up shop. However, some have transitioned into offering another service typica… [+11699 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "Robin Asbell",
+      "title": "Health Experts Reveal The 1 Thing They Wish Their Older Patients Would Do",
+      "description": "Here are a few small ways to do yourself some major favors, from pros like cardiologists and nutritionists.",
+      "url": "https://www.huffpost.com/entry/health-for-old-age-1-thing_l_66c8e0b2e4b00a00d20350ea",
+      "urlToImage": "https://img.huffingtonpost.com/asset/66d1ebc924000039008109a0.jpeg?ops=1200_630",
+      "publishedAt": "2024-09-10T07:00:13Z",
+      "content": "It doesnt take hours at the gym or training for an Ironman Triathlon to maintain your health.\r\nTheres plenty of one-size-fits-all health advice out there. But for people of a certain age, the diet an… [+7803 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boredpanda.com"
+      },
+      "author": "Dominyka",
+      "title": "“How Did We Get To $530?”: Woman Appalled After Being Charged Extra For “Prepping” Cocktails",
+      "description": "She claimed that the restaurant charged them $80 extra for prep to shake their drinks.\nThe post “How Did We Get To $530?”: Woman Appalled After Being Charged Extra For “Prepping” Cocktails first appeared on Bored Panda.",
+      "url": "https://www.boredpanda.com/restaurant-bill-prepping-drinks-fee-blondeswhoeat/",
+      "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2024/09/restaurant-bill-prepping-drinks-fee-blondeswhoeat-fb.png",
+      "publishedAt": "2024-09-10T07:00:05Z",
+      "content": "Going out for a drink or two is a nice way to unwind at the end of the week. In fact, a 2017 report shows that 51% of young people in the U.S. go out to drink at least once a week. But lately, it has… [+7413 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Den of Geek US"
+      },
+      "author": "Alec Bojalad",
+      "title": "ReBoot 30 Years Later: A CGI Kids Show Way Ahead of Its Time",
+      "description": "Three decades ago, children across the world were enraptured by a screen adventure like nothing they had seen before. Animated entirely using computer-generated imagery (CGI), it showed them a world of inanimate objects given life and personality, and would b…",
+      "url": "https://www.denofgeek.com/tv/reboot-30-years-later-cgi-kids-show-ahead-of-its-time/",
+      "urlToImage": "https://www.denofgeek.com/wp-content/uploads/2024/07/ReBoot.png?fit=1200%2C675",
+      "publishedAt": "2024-09-10T07:00:00Z",
+      "content": "Free of the shackles of BSP, and boasting numerous technical improvements like enhanced shadows and character detail, ReBoots third season was arguably the show that the creators always dreamed of ma… [+2520 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "BeauHD",
+      "title": "Household Brands Want To Redefine 'Recyclable' To Include Products Virtually Impossible To Recycle",
+      "description": "Most kitchen products use plastics that are practically unrecyclable, yet a trade group representing major brands is pressuring regulators to allow companies to label such items as \"recyclable,\" even though they are likely to end up in landfills. Experts warn…",
+      "url": "https://news.slashdot.org/story/24/09/10/0157248/household-brands-want-to-redefine-recyclable-to-include-products-virtually-impossible-to-recycle",
+      "urlToImage": "https://a.fsdn.com/sd/topics/earth_64.png",
+      "publishedAt": "2024-09-10T07:00:00Z",
+      "content": "The Consumer Brands Association believes companies should be able to stamp \"recyclable\" on products that are technically \"capable\" of being recycled, even if they're all but guaranteed to end up in a… [+3026 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Inside Higher Ed"
+      },
+      "author": "Lauren.Coffey@insidehighered.com",
+      "title": "Librarians Want to Adopt AI but Cite Lack of Expertise",
+      "description": "While only a small number of academic libraries across the globe have joined the growing wave of artificial intelligence adoption, that will likely change over the next year.",
+      "url": "https://www.insidehighered.com/news/quick-takes/2024/09/10/ai-adoption-top-concern-librarians-next-year",
+      "urlToImage": "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png",
+      "publishedAt": "2024-09-10T07:00:00Z",
+      "content": "While only a small number of academic libraries across the globe have joined the growing wave of artificial intelligence adoption, that will likely change over the next year. \r\nAccording to a report … [+2661 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Inside Higher Ed"
+      },
+      "author": "Josh Moody",
+      "title": "Brown Trustee Resigns in Protest Over Divestment Vote",
+      "description": "Brown Trustee Resigns in Protest Over Divestment Vote\n\n \n\n\n \nJosh Moody\n\nTue, 09/10/2024 - 03:00 AM\n\nJoseph Edelman resigned over a looming vote to divest from companies linked to the war in Gaza. He called the vote, spurred by student pressure, “morally repr…",
+      "url": "https://www.insidehighered.com/news/governance/trustees-regents/2024/09/10/brown-trustee-resigns-protest-over-divestment-vote",
+      "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2024-09/Brown_University_Protest_Divest_GettyImages-2150211037_edit.jpg?itok=6ji-2mdO",
+      "publishedAt": "2024-09-10T07:00:00Z",
+      "content": "Brown University trustee Joseph Edelman stepped down abruptly on Sunday, expressing objections to a looming October vote in which the board will decide whether to divest endowment funds from 10 compa… [+8611 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "NXP USA, Inc.",
+      "title": "NXP Combines Ultra-Wideband Secure Ranging and Short-Range Radar to Enable Autonomous Industrial and IoT Applications",
+      "description": "NXP's Trimension SR250 is the industry’s first single-chip solution integrating on-chip processing with both short-range UWB radar and secure ranging.......",
+      "url": "https://www.globenewswire.com/news-release/2024/09/10/2943384/0/en/NXP-Combines-Ultra-Wideband-Secure-Ranging-and-Short-Range-Radar-to-Enable-Autonomous-Industrial-and-IoT-Applications.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/b322f93e-3c07-46bd-b6aa-4e0e8e88eb00",
+      "publishedAt": "2024-09-10T07:00:00Z",
+      "content": "<ul><li>Trimension SR250 is the industrys first single-chip solution combining on-chip processing with short-range ultra-wideband (UWB) radar and secure UWB ranging, enabling new user experiences in … [+5550 chars]"
+    },
     {
       "source": {
         "id": null,

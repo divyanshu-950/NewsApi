@@ -1,5 +1,330 @@
 { "articles": [
-    {
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "OKX",
+    "title": "OKX Launches App Connect: Empowering Developers with Seamless Wallet Integration for TON-based Mini Apps",
+    "description": "SINGAPORE, Sept.  10, 2024  (GLOBE NEWSWIRE) -- OKX, a global Web3 technology company, has issued updates for September 10, 2024.  OKX Launches App......",
+    "url": "https://www.globenewswire.com/news-release/2024/09/10/2943388/0/en/OKX-Launches-App-Connect-Empowering-Developers-with-Seamless-Wallet-Integration-for-TON-based-Mini-Apps.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/7d46492f-0db0-46e3-a7a5-a57cc0fb4256",
+    "publishedAt": "2024-09-10T07:15:00Z",
+    "content": "SINGAPORE, Sept. 10, 2024 (GLOBE NEWSWIRE) -- OKX, a global Web3 technology company, has issued updates for September 10, 2024.\r\nOKX Launches App Connect: Empowering Developers with Seamless Wallet I… [+2654 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Unisys (NYSE:UIS) Stock Passes Above Two Hundred Day Moving Average of $4.88",
+    "description": "Shares of Unisys Co. (NYSE:UIS – Get Free Report) crossed above its 200-day moving average during trading on Monday . The stock has a 200-day moving average of $4.88 and traded as high as $5.46. Unisys shares last traded at $5.31, with a volume of 315,220 sha…",
+    "url": "https://www.etfdailynews.com/2024/09/10/unisys-nyseuis-stock-passes-above-two-hundred-day-moving-average-of-4-88/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/unisys-co-logo-1200x675.png?v=20240524075316&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-10T07:14:47Z",
+    "content": "Shares of Unisys Co. (NYSE:UIS – Get Free Report) crossed above its 200-day moving average during trading on Monday . The stock has a 200-day moving average of $4.88 and traded as high as $5.46. Unis… [+3402 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Treace Medical Concepts, Inc. (NASDAQ:TMCI) Receives Consensus Recommendation of “Hold” from Analysts",
+    "description": "Shares of Treace Medical Concepts, Inc. (NASDAQ:TMCI – Get Free Report) have been given an average rating of “Hold” by the seven brokerages that are presently covering the company, Marketbeat reports. Seven research analysts have rated the stock with a hold r…",
+    "url": "https://www.etfdailynews.com/2024/09/10/treace-medical-concepts-inc-nasdaqtmci-receives-consensus-recommendation-of-hold-from-analysts/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/treace-medical-concepts-inc-logo-1200x675.jpg?v=20240521153815&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-10T07:14:46Z",
+    "content": "Shares of Treace Medical Concepts, Inc. (NASDAQ:TMCI – Get Free Report) have been given an average rating of “Hold” by the seven brokerages that are presently covering the company, Marketbeat reports… [+5245 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Stride, Inc. (NYSE:LRN) Receives Consensus Rating of “Moderate Buy” from Analysts",
+    "description": "Shares of Stride, Inc. (NYSE:LRN – Get Free Report) have been assigned an average rating of “Moderate Buy” from the seven ratings firms that are presently covering the stock, MarketBeat Ratings reports. Two equities research analysts have rated the stock with…",
+    "url": "https://www.etfdailynews.com/2024/09/10/stride-inc-nyselrn-receives-consensus-rating-of-moderate-buy-from-analysts/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/stride-inc-logo-1200x675.png?v=20221129112314&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-10T07:14:46Z",
+    "content": "Shares of Stride, Inc. (NYSE:LRN – Get Free Report) have been assigned an average rating of “Moderate Buy” from the seven ratings firms that are presently covering the stock, MarketBeat Ratings repor… [+4330 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "OUTFRONT Media Inc. (NYSE:OUT) Receives Consensus Recommendation of “Hold” from Analysts",
+    "description": "Shares of OUTFRONT Media Inc. (NYSE:OUT – Get Free Report) have earned a consensus rating of “Hold” from the four research firms that are covering the stock, MarketBeat.com reports. Three investment analysts have rated the stock with a hold rating and one has…",
+    "url": "https://www.etfdailynews.com/2024/09/10/outfront-media-inc-nyseout-receives-consensus-recommendation-of-hold-from-analysts/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/outfront-media-inc-logo-1200x675.jpg?v=20221121195348&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-10T07:14:45Z",
+    "content": "Shares of OUTFRONT Media Inc. (NYSE:OUT – Get Free Report) have earned a consensus rating of “Hold” from the four research firms that are covering the stock, MarketBeat.com reports. Three investment … [+4570 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Geeky Gadgets"
+    },
+    "author": "Julian Horsey",
+    "title": "Sirius radios Bluetooth versions explained",
+    "description": "Bluetooth technology has become a vital part of how modern devices communicate wirelessly, and it plays a key role in SiriusXM radios for easy pairing with headphones, car systems, and speakers. If you’re curious about what Bluetooth versions SiriusXM radios …",
+    "url": "https://www.geeky-gadgets.com/what-bluetooth-version-do-the-sirius-radios-use/",
+    "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2024/09/Sirius-radios-Bluetooth-versions-explained.jpg",
+    "publishedAt": "2024-09-10T07:14:19Z",
+    "content": "Bluetooth technology has become a vital part of how modern devices communicate wirelessly, and it plays a key role in SiriusXM radios for easy pairing with headphones, car systems, and speakers. If y… [+6055 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ELLE.com"
+    },
+    "author": "Elle",
+    "title": "Selena Gomez Reveals She's Unable To Carry Children Due To 'Medical Issues'",
+    "description": "A round up of the best motherhood quotes from the likes of Sophie Turner, Jennifer Lawrence, Beyoncé, Meghan Markle and more.",
+    "url": "https://www.elle.com/uk/life-and-culture/culture/g38589457/motherhood-quotes/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0mVNX4qggRfRzW_paH0dog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDI-/https://media.zenfs.com/en/elle_865/3bee6adf9dca1628cb0463c6061c38bf",
+    "publishedAt": "2024-09-10T07:13:00Z",
+    "content": "Motherhood is a unique experience that involves joy and enlightenment as well as trials and tribulations.\r\nIn fact, people say nothing can quite prepare you for it, from the late-night feeds with a n… [+23257 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Douglas Elliman (NYSE:DOUG) Shares Up 0.9%",
+    "description": "Douglas Elliman Inc. (NYSE:DOUG – Get Free Report) shot up 0.9% during trading on Monday . The company traded as high as $1.69 and last traded at $1.65. 535,749 shares traded hands during trading, a decline of 46% from the average session volume of 994,526 sh…",
+    "url": "https://www.etfdailynews.com/2024/09/10/douglas-elliman-nysedoug-shares-up-0-9/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/douglas-elliman-inc-logo-1200x675.jpg?v=20220103151359&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-10T07:12:48Z",
+    "content": "Douglas Elliman Inc. (NYSE:DOUG – Get Free Report) shot up 0.9% during trading on Monday . The company traded as high as $1.69 and last traded at $1.65. 535,749 shares traded hands during trading, a … [+4800 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Investing.com"
+    },
+    "author": "Investing.com",
+    "title": "ASE Technology Holding Co., Ltd. Announces Monthly Net Revenues*",
+    "description": "ASE Technology Holding Co., Ltd. Announces Monthly Net Revenues*",
+    "url": "https://www.investing.com/news/press-releases/ase-technology-holding-co-ltd-announces-monthly-net-revenues-93CH-3608632",
+    "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/investing_300X300.png",
+    "publishedAt": "2024-09-10T07:12:09Z",
+    "content": "TAIPEI\r\n, Sept. 10, 2024\r\n /PRNewswire/ -- ASE Technology Holding Co (NYSE:ASX)., Ltd.  (NYSE: ASX, TAIEX: 3711, \"ASEH\" or the \"Company\"), announces its unaudited consolidated net revenues for August… [+4866 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Investing.com"
+    },
+    "author": "Investing.com",
+    "title": "TCL Recognized at IFA 2024 for Breakthrough Innovations and Prestigious Industry Awards",
+    "description": "TCL Recognized at IFA 2024 for Breakthrough Innovations and Prestigious Industry Awards",
+    "url": "https://www.investing.com/news/press-releases/tcl-recognized-at-ifa-2024-for-breakthrough-innovations-and-prestigious-industry-awards-93CH-3608630",
+    "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/investing_300X300.png",
+    "publishedAt": "2024-09-10T07:12:09Z",
+    "content": "BERLIN\r\n, Sept. 10, 2024\r\n /PRNewswire/ -- At the recent IFA 2024 show in Berlin\r\n, TCL Electronics, a leading global consumer electronics brand and the world's top two TV brand, was recognized for i… [+1898 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Investing.com"
+    },
+    "author": "Investing.com",
+    "title": "NXP Combines Ultra-Wideband Secure Ranging and Short-Range Radar to Enable Autonomous Industrial and IoT Applications",
+    "description": "NXP Combines Ultra-Wideband Secure Ranging and Short-Range Radar to Enable Autonomous Industrial and IoT Applications",
+    "url": "https://www.investing.com/news/press-releases/nxp-combines-ultrawideband-secure-ranging-and-shortrange-radar-to-enable-autonomous-industrial-and-iot-applications-93CH-3608629",
+    "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/investing_300X300.png",
+    "publishedAt": "2024-09-10T07:12:07Z",
+    "content": "<ul><li>Trimension SR250 is the industry's first single-chip solution combining on-chip processing with short-range ultra-wideband (UWB) radar and secure UWB ranging, enabling new user experiences in… [+5908 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Insider Monkey",
+    "title": "What Makes AppLovin Corporation (APP) an Attractive Investment?",
+    "description": "Scout Investments, Inc, an affiliate of Carillon Tower Advisers, released the “Carillon Scout Mid Cap Fund” second quarter 2024 investor letter. A copy of the letter can be downloaded here. The Russell Midcap® Index fell in Q2 as investors prioritized mega-ca…",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e1651065-4061-42d1-b7c5-8802a325f6d0",
+    "urlToImage": null,
+    "publishedAt": "2024-09-10T07:11:50Z",
+    "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Soumya Eswaran",
+    "title": "What Makes AppLovin Corporation (APP) an Attractive Investment?",
+    "description": "Scout Investments, Inc, an affiliate of Carillon Tower Advisers, released the “Carillon Scout Mid Cap Fund” second quarter 2024 investor letter. A copy of...",
+    "url": "https://finance.yahoo.com/news/makes-applovin-corporation-app-attractive-071150454.html",
+    "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/c9ff7fc94cfb0f147c3098e248ebdc5d",
+    "publishedAt": "2024-09-10T07:11:50Z",
+    "content": "Scout Investments, Inc, an affiliate of Carillon Tower Advisers, released the Carillon Scout Mid Cap Fund second quarter 2024 investor letter. A copy of the letter can be downloaded here. The Russell… [+3219 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hospitality Net"
+    },
+    "author": "Ryan Carrier",
+    "title": "Empowering Hospitality Employees to Deliver Beyond Service: How Technology Enhances Staff Satisfaction and Guest Experience",
+    "description": "The hospitality industry, by its very nature, revolves around delivering exceptional guest experiences. From the moment a guest checks in to the time they depart, every interaction matters. In this pursuit of excellence, technology has emerged as a powerful a…",
+    "url": "https://www.hospitalitynet.org/opinion/4121980.html",
+    "urlToImage": "https://www.hospitalitynet.org/picture/153169570.jpg?t=1715790395",
+    "publishedAt": "2024-09-10T07:11:00Z",
+    "content": "The hospitality industry, by its very nature, revolves around delivering exceptional guest experiences. From the moment a guest checks in to the time they depart, every interaction matters. In this p… [+8091 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "ET Online",
+    "title": "Chinese radar detects mysterious bubble over Egyptian pyramids that can disrupt satellite communications",
+    "description": "Chinese scientists have detected massive plasma bubbles over the Egyptian pyramids and Midway Islands using advanced radar technology developed by the Chinese Academy of Sciences. These plasma bubbles, which interfere with satellite communications and GPS, we…",
+    "url": "https://economictimes.indiatimes.com/news/science/chinese-radar-detects-mysterious-bubble-over-egyptian-pyramids-that-can-disrupt-satellite-communications/articleshow/113215481.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-113218689,width-1200,height-630,imgsize-4844,overlay-economictimes/photo.jpg",
+    "publishedAt": "2024-09-10T07:10:49Z",
+    "content": "Finance\r\nFinancial Literacy - TDS, Budget, Income Tax Act, GST, Indirect tax\r\nBy - CA Rahul Gupta, CA with 10+ years of domain experience, trainer\r\nView Program"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Livemint"
+    },
+    "author": "Gireesh Chandra Prasad",
+    "title": "CCI sets sights on local presence as global digital economy merger deals surge",
+    "description": "Global deals need CCI approval if 10% or more of the company’s global customers are in India..Mergers valued ₹2,000 crore with significant Indian presence must also be reviewed by CCI.",
+    "url": "https://www.livemint.com/industry/cci-mergers-and-acquisitions-global-digital-economy-merger-deal-v-11725945325762.html",
+    "urlToImage": "https://www.livemint.com/lm-img/img/2024/09/10/1600x900/g3f6cb5173cfaded2a0e00aac53f292ffba91e558202cfca51ac1cbb87edc58445a95a33a00bb09f078e5e2e0caa963a57841537e0e1a41ed00700017e730535f_1280_1725950293071_1725950309277.jpg",
+    "publishedAt": "2024-09-10T07:09:40Z",
+    "content": "Antitrust watchdog, the Competition Commission of India (CCI), has tightened its grip on global mergers and acquisitions in the digital economy. New regulations, issued late Monday, mandate stricter … [+2712 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Neowin"
+    },
+    "author": "Taras Buria",
+    "title": "Specs Appeal: Comparing iPhone 16 Pro with iPhone 15 Pro and iPhone 14 Pro",
+    "description": "Here's how Apple's latest flagships, the iPhone 16 Pro and 16 Pro Max, compare to their predecessors, the iPhone 15 Pro and the iPhone 14 Pro. Read more...",
+    "url": "https://www.neowin.net/news/specs-appeal-comparing-iphone-16-pro-with-iphone-15-pro-and-iphone-14-pro/",
+    "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2024/09/1725951318_iphone_16_pro,_15_pro,_and_14_pro_story.jpg",
+    "publishedAt": "2024-09-10T07:06:01Z",
+    "content": "At the \"It's Glowtime\" event on September 9, 2024, Apple announced its latest flagship smartphones, the iPhone 16 Pro and the iPhone 16 Pro Max. Here is how the new models compare to the two previous… [+7243 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Daily Hodl"
+    },
+    "author": "Daily Hodl Staff",
+    "title": "Hedge Fund Veteran Says Crypto Facing ‘Quiet Quitting’ Crisis, Unveils Catalyst That Could Spark Altcoin Revival",
+    "description": "The crypto sector is currently enduring a “quiet quitting crisis,” according to a hedge fund and digital asset veteran. Quiet quitting, a term that was popularized in 2022, refers to employees who do the bare minimum level of work their jobs require and “quit…",
+    "url": "https://dailyhodl.com/2024/09/10/hedge-fund-veteran-says-crypto-facing-quiet-quitting-crisis-unveils-catalyst-that-could-spark-altcoin-revival/",
+    "urlToImage": "https://dailyhodl.com/wp-content/uploads/2024/09/quiet-quitting-crisis.jpg",
+    "publishedAt": "2024-09-10T07:04:19Z",
+    "content": "The crypto sector is currently enduring a “quiet quitting crisis,” according to a hedge fund and digital asset veteran.\r\nQuiet quitting, a term that was popularized in 2022, refers to employees who d… [+3439 chars]"
+  },
+  {
+    "source": {
+      "id": "financial-post",
+      "name": "Financial Post"
+    },
+    "author": "Business Wire",
+    "title": "MRM Health Appoints Grégoire Franoux as Chief Business Officer and Adds Ron Robison to its Board of Directors",
+    "description": "GHENT, Belgium — MRM Health NV, a clinical-stage biopharmaceutical company developing innovative therapeutics for inflammatory, CNS and metabolic diseases, today announced the appointment of Grégoire Franoux, M.B.A., to the newly created role of Chief Busines…",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/mrm-health-appoints-gregoire-franoux-as-chief-business-officer-and-adds-ron-robison-to-its-board-of-directors",
+    "urlToImage": null,
+    "publishedAt": "2024-09-10T07:03:27Z",
+    "content": "GHENT, Belgium MRM Health NV, a clinical-stage biopharmaceutical company developing innovative therapeutics for inflammatory, CNS and metabolic diseases, today announced the appointment of Grégoire F… [+4352 chars]"
+  },
+  {
+    "source": {
+      "id": "financial-post",
+      "name": "Financial Post"
+    },
+    "author": "GlobeNewswire",
+    "title": "Boyden France Names Global Leader, François Nouri, Partner",
+    "description": "François Brings Two Decades of Human Resources and Executive Search Experience, Effectively Aligning Top Talent with Company Culture PARIS, Sept. 10, 2024 (GLOBE NEWSWIRE) — Boyden, a premier global leadership and talent advisory firm, has named François Nour…",
+    "url": "https://financialpost.com/globe-newswire/boyden-france-names-global-leader-francois-nouri-partner",
+    "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/09/francois-nouri-headshot.jpeg",
+    "publishedAt": "2024-09-10T07:02:57Z",
+    "content": "François Brings Two Decades of Human Resources and Executive Search Experience, Effectively Aligning Top Talent with Company Culture\r\nPARIS, Sept. 10, 2024 (GLOBE NEWSWIRE) Boyden\r\n, a premier global… [+2670 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Yash Sharma",
+    "title": "India can capture world's market for hydrogen production: Nitin Gadkari",
+    "description": "Union Minister Nitin Gadkari spoke at the Society of Indian Automobile Manufacturers' annual session about India's potential in hydrogen production and commitment to reducing carbon emissions. He emphasized green hydrogen's role, technological advancements, a…",
+    "url": "https://timesofindia.indiatimes.com/auto/news/india-can-capture-worlds-market-for-hydrogen-production-gadkari/articleshow/113218078.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-113218194,width-1070,height-580,imgsize-23684,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "publishedAt": "2024-09-10T07:02:01Z",
+    "content": "Tata Curvv Coupe EV first drive review Big, stylish, loaded but better | TOI Auto"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Geeky Gadgets"
+    },
+    "author": "Roland Hutchinson",
+    "title": "Apple Intelligence: Everything You Need to Know",
+    "description": "Apple’s iPhone 16 is set to redefine the smartphone experience by integrating innovative artificial intelligence (AI) and machine learning technologies with Apple Intelligence. The video below from Apple delves into the key features of the iPhone 16 and Apple…",
+    "url": "https://www.geeky-gadgets.com/?p=437319",
+    "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2024/09/Apple-Intelligence.jpg",
+    "publishedAt": "2024-09-10T07:01:39Z",
+    "content": "Apple’s iPhone 16 is set to redefine the smartphone experience by integrating innovative artificial intelligence (AI) and machine learning technologies with Apple Intelligence. The video below from A… [+4861 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNET"
+    },
+    "author": "Adam Oram",
+    "title": "Thinnest Ever Apple Watch Series 10 Is Open for Preorders Now",
+    "description": "With a bigger screen and thinner profile, the Apple Watch Series 10 will start popping up on wrists very soon. Get all the info you need about placing preorders for the new smartwatches.",
+    "url": "https://www.cnet.com/deals/thinnest-ever-apple-watch-series-10-is-open-for-preorders-now/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/ef37a8cca2883828bda08b61f8a378d3b308147e/hub/2024/09/09/b668d9e9-59ff-47f0-8814-2899ff0c90ce/applewatchseries10.png?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2024-09-10T07:01:07Z",
+    "content": "Ten years after the original Apple Watch was unveiled, the Apple Watch Series 10 made a big splash Monday, literally, at Apple's \"Glowtime\" event, sporting a bigger screen that offers 30 percent more… [+1761 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "John Archer, Senior Contributor, \n John Archer, Senior Contributor\n https://www.forbes.com/sites/johnarcher/",
+    "title": "Sony Answers Consumer Prayers And Launches 65-Inch Bravia 9 TV In Europe",
+    "description": "You no longer have to live in the U.S. to get your hands on the most affordable version of Sony’s ground-breaking Bravia 9 TV technology.",
+    "url": "https://www.forbes.com/sites/johnarcher/2024/09/10/sony-answers-consumer-prayers-and-launches-65-inch-bravia-9-tv-in-europe/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66df6cfff81349770e38ffe4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2024-09-10T07:00:23Z",
+    "content": "Amid all the excitement surrounding Sonys announcement of its flagship Bravia 9 TVs for 2024, complete with their groundbreaking new brightness-boosting mini LED backlight technology, there was a sur… [+2959 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Insurance Journal"
+    },
+    "author": "admin",
+    "title": "Texas-Based Insurtech Sigo Seguros Raises $5.1M in Pre-Series A Funding",
+    "description": "Sigo Seguros, a Texas-based insurtech company that focuses on providing auto insurance services for immigrant and working-class communities, announced it has raised an additional $5.1 million in its pre-Series A funding round. The investment round was co-led …",
+    "url": "https://www.insurancejournal.com/news/southcentral/2024/09/10/792103.htm",
+    "urlToImage": "https://www.insurancejournal.com/img/social/opengraph/ij-social-default-1200x630.png",
+    "publishedAt": "2024-09-10T07:00:10Z",
+    "content": "Sigo Seguros, a Texas-based insurtech company that focuses on providing auto insurance services for immigrant and working-class communities, announced it has raised an additional $5.1 million in its … [+933 chars]"
+  },  
+  {
       "source": {
         "id": "wired",
         "name": "Wired"

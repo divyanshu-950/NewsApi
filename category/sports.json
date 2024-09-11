@@ -1,5 +1,330 @@
 {  "articles": [
-    {
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "ACS, Actividades de Construcción y Servicios (OTCMKTS:ACSAF) Stock Price Up 4.4%",
+    "description": "Shares of ACS, Actividades de Construcción y Servicios, S.A. (OTCMKTS:ACSAF – Get Free Report) shot up 4.4% on Monday . The stock traded as high as C$44.25 and last traded at C$44.25. 179 shares traded hands during mid-day trading, a decline of 78% from the a…",
+    "url": "https://www.etfdailynews.com/2024/09/10/acs-actividades-de-construccion-y-servicios-otcmktsacsaf-stock-price-up-4-4/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/acs-actividades-de-construcción-y-servicios-sa-logo-1200x675.png?v=20230619104141&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-10T07:12:50Z",
+    "content": "Shares of ACS, Actividades de Construcción y Servicios, S.A. (OTCMKTS:ACSAF – Get Free Report) shot up 4.4% on Monday . The stock traded as high as C$44.25 and last traded at C$44.25. 179 shares trad… [+1312 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PhoneArena"
+    },
+    "author": "Polina Kovalakova",
+    "title": "Samsung's budget Galaxy A25 5G drops to a new best price on Amazon",
+    "description": "This Amazon deal makes the budget-friendly Galaxy A25 5G even more affordable. Get it at its new best price!",
+    "url": "https://www.phonearena.com/news/galaxy-a25-5g-new-best-price-amazon_id162380",
+    "urlToImage": "https://m-cdn.phonearena.com/images/article/162380-wide-two_1200/Samsungs-budget-Galaxy-A25-5G-drops-to-a-new-best-price-on-Amazon.jpg",
+    "publishedAt": "2024-09-10T07:12:10Z",
+    "content": "Which Samsung phone under $300 has a Super AMOLED display and a respectable main camera? The Galaxy A25 5G, of course! This fella is one of the best budget phones, and guess what? It's now cheaper th… [+2243 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Slashdot.org"
+    },
+    "author": "feedfeeder",
+    "title": "After huge night, Jordan Mason lets cat out of bag on Christian McCaffrey’s true status - NBC Sports",
+    "description": "After huge night, Jordan Mason lets cat out of bag on Christian McCaffrey’s true statusNBC Sports McCaffrey sits, Mason stars for dominant 49ersESPN 49ers defensive leader expected breakout game from unheralded RBYahoo Sports Jordan Mason's 147-yard night pow…",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=174964763",
+    "urlToImage": null,
+    "publishedAt": "2024-09-10T07:12:07Z",
+    "content": "Check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your GitHub releases to SourceForge quickly a… [+228 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Football Faithful"
+    },
+    "author": "The Football Faithful",
+    "title": "England vs Finland – Match Preview and Team News",
+    "description": "England aim to build on a perfect start to their Nations League campaign when Finland are the visitors to Wembley in the second round of fixtures.It was a winning start for Lee Carsley as interim mana...",
+    "url": "https://thefootballfaithful.com/england-vs-finland-match-preview-and-team-news/",
+    "urlToImage": "https://media.zenfs.com/en/the_football_faithful_articles_458/79046f8e34fceb4b2caca822b74792e4",
+    "publishedAt": "2024-09-10T07:12:00Z",
+    "content": "England vs Finland Match Preview and Team News\r\nEngland aim to build on a perfect start to their Nations League campaign when Finland are the visitors to Wembley in the second round of fixtures.\r\nIt … [+3324 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Sky.com"
+    },
+    "author": null,
+    "title": "NFL team condemns 'violent' police after bodycam footage released",
+    "description": "The Miami Dolphins NFL team has condemned police conduct towards their player Tyreek Hill as \"violent\", \"maddening\" and \"despicable\".",
+    "url": "https://news.sky.com/story/tyreek-hills-nfl-team-the-miami-dolphins-condemns-violent-police-after-bodycam-footage-released-13212194",
+    "urlToImage": "https://e3.365dm.com/24/09/1600x900/skynews-tyreek-hill-nfl-us_6680809.jpg?20240910082214",
+    "publishedAt": "2024-09-10T07:12:00Z",
+    "content": "The Miami Dolphins NFL team has condemned police conduct towards their player Tyreek Hill as \"violent\", \"maddening\" and \"despicable\".  \r\nBodycam footage of the incident released on Monday showed offi… [+2611 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "seattlepi.com"
+    },
+    "author": "By STEPHEN WADE and YURI KAGEYAMA, Associated Press",
+    "title": "Top Olympic sponsor Panasonic is ending its contract with the IOC",
+    "description": "Olympic sponsor Panasonic is terminating its contract with the IOC at the end of the year. Panasonic is one of 15 companies that are so-called TOP sponsors for the International Olympic Committee. The company made the announcement Tuesday. It’s not known the …",
+    "url": "https://www.seattlepi.com/sports/article/top-olympic-sponsor-panasonic-is-ending-its-19754131.php",
+    "urlToImage": "https://s.hdnux.com/photos/01/42/61/10/25891391/3/rawImage.jpg",
+    "publishedAt": "2024-09-10T07:06:26Z",
+    "content": "This photo shows the headquarters of Panasonic in Kadoma, Osaka prefecture, western Japan, on Nov. 7, 2017. (Kyodo News via AP)/AP\r\nTOKYO (AP) Olympic sponsor Panasonic is terminating its contract wi… [+3514 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO"
+    },
+    "author": "Amondi Aroko",
+    "title": "Tanzanian Singer Prof Jay Shuts Down Death Rumours, Maintains He's in Good Health: \"Niko Vizuri\"",
+    "description": "Tanzanian singer Prof Jay has shut down claims that he was dead. He confirmed that he was alive and in good health and faulted people who started the vile rumours.",
+    "url": "https://www.tuko.co.ke/entertainment/celebrities/561542-tanzanian-singer-prof-jay-shuts-death-rumours-maintains-s-good-health-niko-vizuri/",
+    "urlToImage": "https://cdn.tuko.co.ke/images/1200x675/6976caa6733b2bfe.jpeg?v=1",
+    "publishedAt": "2024-09-10T07:03:11Z",
+    "content": "<ul><li>Legendary Tanzanian singer Prof Jay had been trending on social media after rumours emerged that he had died</li><li>However, the musician came out to shut down those claims and maintained th… [+2326 chars]"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "STEPHEN WADE Associated Press, YURI KAGEYAMA Associated Press",
+    "title": "Top Olympic sponsor Panasonic is ending its contract with the IOC",
+    "description": "Olympic sponsor Panasonic is terminating its contract with the IOC at the end of the year",
+    "url": "https://abcnews.go.com/Business/wireStory/top-olympic-sponsor-panasonic-ending-contract-ioc-113542153",
+    "urlToImage": "https://i.abcnewsfe.com/a/8f219b24-0fc3-409d-bdb0-697b6b1a484e/wirestory_a236dfba1bba3aded2a34b6494f2b38d_16x9.jpg?w=1600",
+    "publishedAt": "2024-09-10T07:02:29Z",
+    "content": "TOKYO -- Olympic sponsor Panasonic is terminating its contract with the IOC at the end of the year, the company said in a statement Tuesday.\r\nPanasonic is one of 15 companies that are so-called TOP s… [+3140 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Cycling Weekly"
+    },
+    "author": "Stephen Shrubsall",
+    "title": "I’m a torrential sweater - why do I leak so much, and what does it mean for performance?",
+    "description": "Perturbed by his own torrential sweating, Steve Shrubsall goes on a hunt for the truth about how perspiration affects performance at the pedals",
+    "url": "https://www.cyclingweekly.com/fitness/im-a-torrential-sweater-why-do-i-leak-so-much-and-what-does-it-mean-for-performance",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/vCHb3ggFzp8o7vRU3nQvJe-1200-80.jpg",
+    "publishedAt": "2024-09-10T07:01:53Z",
+    "content": "Two Wattbike Atoms, two iPhones, three pairs of bone- conducting headphones, a pair of Nissan Qashqai keys and about £50 in cash. No, I haven’t just had a happy half hour in Cash Converters; these ar… [+10060 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NPR"
+    },
+    "author": "Brittany Luse",
+    "title": "The SMACKDOWN: Gucci Mane vs. Angela Davis vs. Sun Ra",
+    "description": "Who will win today's cage match?Welcome to The Smackdown! For the next several weeks Brittany is hosting debates in cities and regions across the United States to find out who and what are the most influential things from those places. This episode Brittany l…",
+    "url": "https://www.npr.org/2024/09/10/1198684048/its-been-a-minute-birmingham-smackdown",
+    "urlToImage": "https://media.npr.org/assets/img/2024/09/09/smackdown-birmingham_wide-6e6603ef099025ff5cb5306cb95b7a208d8a04a5.jpg?s=1400&c=100&f=jpeg",
+    "publishedAt": "2024-09-10T07:00:19Z",
+    "content": "16th Street Baptist Church in Birmingham, Alabama. Sun Ra. Gucci Mane. Angela Davis.\r\nGetty Images\r\nWho will win today's cage match?\r\nWelcome to The Smackdown! For the next several weeks Brittany is … [+639 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Skyview Innovations",
+    "title": "SkyView Innovations Acquires OMM",
+    "description": "Experiential firm with thriving creative digital agency, sport technology and large-format print divisions is first of many acquisitions in strategy to create a global leader in spatial computing, immersive experiences and artificial intelligence Experiential…",
+    "url": "https://www.globenewswire.com/news-release/2024/09/10/2943380/0/en/SkyView-Innovations-Acquires-OMM.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/69a590d6-04d8-4994-8593-7bac9a6262b7",
+    "publishedAt": "2024-09-10T07:00:00Z",
+    "content": "MORGANVILLE, N.J., and LONDON, Sept. 10, 2024 (GLOBE NEWSWIRE) -- via IBN SkyView Innovations, an award-winning provider of spatial computing and immersive solutions, today announced its acquisition … [+5590 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ExchangeWire"
+    },
+    "author": "Aimee Newell Tarín",
+    "title": "Fubo Launches New CTV Ad Format; Roku Enters UK Retail Media Partnership; Meta’s Latest EU Compliance Updates",
+    "description": "Today’s news: Fubo Launches New CTV Ad Format; Roku Enters UK Retail Media Partnership; Meta’s Latest EU Compliance Updates \nLeading sports streaming platform Fubo has launched a new CTV ad format for branded video content – The Triple Play – bringing [...]\nT…",
+    "url": "https://www.exchangewire.com/blog/2024/09/10/fubo-launches-new-ctv-ad-format-roku-enters-uk-retail-media-partnership-metas-latest-eu-compliance-updates/",
+    "urlToImage": "https://cdn.exchangewire.com/wp-content/uploads/2024/09/tvs333-crop.jpg",
+    "publishedAt": "2024-09-10T07:00:00Z",
+    "content": "Todays news: Fubo Launches New CTV Ad Format; Roku Enters UK Retail Media Partnership; Metas Latest EU Compliance Updates \r\nLeading sports streaming platform Fubo has launched a new CTV ad format for… [+1965 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "C21media.net"
+    },
+    "author": "jordanpinto871443",
+    "title": "Canadian news giant Postmedia partners Contend to set up studio division",
+    "description": "Canadian news media company Postmedia Network is launching a studio division through a partnership with LA-headquartered content firm Contend. The companies said they are developing a slate of original...",
+    "url": "https://www.c21media.net/news/canadian-news-giant-postmedia-partners-contend-to-set-up-studio-division/",
+    "urlToImage": "https://cdn.c21media.net/wp-content/uploads/2024/09/erika-tustin-feat.jpg",
+    "publishedAt": "2024-09-10T06:52:45Z",
+    "content": "Canadian news media company Postmedia Network is launching a studio division through a partnership with LA-headquartered content firm Contend.\r\nErika Tustin\r\nThe companies said they are developing a … [+1413 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hurriyet Daily News"
+    },
+    "author": "hurriyetdailynews.com",
+    "title": "Scientists develop AI system to monitor athlete health in real time",
+    "description": "Scientists at Yıldız Technical University (YTU) have developed a cutting-edge system that leverages artificial intelligence (AI) to monitor and assess the performance of athletes in real time.",
+    "url": "https://www.hurriyetdailynews.com/scientists-develop-ai-system-to-monitor-athlete-health-in-real-time-200398",
+    "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/66dfeca281033b9ea3d77c76.jpg",
+    "publishedAt": "2024-09-10T06:52:21Z",
+    "content": "ISTANBUL\r\nScientists at Yldz Technical University (YTU) have developed a cutting-edge system that leverages artificial intelligence (AI) to monitor and assess the performance of athletes in real time… [+1653 chars]"
+  },
+  {
+    "source": {
+      "id": "financial-post",
+      "name": "Financial Post"
+    },
+    "author": "The Associated Press",
+    "title": "Top Olympic sponsor Panasonic is ending its contract with the IOC",
+    "description": "TOKYO (AP) — Olympic sponsor Panasonic is terminating its contract with the IOC at the end of the year, the company said in a statement Tuesday. Panasonic is one of 15 companies that are so-called TOP sponsors for the International Olympic Committee. It’s not…",
+    "url": "https://financialpost.com/pmn/top-olympic-sponsor-panasonic-is-ending-its-contract-with-the-ioc",
+    "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/09/tkmy804-the-associated-press.jpg",
+    "publishedAt": "2024-09-10T06:52:14Z",
+    "content": "TOKYO (AP) Olympic sponsor Panasonic is terminating its contract with the IOC at the end of the year, the company said in a statement Tuesday.\r\nPanasonic is one of 15 companies that are so-called TOP… [+3137 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Slashdot.org"
+    },
+    "author": "feedfeeder",
+    "title": "'No excuses': Rodgers rusty, Jets open with loss - ESPN",
+    "description": "'No excuses': Rodgers rusty, Jets open with lossESPN Cameras Caught Aaron Rodgers Totally Ignoring His Offensive CoordinatorSports Illustrated 49ers turn Breece Hall fumble into 3-0 leadYahoo Sports Cameras Capture Aaron Rodgers’ Dismissive Behavior Toward Je…",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=174964689",
+    "urlToImage": null,
+    "publishedAt": "2024-09-10T06:52:08Z",
+    "content": "Check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your GitHub releases to SourceForge quickly a… [+228 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Ibtimes.com.au"
+    },
+    "author": "Robin MILLARD",
+    "title": "Centuries-old Swiss Sport Hornussen Swings Into Digital Age",
+    "description": "Hornussen, a centuries-old Swiss sport where a puck is lashed with a stick sending it flying at speeds of up to 300 kilometres per hour, is embracing modernity with each shot now recorded live via a smartphone app and clips shared on TikTok.",
+    "url": "https://www.ibtimes.com.au/centuries-old-swiss-sport-hornussen-swings-digital-age-1851391",
+    "urlToImage": "https://d.ibtimes.com.au/en/full/1859266/stefan-studer-sports-top-player-looks-his-shot-after-hitting-hornuss.jpg",
+    "publishedAt": "2024-09-10T06:51:11Z",
+    "content": "Hornussen, a centuries-old Swiss sport where a puck is lashed with a stick sending it flying at speeds of up to 300 kilometres per hour, is embracing modernity with each shot now recorded live via a … [+4056 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "International Business Times"
+    },
+    "author": "Robin MILLARD",
+    "title": "Centuries-old Swiss Sport Hornussen Swings Into Digital Age",
+    "description": "Hornussen, a centuries-old Swiss sport where a puck is lashed with a stick sending it flying at speeds of up to 300 kilometres per hour, is embracing modernity with each shot now recorded live via a smartphone app and clips shared on TikTok.",
+    "url": "https://www.ibtimes.com/centuries-old-swiss-sport-hornussen-swings-digital-age-3742647",
+    "urlToImage": "https://d.ibtimes.com/en/full/4546785/stefan-studer-sports-top-player-looks-his-shot-after-hitting-hornuss.jpg",
+    "publishedAt": "2024-09-10T06:51:08Z",
+    "content": "Hornussen, a centuries-old Swiss sport where a puck is lashed with a stick sending it flying at speeds of up to 300 kilometres per hour, is embracing modernity with each shot now recorded live via a … [+4056 chars]"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "STEPHEN WADE Associated Press, YURI KAGEYAMA Associated Press",
+    "title": "Top Olympic sponsor Panasonic is ending its contract with the IOC",
+    "description": "Olympic sponsor Panasonic is terminating its contract with the IOC at the end of the year",
+    "url": "https://abcnews.go.com/Sports/wireStory/top-olympic-sponsor-panasonic-ending-contract-ioc-113541973",
+    "urlToImage": "https://i.abcnewsfe.com/a/8f219b24-0fc3-409d-bdb0-697b6b1a484e/wirestory_a236dfba1bba3aded2a34b6494f2b38d_16x9.jpg?w=1600",
+    "publishedAt": "2024-09-10T06:48:16Z",
+    "content": "Olympic sponsor Panasonic is terminating its contract with the IOC at the end of the year, the company said in a statement Tuesday.\r\nPanasonic is one of 15 companies that are so-called TOP sponsors f… [+2890 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Skift"
+    },
+    "author": "Skift",
+    "title": "Apple’s New iPhones, Greece vs. Overtourism and Travel’s Popular Experiences",
+    "description": "Today's podcast looks at what the new iPhone offers travelers, how Greece is tackling over tourism, and ranking top travel experiences. -Rashaad Jorden",
+    "url": "http://skift.com/2024/09/10/apples-new-iphones-greece-vs-overtourism-and-travels-popular-experiences/",
+    "urlToImage": "https://skift.com/wp-content/uploads/2021/06/IMG_9505-scaled.jpeg",
+    "publishedAt": "2024-09-10T06:47:30Z",
+    "content": "Good morning from Skift. Its Tuesday, September 10, and heres what you need to know about the business of travel today.\r\nApple Podcasts | Spotify | YouTube | RSS\r\nApple revealed more details on Monda… [+1956 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Gambling.com Group (NASDAQ:GAMB) Stock Price Up 1.2%",
+    "description": "Gambling.com Group Limited (NASDAQ:GAMB – Get Free Report)’s stock price traded up 1.2% during mid-day trading on Monday . The stock traded as high as $10.19 and last traded at $10.12. 129,287 shares were traded during mid-day trading, a decline of 24% from t…",
+    "url": "https://www.etfdailynews.com/2024/09/10/gambling-com-group-nasdaqgamb-stock-price-up-1-2/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/gamblingcom-group-limited-logo-1200x675.jpg?v=20240529085020&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-10T06:44:51Z",
+    "content": "Gambling.com Group Limited (NASDAQ:GAMB – Get Free Report)’s stock price traded up 1.2% during mid-day trading on Monday . The stock traded as high as $10.19 and last traded at $10.12. 129,287 shares… [+4095 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Biztoc.com"
+    },
+    "author": "asia.nikkei.com",
+    "title": "China's 7-0 soccer humiliation against Japan reflects deep problems",
+    "description": "LONDON -- After a successful Olympic summer in which their athletes brought home 40 gold medals, Chinese sports fans last week had to digest an evening of humiliation when the national soccer team lost 7-0 to Japan in 2026 World Cup qualification. Despite amb…",
+    "url": "https://biztoc.com/x/886f4dd3acd88f28",
+    "urlToImage": "https://biztoc.com/cdn/886f4dd3acd88f28_s.webp",
+    "publishedAt": "2024-09-10T06:32:09Z",
+    "content": "LONDON -- After a successful Olympic summer in which their athletes brought home 40 gold medals, Chinese sports fans last week had to digest an evening of humiliation when the national soccer team lo… [+141 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hurriyet Daily News"
+    },
+    "author": "hurriyetdailynews.com",
+    "title": "Students back to school as new academic year begins",
+    "description": "Around 20 million students and 1.2 million teachers across Türkiye returned to their classrooms after a three-month summer break, eager to start the new academic year with fresh aspirations and renewed energy.",
+    "url": "https://www.hurriyetdailynews.com/students-back-to-school-as-new-academic-year-begins-200392",
+    "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/66dfe68f4f063a9b8326b644.jpg",
+    "publishedAt": "2024-09-10T06:26:27Z",
+    "content": "ANKARA\r\nAround 20 million students and 1.2 million teachers across Türkiye returned to their classrooms after a three-month summer break, eager to start the new academic year with fresh aspirations a… [+2736 chars]"
+  },  
+  {
       "source": {
         "id": null,
         "name": "Yahoo Entertainment"

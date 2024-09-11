@@ -1,4 +1,329 @@
 { "articles": [
+  {
+    "source": {
+      "id": "abc-news-au",
+      "name": "ABC News (AU)"
+    },
+    "author": "Floss Adams and Isla Evans",
+    "title": "Surfers stunned as plane door falls from sky and narrowly misses fisher on NSW beach",
+    "description": "Locals who watched on in disbelief as the door from a small airplane plummeted towards a Far South Coast beach say it was \"a crazy situation to witness\".",
+    "url": "https://www.abc.net.au/news/2024-09-10/plane-door-falls-from-sky-missing-fisherman-south-broulee-beach/104331030",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/bce6c2001a4e2ba8acd79a6cef0c845b?impolicy=wcms_watermark_news&cropH=1515&cropW=2694&xPos=0&yPos=31&width=862&height=485&imformat=generic",
+    "publishedAt": "2024-09-10T07:05:22Z",
+    "content": "Locals who watched on in disbelief as the door from a small airplane plummeted towards a Far South Coast beach say it was \"a crazy situation to witness\".\r\nMurphy Shaw was enjoying a morning surf at S… [+3150 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Travelingformiles.com"
+    },
+    "author": "Traveling For Miles",
+    "title": "Cathay Pacific now offers complimentary wifi in Business Class",
+    "description": "Cathay Pacific has offered free wifi to First Class passengers since 2022, but as it doesn't really fly very many First Class passengers any more, that hasn't been much of a concession from the airline. I'm sure its income statement has been able to handle th…",
+    "url": "https://travelingformiles.com/cathay-pacific-now-offers-complimentary-wifi-in-business-class/",
+    "urlToImage": "https://travelingformiles.com/wp-content/uploads/2021/08/cathay-pacific-a330-business-class-741-1.jpg",
+    "publishedAt": "2024-09-10T07:04:35Z",
+    "content": "TravelingForMiles.com may receive commission from card issuers. Some or all of the card offers that appear on TravelingForMiles.com are from advertisers and may impact how and where card products app… [+2792 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "The Canadian Press",
+    "title": "Spanish prime minister discusses Ukraine and trade during meeting with Xi in China",
+    "description": "BEIJING (AP) — Spanish Prime Minister Pedro Sánchez discussed the conflicts in Ukraine and Gaza and the need for “close, deep and balanced relations” between Spain and China during a meeting with Chinese leader Xi Jinping, the Spanish government said.",
+    "url": "https://ca.finance.yahoo.com/news/spanish-prime-minister-visits-china-095630534.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5KYSU0IJWTLb_AluUcYR0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/cp_finance_889/be4e6bbf86307ea10803d8b36cc809ae",
+    "publishedAt": "2024-09-10T07:04:07Z",
+    "content": "BEIJING (AP) Spanish Prime Minister Pedro Sánchez discussed the conflicts in Ukraine and Gaza and the need for close, deep and balanced relations between Spain and China during a meeting with Chinese… [+2919 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Telecomunicacionesyperiodismo.com"
+    },
+    "author": "Joan Francesc Fondevila",
+    "title": "¡Más de 200 artículos científicos en 107 revistas diferentes!",
+    "description": "Blog científico sobre periodismo y telecomunicaciones que analiza la Sociedad de la Banda Ancha",
+    "url": "http://www.telecomunicacionesyperiodismo.com/2024/09/mas-de-200-articulos-cientificos-en-107.html",
+    "urlToImage": null,
+    "publishedAt": "2024-09-10T07:04:00Z",
+    "content": "Os comparto los artículos científicos\nindexados y/o de doble peer review\nque ya he tenido el honor de publicar. Hasta julio de 2024, son 239, distribuidos\nen 107 revistas científicas diferentes. He a… [+5129 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Business Standard"
+    },
+    "author": "Capital Market",
+    "title": "GST council cuts tax on select cancer medications, namkeens and shared helicopter rides",
+    "description": "Powered by Capital Market - Live News",
+    "url": "https://www.business-standard.com/markets/capital-market-news/gst-council-cuts-tax-on-select-cancer-medications-namkeens-and-shared-helicopter-rides-124091000525_1.html",
+    "urlToImage": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_685x385.jpg",
+    "publishedAt": "2024-09-10T07:04:00Z",
+    "content": "The Goods and Services Tax (GST) Council's meeting on Monday announced some significant tax cuts to make essential goods and services more affordable. The Council cut GST on select cancer medications… [+691 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+  },
+  {
+    "source": {
+      "id": "financial-post",
+      "name": "Financial Post"
+    },
+    "author": "Business Wire",
+    "title": "MRM Health Appoints Grégoire Franoux as Chief Business Officer and Adds Ron Robison to its Board of Directors",
+    "description": "GHENT, Belgium — MRM Health NV, a clinical-stage biopharmaceutical company developing innovative therapeutics for inflammatory, CNS and metabolic diseases, today announced the appointment of Grégoire Franoux, M.B.A., to the newly created role of Chief Busines…",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/mrm-health-appoints-gregoire-franoux-as-chief-business-officer-and-adds-ron-robison-to-its-board-of-directors",
+    "urlToImage": null,
+    "publishedAt": "2024-09-10T07:03:27Z",
+    "content": "GHENT, Belgium MRM Health NV, a clinical-stage biopharmaceutical company developing innovative therapeutics for inflammatory, CNS and metabolic diseases, today announced the appointment of Grégoire F… [+4352 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Business Standard"
+    },
+    "author": "Capital Market",
+    "title": "Nifty above 25,000 level; pharma shares rises; VIX tumbles 4.40%",
+    "description": "At 12:30 IST, the barometer index, the S&P BSE Sensex, gained 350.09 points or 0.44% to 81,916.18. The Nifty 50 index added 104.15 points or 0.42% to 25,040.55.",
+    "url": "https://www.business-standard.com/markets/capital-market-news/nifty-above-25-000-level-pharma-shares-rises-vix-tumbles-4-40-124091000526_1.html",
+    "urlToImage": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_685x385.jpg",
+    "publishedAt": "2024-09-10T07:03:00Z",
+    "content": "The domestic equity benchmarks traded with decent gains in early afternoon trade. The Nifty scaled above the 25,000 level after hitting the days low of 24,896.80 in morning trade. Pharma shares jumpe… [+3272 chars]"
+  },
+  {
+    "source": {
+      "id": "financial-post",
+      "name": "Financial Post"
+    },
+    "author": "GlobeNewswire",
+    "title": "Boyden France Names Global Leader, François Nouri, Partner",
+    "description": "François Brings Two Decades of Human Resources and Executive Search Experience, Effectively Aligning Top Talent with Company Culture PARIS, Sept. 10, 2024 (GLOBE NEWSWIRE) — Boyden, a premier global leadership and talent advisory firm, has named François Nour…",
+    "url": "https://financialpost.com/globe-newswire/boyden-france-names-global-leader-francois-nouri-partner",
+    "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/09/francois-nouri-headshot.jpeg",
+    "publishedAt": "2024-09-10T07:02:57Z",
+    "content": "François Brings Two Decades of Human Resources and Executive Search Experience, Effectively Aligning Top Talent with Company Culture\r\nPARIS, Sept. 10, 2024 (GLOBE NEWSWIRE) Boyden\r\n, a premier global… [+2670 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lalibre.be"
+    },
+    "author": "Valérie Dupont",
+    "title": "Quand les Nonna se transforment en influenceuses 4.0 de la cuisine italienne: \"Ce qui plaît beaucoup ce sont les 'réels'\"",
+    "description": "Depuis la pandémie de Covid-19, les grands-mères italiennes ont envahi les réseaux sociaux au point de devenir un véritable phénomène de société et, pour certaines, de développer une activité commerciale. ...",
+    "url": "https://www.lalibre.be/international/europe/2024/09/10/quand-les-nonna-se-transforment-en-influenceuses-40-de-la-cuisine-italienne-ce-qui-plait-beaucoup-ce-sont-les-reels-5NPYMFNFVRD7VDDEATDF3U3XHQ/",
+    "urlToImage": "https://www.lalibre.be/resizer/v2/CNLZ4ZN23FELJPIWKDIUCY7EHM.jpg?auth=c1eed5412d8a55645ae5edd76ba3435caced6503f47bfcfb5accff7a47b4130a&width=1200&height=630&quality=85&focal=960%2C540&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2F3R4IDPARFVEO3L2LC5OCCXQ5RM.png%3A100%3A0%2C557",
+    "publishedAt": "2024-09-10T07:01:20Z",
+    "content": "Nonna Iside n'a jamais vraiment quitté Bevagna où elle a élevé ses trois enfants, c'est d'ailleurs Aristide son fils aîné qui s'occupe de la filmer. \"Bonjour à tous, aujourd'hui Nonna Iside va prépar… [+4457 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Amyporterfield.com"
+    },
+    "author": "Amy",
+    "title": "#713: Digital Course Doubt: Do I Know How to Teach My Content?",
+    "description": "Listen on…     My favorite strategies for teaching high quality content in the quickest, most effective way possible (using the information you already know!) Ready to kickstart your digital course journey? Join me in my Course Confident Bootcamp!  Question! …",
+    "url": "https://www.amyporterfield.com/2024/09/713/",
+    "urlToImage": "https://www.amyporterfield.com/wp-content/uploads/2024/09/OMME_713_SocialShare.png",
+    "publishedAt": "2024-09-10T07:01:00Z",
+    "content": "Listen on…\r\n   \r\nReady to kickstart your digital course journey? Join me in my Course Confident Bootcamp! \r\nQuestion! Would you rather spend hours working through endless modules in a digital course … [+2108 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Variety"
+    },
+    "author": "Patrick Frater",
+    "title": "Australia Proposing to Ban Children From Social Media, Joins Wave of Asian Government Crackdowns on Platforms",
+    "description": "The Australian federal government said Tuesday that it will introduce legislation this year that bans children from accessing social media. The exact age has yet to be determined. The plan, announced by Prime Minister Anthony Albanese, aligns with moves by ot…",
+    "url": "https://variety.com/2024/digital/news/australia-ban-children-social-media-1236139196/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2024/09/Anthony-Albanese-GettyImages-2152971986-res.jpg?w=1000&h=563&crop=1",
+    "publishedAt": "2024-09-10T07:01:00Z",
+    "content": "The Australian federal government said Tuesday that it will introduce legislation this year that bans children from accessing social media. The exact age has yet to be determined.\r\nThe plan, announce… [+5805 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Dramabeans.com"
+    },
+    "author": "quirkycase",
+    "title": "Good Partner: Episodes 12-13",
+    "description": "This week takes a dark turn with a case that focuses on cruel abuse and the ways wealth and power can drown out a victim’s cries for help. There’s an infuriatingly high bar for proving abuse as a reason for divorce, leaving many victims trapped with no protec…",
+    "url": "https://www.dramabeans.com/2024/09/good-partner-episodes-12-13/",
+    "urlToImage": "https://d263ao8qih4miy.cloudfront.net/wp-content/uploads/2024/09/GP_wk7_16.jpg",
+    "publishedAt": "2024-09-10T07:00:46Z",
+    "content": "Good Partner: Episodes 12-13\r\nThis week takes a dark turn with a case that focuses on cruel abuse and the ways wealth and power can drown out a victims cries for help. Theres an infuriatingly high ba… [+8571 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Marketingoops.com"
+    },
+    "author": "Marketing Oops!",
+    "title": "ผ่าแนวคิด N Health ชูจุดเด่นเน้นมาตรฐาน และประสิทธิภาพการให้บริการด้านสุขภาพ สร้างความได้เปรียบให้แก่โรงพยาบาล และสุขภาพของคนไทย ในแบบ Preventive Healthcare",
+    "description": "N Health ธุรกิจให้บริการด้านสุขภาพสามารถสร้างการเติบโตได้ ด้วยกลยุทธ์การขายที่เน้นการสร้างคุณค่าให้กับลูกค้าและบริการที่ครอบคลุม กลยุทธ์การขายจึงเป็นหัวใจสำคัญในการสร้างการเติบโตให้กับธุรกิจ N Health โดย คุณ อมราวดี ณ ลำปาง General Manager of Business Solutio…",
+    "url": "https://www.marketingoops.com/exclusive/interview-exclusive/n-health-providing-medical-support-services-in-this-era/",
+    "urlToImage": "https://cdn.marketingoops.com/wp-content/uploads/2024/09/N-Health-Preventive-Healthcare.jpg",
+    "publishedAt": "2024-09-10T07:00:45Z",
+    "content": "N Health N Health General Manager of Business Solutions (N Health) N Health \r\nSilver Age \r\n Telemedicine Digital Healthcare \r\n Healthcare \r\n(Integrated Diagnostic Business IDB) Value Base Healthcare … [+438 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Insurance Journal"
+    },
+    "author": "Admin",
+    "title": "Residents in Louisiana City Still Recovering From 2020 Hurricanes",
+    "description": "LAKE CHARLES, La. (AP) — Every other day Lois Malvo waits for her son to bring six buckets of water from a spigot in the backyard. He then bathes his 78-year-old mother using water heated on the stove and washes …",
+    "url": "https://www.insurancejournal.com/news/southcentral/2024/09/10/792100.htm",
+    "urlToImage": "https://www.insurancejournal.com/app/uploads/2020/10/hurricane-delta-louisiana-ap-580x387.jpg",
+    "publishedAt": "2024-09-10T07:00:21Z",
+    "content": "LAKE CHARLES, La. (AP) Every other day Lois Malvo waits for her son to bring six buckets of water from a spigot in the backyard. He then bathes his 78-year-old mother using water heated on the stove … [+6888 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "HuffPost"
+    },
+    "author": "Lauren Burwell",
+    "title": "Want To Whiten Your Teeth? Watch Out For This Major Scam",
+    "description": "Three licensed dentists share why you should approach teeth whitening businesses with caution.",
+    "url": "https://www.huffpost.com/entry/unlicensed-teeth-whitening-dangers_l_66d1ece8e4b0c8d61a38c392",
+    "urlToImage": "https://img.huffingtonpost.com/asset/66d1fd1d2200003200bf3555.jpeg?ops=1200_630",
+    "publishedAt": "2024-09-10T07:00:13Z",
+    "content": "Thanks to a recent media spotlight on veneer techs, many illegal businesses offering non-prep veneer services have closed up shop. However, some have transitioned into offering another service typica… [+11699 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Livemint"
+    },
+    "author": "Rahul Matthan",
+    "title": "Thank digital tools for small businesses going formal on their own",
+    "description": "We need to lower barriers, align benefits and offer tax gains so that businesses are incentivized to go formal. Ultimately, however, it will be for small and medium enterprises (SMEs) to realize the benefits of doing so.",
+    "url": "https://www.livemint.com/opinion/columns/thank-digital-tools-for-small-businesses-going-formal-on-their-own-digital-public-infrastructure-formalization-tax-gst-11725881660755.html",
+    "urlToImage": "https://www.livemint.com/lm-img/img/2024/09/09/1600x900/India-s-DPI-approach-uniquely-juxtaposes-technolog_1685470128674_1725882363127.jpg",
+    "publishedAt": "2024-09-10T07:00:07Z",
+    "content": "Despite all that has been said about the success of Indias digital transformation, questions are still being asked as to whether the digital public infrastructure (DPI) we are so proud of actually re… [+5238 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "AbbeyCross",
+    "title": "Wise joins AbbeyCross ABX Platform to bring greater connectivity to global FX payments",
+    "description": "London / New York, Sept. 10, 2024 (GLOBE NEWSWIRE) -- AbbeyCross, the platform focused on improving connectivity and access in global FX payments announced today that Wise Platform, Wise’s global payments infrastructure for banks and global enterprises, has j…",
+    "url": "https://www.globenewswire.com/news-release/2024/09/10/2943379/0/en/Wise-joins-AbbeyCross-ABX-Platform-to-bring-greater-connectivity-to-global-FX-payments.html",
+    "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/9995a5f6-5ffc-4c93-a179-4ff5682d297d",
+    "publishedAt": "2024-09-10T07:00:00Z",
+    "content": "London / New York, Sept. 10, 2024 (GLOBE NEWSWIRE) -- AbbeyCross, the platform focused on improving connectivity and access in global FX payments announced today that Wise Platform, Wises global paym… [+4656 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "SPHERICAL INSIGHTS LLP",
+    "title": "Global Green Cardamom Market Size To Worth USD 1351.6 Million By 2033 | CAGR of 5.25%",
+    "description": "The Global Green Cardamom Market Size was Valued at USD 810.21 Million in 2023 and the Worldwide Green Cardamom Market Size is Expected to Reach USD 1351.6 Million by 2033, according to a research report published by Spherical Insights & Consulting. Companies…",
+    "url": "https://www.globenewswire.com/news-release/2024/09/10/2943382/0/en/Global-Green-Cardamom-Market-Size-To-Worth-USD-1351-6-Million-By-2033-CAGR-of-5-25.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/b27a94e8-407e-46ae-a5c2-47bb2a1c8a2e",
+    "publishedAt": "2024-09-10T07:00:00Z",
+    "content": "New York, United States , Sept. 10, 2024 (GLOBE NEWSWIRE) -- The Global Green Cardamom Market Size is to Grow from USD 810.21 Million in 2023 to USD 1351.6 Million by 2033, at a Compound Annual Growt… [+10642 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Rigzone"
+    },
+    "author": "Paul Anderson",
+    "title": "CCUS Potential of Vietnam Coal Plants to be Studied",
+    "description": "'This is the first carbon capture study to be conducted on coal-fired power plants in Vietnam and its findings can help define the development of our national CCUS roadmap and legal framework'.",
+    "url": "https://www.rigzone.com/news/ccus_potential_of_vietnam_coal_plants_to_be_studied-10-sep-2024-178047-article/",
+    "urlToImage": "https://images.rigzone.com/images/news/articles/CCUS-Potential-of-Vietnam-Coal-Plants-to-be-Studied-178047-582x327.png",
+    "publishedAt": "2024-09-10T07:00:00Z",
+    "content": "Critical infrastructure solutions specialist Black &amp; Veatch is looking into the possibility of deploying carbon capture, utilization, and storage (CCUS) tech in coal-fired power plants across Vie… [+1834 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Inside Higher Ed"
+    },
+    "author": "Josh Moody",
+    "title": "Brown Trustee Resigns in Protest Over Divestment Vote",
+    "description": "Brown Trustee Resigns in Protest Over Divestment Vote\n\n \n\n\n \nJosh Moody\n\nTue, 09/10/2024 - 03:00 AM\n\nJoseph Edelman resigned over a looming vote to divest from companies linked to the war in Gaza. He called the vote, spurred by student pressure, “morally repr…",
+    "url": "https://www.insidehighered.com/news/governance/trustees-regents/2024/09/10/brown-trustee-resigns-protest-over-divestment-vote",
+    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2024-09/Brown_University_Protest_Divest_GettyImages-2150211037_edit.jpg?itok=6ji-2mdO",
+    "publishedAt": "2024-09-10T07:00:00Z",
+    "content": "Brown University trustee Joseph Edelman stepped down abruptly on Sunday, expressing objections to a looming October vote in which the board will decide whether to divest endowment funds from 10 compa… [+8611 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Inside Higher Ed"
+    },
+    "author": "joshua.m.kim@dartmouth.edu",
+    "title": "4 Questions for RNL’s Scott Jeffe on Generations and Online Learning",
+    "description": "4 Questions for RNL’s Scott Jeffe on Generations and Online Learning\n\njoshua.m.kim@d…\n\nTue, 09/10/2024 - 03:00 AM\n\nA conversation on some new research findings.\n \n Byline(s)\n \n Joshua Kim and Edward J. Maloney",
+    "url": "https://www.insidehighered.com/opinion/blogs/learning-innovation/2024/09/10/four-questions-rnls-scott-jeffe-generations-online",
+    "urlToImage": "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png",
+    "publishedAt": "2024-09-10T07:00:00Z",
+    "content": "We were very excited to read Ruffalo Noel Levitzs new report on generational differences among online learners and what this means for the development and expansion of new online programs. Scott Jeff… [+5292 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Roanoke Times"
+    },
+    "author": "JEFF STURGEON The Roanoke Times",
+    "title": "Vinton seeks hotel builder",
+    "description": "Vinton is asking developers with hospitality experience for proposals to build a downtown hotel and meeting center.",
+    "url": "https://roanoke.com/news/local/business/development/vinton-seeks-hotel-builder/article_e0fc39e0-6f16-11ef-800b-ef16e1e9e8e5.html",
+    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/e/0f/e0fc39e0-6f16-11ef-800b-ef16e1e9e8e5/66dfa60fdf66b.preview.jpg?crop=1484%2C779%2C0%2C1&resize=1200%2C630&order=crop%2Cresize",
+    "publishedAt": "2024-09-10T07:00:00Z",
+    "content": "Vinton is asking developers with hospitality experience for proposals to build a downtown hotel and meeting center.\r\nThere is a 2-acre triangular lot between Pollard and First streets and Cedar Avenu… [+1873 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Skyview Innovations",
+    "title": "SkyView Innovations Acquires OMM",
+    "description": "Experiential firm with thriving creative digital agency, sport technology and large-format print divisions is first of many acquisitions in strategy to create a global leader in spatial computing, immersive experiences and artificial intelligence Experiential…",
+    "url": "https://www.globenewswire.com/news-release/2024/09/10/2943380/0/en/SkyView-Innovations-Acquires-OMM.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/69a590d6-04d8-4994-8593-7bac9a6262b7",
+    "publishedAt": "2024-09-10T07:00:00Z",
+    "content": "MORGANVILLE, N.J., and LONDON, Sept. 10, 2024 (GLOBE NEWSWIRE) -- via IBN SkyView Innovations, an award-winning provider of spatial computing and immersive solutions, today announced its acquisition … [+5590 chars]"
+  },
     {
       "source": {
         "id": null,
