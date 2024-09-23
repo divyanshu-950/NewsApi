@@ -1,6 +1,331 @@
 {"articles": [
   {
     "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Madison Hoff",
+    "title": "3 teachers who spent up to $2,000 on their classrooms explain what they bought and why it's important",
+    "description": "A new full-time teacher spent well over $2,000 on her classroom so far. She set up a GoFundMe and dipped into her savings for her students.",
+    "url": "https://www.businessinsider.com/school-classroom-teacher-spending-money-expenses-decorations-themes-sports-supplies-2024-9",
+    "urlToImage": "https://i.insider.com/66c4ad995da406397bf72c53?width=1200&format=jpeg",
+    "publishedAt": "2024-09-22T09:42:01Z",
+    "content": "Teachers spend hundreds or thousands of dollars for their classrooms for various reasons, including by choice.Getty Images; Jenny Chang-Rodriguez/BI\r\n<ul><li>Three teachers spoke to Business Insider … [+7677 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New Zealand Herald"
+    },
+    "author": "Jamie Morton",
+    "title": "Health star ratings: Why researchers say it’s time to rethink them",
+    "description": "There are fresh calls to overhaul star ratings shoppers use to help hunt out healthy food.",
+    "url": "https://www.nzherald.co.nz/nz/health-star-ratings-why-researchers-say-its-time-to-rethink-them/FKW34MU6TZEN3LOHJZXDCSD6B4/",
+    "urlToImage": "https://www.nzherald.co.nz/resizer/v2/HLZ7AL2M5BF2FMY32YMXZYJPF4.png?auth=a5d6dc1f1e6a2101282305f991a63b9c9c43848bcf6d6054c6ad8091d27e5885&width=1200&height=675&quality=70&smart=true",
+    "publishedAt": "2024-09-22T09:32:55Z",
+    "content": "Now, University of Auckland researchers have argued New Zealand could be going even further in encouraging food companies to make their products healthier.\r\nThats come with a study, published in the … [+3517 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Envestnet Asset Management Inc. Has $27.29 Million Holdings in Alexandria Real Estate Equities, Inc. (NYSE:ARE)",
+    "description": "Envestnet Asset Management Inc. lessened its position in Alexandria Real Estate Equities, Inc. (NYSE:ARE – Free Report) by 17.1% in the second quarter, according to its most recent disclosure with the SEC. The firm owned 233,281 shares of the real estate inve…",
+    "url": "https://www.etfdailynews.com/2024/09/22/envestnet-asset-management-inc-has-27-29-million-holdings-in-alexandria-real-estate-equities-inc-nyseare/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/alexandria-real-estate-equities-inc-logo-1200x675.jpg&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:30:49Z",
+    "content": "Envestnet Asset Management Inc. lessened its position in Alexandria Real Estate Equities, Inc. (NYSE:ARE – Free Report) by 17.1% in the second quarter, according to its most recent disclosure with th… [+6252 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Phys.Org"
+    },
+    "author": "Pierre Gentine",
+    "title": "Can AI help save our planet?",
+    "description": "Last year was the hottest on record. Around the world, we are witnessing more extreme events—from massive forest fires to floods to \"hot tub'\" ocean temperatures—with devastating consequences for human life and our planet's biodiversity.",
+    "url": "https://phys.org/news/2024-09-ai-planet.html",
+    "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/landscape-assessment-o.jpg",
+    "publishedAt": "2024-09-22T09:30:01Z",
+    "content": "Last year was the hottest on record. Around the world, we are witnessing more extreme eventsfrom massive forest fires to floods to \"hot tub'\" ocean temperatureswith devastating consequences for human… [+5536 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Star Online"
+    },
+    "author": "F.d.flam",
+    "title": "Elle Macpherson followed her 'heart' to beat breast cancer",
+    "description": "The Aussie model’s decision not to undergo conventional cancer treatment has drawn both praise and flak.",
+    "url": "https://www.thestar.com.my/lifestyle/health/2024/09/22/elle-macpherson-followed-her-039heart039-to-beat-breast-cancer",
+    "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/09/21/2924068.jpg",
+    "publishedAt": "2024-09-22T09:25:37Z",
+    "content": "WHEN celebrities go public with their diagnoses of cancer or other diseases, theyre often lauded as courageous for raising awareness and making people who share their diagnosis feel less alone.\r\nOthe… [+5079 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Envestnet Asset Management Inc. Cuts Holdings in Bio-Techne Co. (NASDAQ:TECH)",
+    "description": "Envestnet Asset Management Inc. trimmed its holdings in shares of Bio-Techne Co. (NASDAQ:TECH – Free Report) by 1.3% in the second quarter, HoldingsChannel.com reports. The institutional investor owned 383,931 shares of the biotechnology company’s stock after…",
+    "url": "https://www.etfdailynews.com/2024/09/22/envestnet-asset-management-inc-cuts-holdings-in-bio-techne-co-nasdaqtech/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/bio-techne-co-logo-1200x675.png?v=20221107151934&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:25:27Z",
+    "content": "Envestnet Asset Management Inc. trimmed its holdings in shares of Bio-Techne Co. (NASDAQ:TECH – Free Report) by 1.3% in the second quarter, HoldingsChannel.com reports. The institutional investor own… [+4444 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Texas Permanent School Fund Corp Lowers Stock Position in Safehold Inc. (NYSE:SAFE)",
+    "description": "Texas Permanent School Fund Corp cut its position in shares of Safehold Inc. (NYSE:SAFE – Free Report) by 26.0% during the 2nd quarter, Holdings Channel reports. The firm owned 28,824 shares of the company’s stock after selling 10,146 shares during the quarte…",
+    "url": "https://www.etfdailynews.com/2024/09/22/texas-permanent-school-fund-corp-lowers-stock-position-in-safehold-inc-nysesafe/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/safehold-inc-logo-1200x675.png?v=20191122084848&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:18:50Z",
+    "content": "Texas Permanent School Fund Corp cut its position in shares of Safehold Inc. (NYSE:SAFE – Free Report) by 26.0% during the 2nd quarter, Holdings Channel reports. The firm owned 28,824 shares of the c… [+4836 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNA"
+    },
+    "author": "Cna Lifestyle",
+    "title": "Can drinking alcohol prevent food poisoning? Here's what we know",
+    "description": "Can drinking alcohol prevent food poisoning? Here's what we knowchannelnewsasia.com",
+    "url": "https://cnalifestyle.channelnewsasia.com/wellness/alcohol-food-poisoning-407651",
+    "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--NkOMnaC_--/c_crop,h_2024,w_3599,x_1,y_214/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2024/09/17/well_alcohol_food_poisoning_sept16-0.jpg?itok=GsjdnC7m",
+    "publishedAt": "2024-09-22T09:16:17Z",
+    "content": "WHAT THE RESEARCH SUGGESTS\r\nSeveral small studies on food-borne illness outbreaks have indeed found that consuming alcohol was associated with protection from food poisoning, but they all have limita… [+2324 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "ANI",
+    "title": "PM Modi, President Biden hail arrangement to establish new semiconductor fabrication plant, highlight bilateral cooperation in critical tech areas",
+    "description": "The 'Joint Fact Sheet: The United States and India Continue to Expand Comprehensive and Global Strategic Partnership' released by White House after a meeting between PM Modi and US President noted the launch of a new US-India Advanced Materials R&D Forum to e…",
+    "url": "https://economictimes.indiatimes.com/tech/technology/pm-modi-president-biden-hail-arrangement-to-establish-new-semiconductor-fabrication-plant-highlight-bilateral-cooperation-in-critical-tech-areas/articleshow/113568860.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-113568877,width-1200,height-630,imgsize-10402,overlay-ettech/photo.jpg",
+    "publishedAt": "2024-09-22T09:13:27Z",
+    "content": "US President Joe Biden and Prime Minister Narendra Modi on Saturday hailed a watershed arrangement to establish a new semiconductor fabrication plant focused on advanced sensing, communication, and p… [+6707 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Research Solutions, Inc. (NASDAQ:RSSS) Shares Purchased by Oppenheimer Asset Management Inc.",
+    "description": "Oppenheimer Asset Management Inc. boosted its position in Research Solutions, Inc. (NASDAQ:RSSS – Free Report) by 36.5% in the 2nd quarter, according to its most recent filing with the SEC. The firm owned 136,932 shares of the company’s stock after acquiring …",
+    "url": "https://www.etfdailynews.com/2024/09/22/research-solutions-inc-nasdaqrsss-shares-purchased-by-oppenheimer-asset-management-inc/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/research-solutions-inc-logo-1200x675.jpg?v=20240607142026&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:07:01Z",
+    "content": "Oppenheimer Asset Management Inc. boosted its position in Research Solutions, Inc. (NASDAQ:RSSS – Free Report) by 36.5% in the 2nd quarter, according to its most recent filing with the SEC. The firm … [+2662 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NDTV News"
+    },
+    "author": null,
+    "title": "5 Facts About Anura Dissanayake, Man Likely To Become Sri Lanka President",
+    "description": "Sri Lanka's Marxist-leaning leader Anura Kumara Dissanayake has taken a commanding lead in the presidential election, winning approximately 53 per cent of the counted votes.",
+    "url": "https://www.ndtv.com/world-news/who-is-anura-kumara-dissanayake-leading-sri-lanka-s-presidential-vote-6622890",
+    "urlToImage": "https://c.ndtvimg.com/2024-09/v31dbumg_anura-kumara-dissanayake_625x300_22_September_24.jpeg",
+    "publishedAt": "2024-09-22T09:05:33Z",
+    "content": "Anura Kumara Dissanayake was born on November 24, 1968, in Thambuththegama.\r\nSri Lanka's Marxist-leaning leader Anura Kumara Dissanayake has taken a commanding lead in the presidential election, winn… [+2368 chars]"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Dinah Voyles Pulver, USA TODAY",
+    "title": "Climate change leaves some migrating birds 'out of sync' and hungry",
+    "description": "Numerous studies find bird migration is changing in response to warmer temperatures for some migrating birds.",
+    "url": "https://www.usatoday.com/story/news/nation/2024/09/22/climate-change-bird-migration-dangers/74503626007/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/LJm9qW4NG747eogVGxvHLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDM-/https://media.zenfs.com/en/usa_today_news_641/a7b1a2c9a0d08cc6a26e47bf145f64a3",
+    "publishedAt": "2024-09-22T09:02:38Z",
+    "content": "PARADISE LOST: BIRDS PUSHED TO THE BRINK\r\nMigrating birds 'out of sync' and hungry (coming soon)| The remarkable migration of the black swift | How birds get their colors | Trouble in Arizona's Sky I… [+10482 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "American Century Companies Inc. Increases Holdings in Kelly Services, Inc. (NASDAQ:KELYA)",
+    "description": "American Century Companies Inc. raised its stake in Kelly Services, Inc. (NASDAQ:KELYA – Free Report) by 35.9% during the 2nd quarter, HoldingsChannel reports. The firm owned 682,857 shares of the business services provider’s stock after acquiring an addition…",
+    "url": "https://www.etfdailynews.com/2024/09/22/american-century-companies-inc-increases-holdings-in-kelly-services-inc-nasdaqkelya/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/kelly-services-inc-logo-1200x675.png?v=20221208154109&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:01:11Z",
+    "content": "American Century Companies Inc. raised its stake in Kelly Services, Inc. (NASDAQ:KELYA – Free Report) by 35.9% during the 2nd quarter, HoldingsChannel reports. The firm owned 682,857 shares of the bu… [+4499 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Live Science"
+    },
+    "author": "Owen Jarus",
+    "title": "Did Roman gladiators really fight to the death?",
+    "description": "Being a Roman gladiator was a bloody business, but did all gladiators really fight to the death?",
+    "url": "https://www.livescience.com/archaeology/romans/did-roman-gladiators-really-fight-to-the-death",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/nevYvLiPYAZsXfMdhnHdd7-1200-80.jpg",
+    "publishedAt": "2024-09-22T09:00:00Z",
+    "content": "Popular media, such as the 2000 film \"Gladiator,\" often depict Roman gladiators in gory battles that don't end until at least one of the fighters is slain. But in real life, did gladiators really fig… [+4302 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "LancasterOnline"
+    },
+    "author": "MIKE ANDRELCZYK | Staff Writer",
+    "title": "As West Lampeter Community Fair turns 100, former fair queens look back",
+    "description": "From Fair Queen Contest to educational atmosphere, the West Lampeter Community Fair respects traditions while looking to future.",
+    "url": "https://lancasteronline.com/news/local/as-west-lampeter-community-fair-turns-100-former-fair-queens-look-back/article_294a7df8-769f-11ef-9310-47d96e1140b5.html",
+    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/e/9d/e9d7722c-76f1-11ef-9115-77f5ff7d6c76/66ecd38d68ca7.image.jpg?crop=1765%2C927%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+    "publishedAt": "2024-09-22T09:00:00Z",
+    "content": "In the past 100 years, not much has changed at the West Lampeter Community Fair, that is. Its about as traditional as a Lancaster County fair gets.\r\nIt eschews a carnival-like midway, amusement park-… [+10621 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Washington Free Beacon"
+    },
+    "author": "Andrew Stiles",
+    "title": "How To Raise an Anti-American",
+    "description": "\"This is not primarily an anti-capitalist book,\" journalist Kavin Senapathy (she/they) explains in the opening chapter of The Progressive Parent: Harnessing the Power of Science and Social Justice to Raise Awesome Kids. She's right in the sense that \"their\" b…",
+    "url": "https://freebeacon.com/author/stiles/culture/how-to-raise-an-anti-american/",
+    "urlToImage": "https://freebeacon.com/wp-content/uploads/2024/09/progparentreview.jpg",
+    "publishedAt": "2024-09-22T08:59:05Z",
+    "content": "\"This is not primarily an anti-capitalist book,\" journalist Kavin Senapathy (she/they) explains in the opening chapter of The Progressive Parent: Harnessing the Power of Science and Social Justice to… [+7565 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Globalsecurity.org"
+    },
+    "author": "John Pike",
+    "title": "Session of Permanent Commission of SPA Standing Committee of DPRK Held",
+    "description": "A session of Permanent Commission of the Standing Committee of the Supreme People's Assembly of the DPRK took place.",
+    "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2024/dprk-240921-kcna01.htm",
+    "urlToImage": null,
+    "publishedAt": "2024-09-22T08:44:59Z",
+    "content": "Korean Central News Agency of DPRK\r\nPyongyang, September 21 (KCNA) -- A session of Permanent Commission of the Standing Committee of the Supreme People's Assembly of the DPRK took place.\r\nThe session… [+1268 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Globalsecurity.org"
+    },
+    "author": "John Pike",
+    "title": "Prime Minister attends the sixth Quad Leaders' Summit in Wilmington, Delaware",
+    "description": "Prime Minister Shri Narendra Modi participated in the sixth Quad Leaders' Summit in Wilmington, Delaware on 21 September 2024, hosted by the President of the United States of America, H.E. Mr. Joseph R. Biden, Jr. Prime Minister of Australia, H.E. Mr. Anthony…",
+    "url": "https://www.globalsecurity.org/wmd/library/news/india/2024/india-240921-india-mea01.htm",
+    "urlToImage": null,
+    "publishedAt": "2024-09-22T08:44:59Z",
+    "content": "India - Ministry of External Affairs\r\nSeptember 21, 2024\r\nPrime Minister Shri Narendra Modi participated in the sixth Quad Leaders' Summit in Wilmington, Delaware on 21 September 2024, hosted by the … [+2980 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "W3.org"
+    },
+    "author": "Maria Hedblom",
+    "title": "JOBS: 3 tenured Asst. Prof. at the Department of Computing, Jonkoping School of Enginnering (SE)",
+    "description": null,
+    "url": "https://lists.w3.org/Archives/Public/public-semweb-lifesci/2024Sep/0004.html",
+    "urlToImage": null,
+    "publishedAt": "2024-09-22T08:44:57Z",
+    "content": "*Please spread this open call to interested parties.*\r\nOpen Positions: Assistant Professor in Computer Science\r\n*School of Engineering is recruiting three Assistant Professors in Computer\r\nScience wi… [+4417 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "W3.org"
+    },
+    "author": "Maria Hedblom",
+    "title": "JOBS: 3 tenured Asst. Prof. at the Department of Computing, Jonkoping School of Enginnering (SE)",
+    "description": null,
+    "url": "https://lists.w3.org/Archives/Public/semantic-web/2024Sep/0024.html",
+    "urlToImage": null,
+    "publishedAt": "2024-09-22T08:44:57Z",
+    "content": "*Please spread this open call to interested parties.*\r\nOpen Positions: Assistant Professor in Computer Science\r\n*School of Engineering is recruiting three Assistant Professors in Computer\r\nScience wi… [+4417 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BusinessLine"
+    },
+    "author": "Janaki Krishnan",
+    "title": "Taking diagnostics to people’s doorstep",
+    "description": "With its Truenat molecular test for infectious vector borne diseases and tuberculosis, Molbio Diagnostics has made testing accessible",
+    "url": "https://www.thehindubusinessline.com/blchangemakers/taking-diagnostics-to-peoples-doorstep/article68670345.ece",
+    "urlToImage": "https://bl-i.thgim.com/public/incoming/jyhvgz/article68670341.ece/alternates/LANDSCAPE_1200/IMG_BLEFTB16_Molbio_Srir_2_1_J7D96AG4.jpg",
+    "publishedAt": "2024-09-22T08:41:57Z",
+    "content": "PCR or polymerase chain reaction test became a household name during Covid-19, as lakhs scrambled to get themselves checked for the then dreaded virus that was killing people in a matter of days. And… [+10883 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "State of New Jersey Common Pension Fund D Has $1.91 Million Holdings in Exponent, Inc. (NASDAQ:EXPO)",
+    "description": "State of New Jersey Common Pension Fund D decreased its stake in Exponent, Inc. (NASDAQ:EXPO – Free Report) by 43.1% during the 2nd quarter, Holdings Channel.com reports. The institutional investor owned 20,039 shares of the business services provider’s stock…",
+    "url": "https://www.etfdailynews.com/2024/09/22/state-of-new-jersey-common-pension-fund-d-has-1-91-million-holdings-in-exponent-inc-nasdaqexpo/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/exponent-logo-1200x675.jpg&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T08:26:57Z",
+    "content": "State of New Jersey Common Pension Fund D decreased its stake in Exponent, Inc. (NASDAQ:EXPO – Free Report) by 43.1% during the 2nd quarter, Holdings Channel.com reports. The institutional investor o… [+5094 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Head-To-Head Survey: Eqonex (NASDAQ:EQOS) & MultiPlan (NYSE:MPLN)",
+    "description": "Eqonex (NASDAQ:EQOS – Get Free Report) and MultiPlan (NYSE:MPLN – Get Free Report) are both small-cap business services companies, but which is the better investment? We will contrast the two companies based on the strength of their valuation, analyst recomme…",
+    "url": "https://www.etfdailynews.com/2024/09/22/head-to-head-survey-eqonex-nasdaqeqos-multiplan-nysempln/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/multiplan-co-logo-1200x675.png?v=20240521142544&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T08:20:47Z",
+    "content": "Eqonex (NASDAQ:EQOS – Get Free Report) and MultiPlan (NYSE:MPLN – Get Free Report) are both small-cap business services companies, but which is the better investment? We will contrast the two compani… [+4773 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Amalgamated Bank Sells 2,528 Shares of AptarGroup, Inc. (NYSE:ATR)",
+    "description": "Amalgamated Bank reduced its stake in AptarGroup, Inc. (NYSE:ATR – Free Report) by 7.0% during the 2nd quarter, HoldingsChannel reports. The firm owned 33,517 shares of the industrial products company’s stock after selling 2,528 shares during the quarter. Ama…",
+    "url": "https://www.etfdailynews.com/2024/09/22/amalgamated-bank-sells-2528-shares-of-aptargroup-inc-nyseatr/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/aptargroup-inc-logo-1200x675.png?v=20221111145504&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T08:16:44Z",
+    "content": "Amalgamated Bank reduced its stake in AptarGroup, Inc. (NYSE:ATR – Free Report) by 7.0% during the 2nd quarter, HoldingsChannel reports. The firm owned 33,517 shares of the industrial products compan… [+5628 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BusinessLine"
+    },
+    "author": "Radheshyam Jadhav",
+    "title": "How a bank for women transformed drought-stricken Mandesh",
+    "description": "The Mann Deshi Bank , founded in adversity in western Maharashtra, has empowered thousands of women financially",
+    "url": "https://www.thehindubusinessline.com/opinion/how-a-bank-for-women-transformed-drought-stricken-mandesh/article68670329.ece",
+    "urlToImage": "https://bl-i.thgim.com/public/incoming/6hixyv/article68664590.ece/alternates/LANDSCAPE_1200/IMG_iStock-1217160806_2_1_0LAJ5446.jpg",
+    "publishedAt": "2024-09-22T08:14:46Z",
+    "content": "As the monsoon peaks, relentless downpours have lashed western Maharashtra, flooding countless regions. Yet, in the heart of Mandesh a parched region spanning Sangli, Satara, and Solapur districts th… [+9904 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Protothema.gr"
     },
@@ -154,19 +479,6 @@
     "urlToImage": "https://electronicintifada.net/sites/default/files/styles/medium/public/pictures/picture-44-1316022880.jpg?itok=JEpUylV3",
     "publishedAt": "2024-09-10T06:17:31Z",
     "content": "David CroninRights and Accountability10 September 2024\r\nEU officials are now portraying genocide enabler Ursula von der Leyen as a champion of peace. (Dati Bendo / European Union)  \r\nAs Gaza starved,… [+4463 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "[Removed]"
-    },
-    "author": null,
-    "title": "[Removed]",
-    "description": "[Removed]",
-    "url": "https://removed.com",
-    "urlToImage": null,
-    "publishedAt": "1970-01-01T00:00:00Z",
-    "content": "[Removed]"
   },
   {
     "source": {
@@ -1389,19 +1701,6 @@
       "urlToImage": "https://media.wired.com/photos/66ba08a70b1f5de39b9d1ecf/191:100/w_1280,c_limit/081224_Satellite%20Testing%20PRINT%201.jpg",
       "publishedAt": "2024-08-14T11:30:00Z",
       "content": "Satellites go through a lot. As they hurtle around our planet at up to 17,000 miles an hour they must cope with the extreme vacuum of space and vast temperature swings, all while trying to precisely … [+4500 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
     },
     {
       "source": {

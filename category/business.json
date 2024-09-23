@@ -1,6 +1,655 @@
 { "articles": [
   {
     "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Critical Survey: Japan Tobacco (OTCMKTS:JAPAY) & Edenred (OTCMKTS:EDNMY)",
+    "description": "Japan Tobacco (OTCMKTS:JAPAY – Get Free Report) and Edenred (OTCMKTS:EDNMY – Get Free Report) are both consumer staples companies, but which is the superior stock? We will contrast the two companies based on the strength of their profitability, dividends, val…",
+    "url": "https://www.etfdailynews.com/2024/09/22/critical-survey-japan-tobacco-otcmktsjapay-edenred-otcmktsednmy/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/edenred-se-logo-1200x675.jpg?v=20240604153511&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T10:08:54Z",
+    "content": "Japan Tobacco (OTCMKTS:JAPAY – Get Free Report) and Edenred (OTCMKTS:EDNMY – Get Free Report) are both consumer staples companies, but which is the superior stock? We will contrast the two companies … [+5224 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Vanguard Growth ETF (NYSEARCA:VUG) Shares Sold by Edgestream Partners L.P.",
+    "description": "Edgestream Partners L.P. decreased its holdings in shares of Vanguard Growth ETF (NYSEARCA:VUG – Free Report) by 38.1% during the 2nd quarter, HoldingsChannel.com reports. The fund owned 2,366 shares of the company’s stock after selling 1,458 shares during th…",
+    "url": "https://www.etfdailynews.com/2024/09/22/vanguard-growth-etf-nysearcavug-shares-sold-by-edgestream-partners-l-p/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/vanguard-growth-etf-logo-1200x675.png?v=20210827104627&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T10:07:05Z",
+    "content": "Edgestream Partners L.P. decreased its holdings in shares of Vanguard Growth ETF (NYSEARCA:VUG – Free Report) by 38.1% during the 2nd quarter, HoldingsChannel.com reports. The fund owned 2,366 shares… [+2185 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Edgestream Partners L.P. Sells 6,039 Shares of Direxion Daily S&P 500 Bull 3X (NYSEARCA:SPXL)",
+    "description": "Edgestream Partners L.P. cut its stake in shares of Direxion Daily S&P 500 Bull 3X (NYSEARCA:SPXL – Free Report) by 50.2% in the 2nd quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC). The fund ow…",
+    "url": "https://www.etfdailynews.com/2024/09/22/edgestream-partners-l-p-sells-6039-shares-of-direxion-daily-sp-500-bull-3x-nysearcaspxl/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/direxion-daily-sp-500-bull-3x-logo-1200x675.png?v=20210825121629&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T10:07:05Z",
+    "content": "Edgestream Partners L.P. cut its stake in shares of Direxion Daily S&amp;P 500 Bull 3X (NYSEARCA:SPXL – Free Report) by 50.2% in the 2nd quarter, according to the company in its most recent disclosur… [+2475 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Jennifer Saibil, The Motley Fool",
+    "title": "Don't Know Anything About Makeup? 3 Reasons e.l.f. Beauty Stock Is Still a No-Brainer Buy.",
+    "description": "It's reporting some of the best growth on the market for a non-tech stock.",
+    "url": "https://finance.yahoo.com/news/dont-know-anything-makeup-3-100500967.html/",
+    "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+    "publishedAt": "2024-09-22T10:05:00Z",
+    "content": "E.l.f. Beauty(NYSE: ELF) has squeezed through a niche in the cosmetics industry and created an incredible brand presence. The company has demonstrated phenomenal growth and displayed resilience under… [+4455 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Reuben Gregg Brewer, The Motley Fool",
+    "title": "Could W.P. Carey Become the Next Realty Income?",
+    "description": "First Realty Income tried to look more like W.P. Carey. Now W.P. Carey is trying to look more like Realty Income.",
+    "url": "https://finance.yahoo.com/news/could-w-p-carey-become-100000846.html/",
+    "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+    "publishedAt": "2024-09-22T10:00:00Z",
+    "content": "There's no way to dispute the dominance of Realty Income(NYSE: O) as a net lease real estate investment trust (REIT). It is roughly four times larger than its next closet rival, W.P. Carey(NYSE: WPC)… [+5589 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Investopedia"
+    },
+    "author": "Aaron McDade",
+    "title": "Palantir and Dell Are Set to Join the S&P 500 Monday. Here's What That Means.",
+    "description": "Palantir and Dell are joining the S&P 500 Monday along with Erie Indemnity, replacing a trio of stocks that are shifting to some of S&P Global's smaller indexes.",
+    "url": "https://www.investopedia.com/palantir-dell-set-to-join-s-and-p-500-tomorrow-what-to-expect-8715758",
+    "urlToImage": "https://www.investopedia.com/thmb/haUPlMSksuL9jvei2eWOx79NAZo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2153044275-263cadea0379440eb8ede6587bcefdd8.jpg",
+    "publishedAt": "2024-09-22T10:00:00Z",
+    "content": "<ul><li>Dell and Palantir are set to join the S&amp;P 500 on Monday as part of the index's quarterly rebalancing.</li><li>Erie Indemnity also is joining the S&amp;P 500. American Airlines Group, Etsy… [+1460 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Weandthecolor.com"
+    },
+    "author": "Dirk Petzold",
+    "title": "Maximize Your Income by Becoming an Adobe Stock Contributor or Leveraging Adobe Stock for Design Efficiency",
+    "description": "For many creatives—whether graphic designers, illustrators, or photographers—turning their passion into a sustainable source of income can be a significant challenge. The competitive nature of the creative industry, coupled with fluctuating client demand and …",
+    "url": "https://weandthecolor.com/maximize-income-become-adobe-stock-contributor-leveraging-adobe-stock-designs/191144",
+    "urlToImage": "https://weandthecolor.com/wp-content/uploads/2024/09/Maximize-Your-Income-with-Adobe-Stock.webp",
+    "publishedAt": "2024-09-22T09:59:32Z",
+    "content": "This post contains affiliate links. We may earn a commission if you click on them and make a purchase. It’s at no extra cost to you and helps us run this site. Thanks for your support!\r\nFor many crea… [+8292 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Summit Trail Advisors LLC Increases Stock Position in iShares Core S&P Mid-Cap ETF (NYSEARCA:IJH)",
+    "description": "Summit Trail Advisors LLC raised its position in iShares Core S&P Mid-Cap ETF (NYSEARCA:IJH – Free Report) by 286.0% in the second quarter, according to its most recent Form 13F filing with the SEC. The institutional investor owned 23,660 shares of the compan…",
+    "url": "https://www.etfdailynews.com/2024/09/22/summit-trail-advisors-llc-increases-stock-position-in-ishares-core-sp-mid-cap-etf-nysearcaijh/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/ishares-sp-400-midcap-etf-logo-1200x675.png?v=20210805100121&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:57:22Z",
+    "content": "Summit Trail Advisors LLC raised its position in iShares Core S&amp;P Mid-Cap ETF (NYSEARCA:IJH – Free Report) by 286.0% in the second quarter, according to its most recent Form 13F filing with the S… [+3015 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Neha Chamaria and Howard Smith, The Motley Fool",
+    "title": "2 Hot Stocks Down 45% to Buy Right Now",
+    "description": "Shares of Rivian and Nio have plunged this year, but both EV makers have big things coming up that could send their stocks soaring.",
+    "url": "https://finance.yahoo.com/news/2-hot-stocks-down-45-095400870.html/",
+    "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+    "publishedAt": "2024-09-22T09:54:00Z",
+    "content": "If you have money to invest but believe there aren't any bargains right now since stock market indices are hitting all-time highs, wait until you hear about the stocks that have missed the rally and … [+5586 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Biztoc.com"
+    },
+    "author": "finance.yahoo.com",
+    "title": "Why Is Warren Buffett Buying This Stock-Split Stock Hand Over Fist?",
+    "description": "Warren Buffett bought only seven stocks for Berkshire Hathaway's portfolio in the second quarter of 2024. He seemed to be especially enthusiastic about Sirius XM Holdings (NASDAQ: SIRI), increasing Berkshire's stake by 262%.\nRest assured that Sirius XM's 1-fo…",
+    "url": "https://biztoc.com/x/f7f4c99d90f7a3e4",
+    "urlToImage": "https://biztoc.com/cdn/802/og.png",
+    "publishedAt": "2024-09-22T09:52:37Z",
+    "content": "Warren Buffett bought only seven stocks for Berkshire Hathaway's portfolio in the second quarter of 2024. He seemed to be especially enthusiastic about Sirius XM Holdings (NASDAQ: SIRI), increasing B… [+137 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Massachusetts Financial Services Co. MA Purchases New Stake in iShares Core MSCI EAFE ETF (BATS:IEFA)",
+    "description": "Massachusetts Financial Services Co. MA purchased a new stake in shares of iShares Core MSCI EAFE ETF (BATS:IEFA – Free Report) in the 2nd quarter, according to the company in its most recent Form 13F filing with the SEC. The institutional investor purchased …",
+    "url": "https://www.etfdailynews.com/2024/09/22/massachusetts-financial-services-co-ma-purchases-new-stake-in-ishares-core-msci-eafe-etf-batsiefa/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/ishares-core-msci-eafe-etf-logo-1200x675.jpg?v=20220203063951&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:51:00Z",
+    "content": "Massachusetts Financial Services Co. MA purchased a new stake in shares of iShares Core MSCI EAFE ETF (BATS:IEFA – Free Report) in the 2nd quarter, according to the company in its most recent Form 13… [+2823 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Keith Speights, The Motley Fool",
+    "title": "The Best Biotech Stock to Invest $1,000 in Right Now",
+    "description": "Vertex Pharmaceuticals isn't an ordinary biotech stock.",
+    "url": "https://finance.yahoo.com/news/best-biotech-stock-invest-1-095000828.html/",
+    "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+    "publishedAt": "2024-09-22T09:50:00Z",
+    "content": "Investing in biotech stocks isn't for everyone. An unsuccessful clinical trial can cause a huge decline. The competition is usually fierce. Volatility is almost always present.\r\nHowever, some biotech… [+5061 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Investing.com"
+    },
+    "author": "Investing.com",
+    "title": "Top 5 things to watch in markets in the week ahead",
+    "description": "Top 5 things to watch in markets in the week ahead",
+    "url": "https://www.investing.com/news/economy/top-5-things-to-watch-in-markets-in-the-week-ahead-3626712",
+    "urlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXNPEK3E08Z_L.jpg",
+    "publishedAt": "2024-09-22T09:47:11Z",
+    "content": "Investing.com -- A key measure of inflation along with appearances by several Federal Reserve officials will be closely watched by investors in the wake of lasts weeks super-sized rate cut. PMI data … [+4504 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Umar Farooq",
+    "title": "Is Fastenal Company (FAST) the Best Industrial Distribution Stock to Buy Now?",
+    "description": "We recently compiled a list of the 10 Best Industrial Distribution Stocks to Buy Now. In this article, we are going to take a look at where Fastenal Company ...",
+    "url": "https://finance.yahoo.com/news/fastenal-company-fast-best-industrial-094516312.html/",
+    "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+    "publishedAt": "2024-09-22T09:45:16Z",
+    "content": "We recently compiled a list of the 10 Best Industrial Distribution Stocks to Buy Now. In this article, we are going to take a look at where Fastenal Company (NASDAQ:FAST) stands against the other ind… [+9245 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "AE Wealth Management LLC Has $5.99 Million Stock Holdings in iShares Core S&P U.S. Growth ETF (NASDAQ:IUSG)",
+    "description": "AE Wealth Management LLC boosted its position in shares of iShares Core S&P U.S. Growth ETF (NASDAQ:IUSG – Free Report) by 931.0% in the second quarter, Holdings Channel.com reports. The firm owned 46,974 shares of the company’s stock after purchasing an addi…",
+    "url": "https://www.etfdailynews.com/2024/09/22/ae-wealth-management-llc-has-5-99-million-stock-holdings-in-ishares-core-sp-u-s-growth-etf-nasdaqiusg/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/ishares-core-sp-us-growth-etf-logo-1200x675.png?v=20210709130912&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:43:50Z",
+    "content": "AE Wealth Management LLC boosted its position in shares of iShares Core S&amp;P U.S. Growth ETF (NASDAQ:IUSG – Free Report) by 931.0% in the second quarter, Holdings Channel.com reports. The firm own… [+3075 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "AE Wealth Management LLC Has $6.60 Million Stake in Vanguard FTSE Emerging Markets ETF (NYSEARCA:VWO)",
+    "description": "AE Wealth Management LLC lifted its stake in Vanguard FTSE Emerging Markets ETF (NYSEARCA:VWO – Free Report) by 43.2% in the second quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC). The institut…",
+    "url": "https://www.etfdailynews.com/2024/09/22/ae-wealth-management-llc-has-6-60-million-stake-in-vanguard-ftse-emerging-markets-etf-nysearcavwo/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/vanguard-ftse-emerging-markets-etf-logo-1200x675.png?v=20210827104636&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:43:48Z",
+    "content": "AE Wealth Management LLC lifted its stake in Vanguard FTSE Emerging Markets ETF (NYSEARCA:VWO – Free Report) by 43.2% in the second quarter, according to the company in its most recent disclosure wit… [+2946 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "AE Wealth Management LLC Purchases 14,565 Shares of Dimensional International High Profitability ETF (BATS:DIHP)",
+    "description": "AE Wealth Management LLC lifted its position in shares of Dimensional International High Profitability ETF (BATS:DIHP – Free Report) by 7.6% during the second quarter, according to the company in its most recent Form 13F filing with the Securities & Exchange …",
+    "url": "https://www.etfdailynews.com/2024/09/22/ae-wealth-management-llc-purchases-14565-shares-of-dimensional-international-high-profitability-etf-batsdihp/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dimensional-international-high-profitability-etf-logo-1200x675.jpg?v=20230306112119&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:43:48Z",
+    "content": "AE Wealth Management LLC lifted its position in shares of Dimensional International High Profitability ETF (BATS:DIHP – Free Report) by 7.6% during the second quarter, according to the company in its… [+2680 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "AE Wealth Management LLC Sells 70,992 Shares of Invesco S&P 500 Quality ETF (NYSEARCA:SPHQ)",
+    "description": "AE Wealth Management LLC decreased its position in Invesco S&P 500 Quality ETF (NYSEARCA:SPHQ – Free Report) by 42.7% during the 2nd quarter, according to its most recent disclosure with the SEC. The fund owned 95,425 shares of the company’s stock after selli…",
+    "url": "https://www.etfdailynews.com/2024/09/22/ae-wealth-management-llc-sells-70992-shares-of-invesco-sp-500-quality-etf-nysearcasphq/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/invesco-sp-500-quality-etf-logo-1200x675.jpg?v=20210825121439&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:43:47Z",
+    "content": "AE Wealth Management LLC decreased its position in Invesco S&amp;P 500 Quality ETF (NYSEARCA:SPHQ – Free Report) by 42.7% during the 2nd quarter, according to its most recent disclosure with the SEC.… [+2464 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "AE Wealth Management LLC Sells 555 Shares of Vanguard Financials ETF (NYSEARCA:VFH)",
+    "description": "AE Wealth Management LLC lowered its stake in shares of Vanguard Financials ETF (NYSEARCA:VFH – Free Report) by 1.0% during the 2nd quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC). The institut…",
+    "url": "https://www.etfdailynews.com/2024/09/22/ae-wealth-management-llc-sells-555-shares-of-vanguard-financials-etf-nysearcavfh/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/vanguard-financials-etf-logo-1200x675.jpg?v=20210826122835&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:43:46Z",
+    "content": "AE Wealth Management LLC lowered its stake in shares of Vanguard Financials ETF (NYSEARCA:VFH – Free Report) by 1.0% during the 2nd quarter, according to the company in its most recent disclosure wit… [+2228 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "AE Wealth Management LLC Acquires 79,665 Shares of iShares Core Dividend Growth ETF (NYSEARCA:DGRO)",
+    "description": "AE Wealth Management LLC lifted its holdings in shares of iShares Core Dividend Growth ETF (NYSEARCA:DGRO – Free Report) by 259.4% during the 2nd quarter, Holdings Channel reports. The firm owned 110,378 shares of the company’s stock after purchasing an addit…",
+    "url": "https://www.etfdailynews.com/2024/09/22/ae-wealth-management-llc-acquires-79665-shares-of-ishares-core-dividend-growth-etf-nysearcadgro/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/ishares-core-dividend-growth-etf-logo-1200x675.png?v=20210722100931&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:43:46Z",
+    "content": "AE Wealth Management LLC lifted its holdings in shares of iShares Core Dividend Growth ETF (NYSEARCA:DGRO – Free Report) by 259.4% during the 2nd quarter, Holdings Channel reports. The firm owned 110… [+2963 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "AE Wealth Management LLC Sells 4,136 Shares of First Trust NASDAQ Rising Dividend Achievers (NASDAQ:RDVY)",
+    "description": "AE Wealth Management LLC trimmed its stake in First Trust NASDAQ Rising Dividend Achievers (NASDAQ:RDVY – Free Report) by 4.8% in the 2nd quarter, according to the company in its most recent filing with the Securities and Exchange Commission (SEC). The firm o…",
+    "url": "https://www.etfdailynews.com/2024/09/22/ae-wealth-management-llc-sells-4136-shares-of-first-trust-nasdaq-rising-dividend-achievers-nasdaqrdvy/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/first-trust-rising-dividend-achievers-etf-logo-1200x675.png?v=20210709132405&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:43:02Z",
+    "content": "AE Wealth Management LLC trimmed its stake in First Trust NASDAQ Rising Dividend Achievers (NASDAQ:RDVY – Free Report) by 4.8% in the 2nd quarter, according to the company in its most recent filing w… [+3580 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Fidelity MSCI Communication Services Index ETF (NYSEARCA:FCOM) Shares Bought by AE Wealth Management LLC",
+    "description": "AE Wealth Management LLC raised its position in Fidelity MSCI Communication Services Index ETF (NYSEARCA:FCOM – Free Report) by 10.5% in the 2nd quarter, according to its most recent filing with the SEC. The firm owned 85,524 shares of the company’s stock aft…",
+    "url": "https://www.etfdailynews.com/2024/09/22/fidelity-msci-communication-services-index-etf-nysearcafcom-shares-bought-by-ae-wealth-management-llc/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/fidelity-msci-telecommunication-services-index-etf-logo-1200x675.PNG?v=20210723154615&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:43:01Z",
+    "content": "AE Wealth Management LLC raised its position in Fidelity MSCI Communication Services Index ETF (NYSEARCA:FCOM – Free Report) by 10.5% in the 2nd quarter, according to its most recent filing with the … [+3240 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Fidelity Momentum Factor ETF (NYSEARCA:FDMO) Shares Purchased by AE Wealth Management LLC",
+    "description": "AE Wealth Management LLC grew its stake in shares of Fidelity Momentum Factor ETF (NYSEARCA:FDMO – Free Report) by 15.2% in the 2nd quarter, according to its most recent Form 13F filing with the SEC. The institutional investor owned 71,629 shares of the compa…",
+    "url": "https://www.etfdailynews.com/2024/09/22/fidelity-momentum-factor-etf-nysearcafdmo-shares-purchased-by-ae-wealth-management-llc/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/generic-stocks10.jpg&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:43:00Z",
+    "content": "AE Wealth Management LLC grew its stake in shares of Fidelity Momentum Factor ETF (NYSEARCA:FDMO – Free Report) by 15.2% in the 2nd quarter, according to its most recent Form 13F filing with the SEC.… [+2391 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Tistory.com"
+    },
+    "author": "T.B",
+    "title": "김건희 게이트(Rolex Gate) 136 (Big Take. 트핵관)",
+    "description": "How Donald Trump Made Billions From Politics https://t.co/fMc3WRxfJ8— Forbes (@Forbes) September 19, 2024 Former President Donald Trump regularly criticizes President Biden and Vice President Kamala Harris over what inflation is costing families, citing one f…",
+    "url": "https://ryueyes11.tistory.com/511003",
+    "urlToImage": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbtp0aF%2FbtsJIjHM5W3%2FKT4YIzeTBiEAqM6JkkUdWK%2Fimg.jpg",
+    "publishedAt": "2024-09-22T09:40:57Z",
+    "content": "How Donald Trump Made Billions From Politics https://t.co/fMc3WRxfJ8\r\n— Forbes (@Forbes) September 19, 2024\r\nFormer President Donald Trump regularly criticizes President Biden and Vice President Kama… [+39946 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Economictimes.com"
+    },
+    "author": "ThinkStock Photos",
+    "title": "8 Indian stocks that meet William J. O'Neil's winning formula",
+    "description": "William J. O'Neil, the founder of MarketSmith, revolutionized stock market investing by integrating both fundamental and technical analysis, emphasizing historical trends. His approach focuses on seven key traits common among stock market winners. MarketSmith…",
+    "url": "https://m.economictimes.com/markets/stocks/news/8-indian-stocks-that-meet-william-j-oneils-winning-formula/investment-ideas/slideshow/113569790.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-113569790,width-1070,height-580,overlay-etmarkets/photo.jpg",
+    "publishedAt": "2024-09-22T09:35:51Z",
+    "content": "Dixon Technologies has an operating revenue of Rs 20,999 crore on a trailing 12-month basis. The company has outstanding annual revenue growth of 45%, pre-tax margin of 3% and ROE of 21%. The company… [+373 chars]"
+  },{
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Summit Trail Advisors LLC Purchases 42 Shares of BlackRock, Inc. (NYSE:BLK)",
+    "description": "Summit Trail Advisors LLC grew its position in BlackRock, Inc. (NYSE:BLK – Free Report) by 2.3% in the second quarter, according to its most recent filing with the SEC. The fund owned 1,868 shares of the asset manager’s stock after acquiring an additional 42 …",
+    "url": "https://www.etfdailynews.com/2024/09/22/summit-trail-advisors-llc-purchases-42-shares-of-blackrock-inc-nyseblk/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/blackrock-inc-logo-1200x675.gif&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:57:22Z",
+    "content": "Summit Trail Advisors LLC grew its position in BlackRock, Inc. (NYSE:BLK – Free Report) by 2.3% in the second quarter, according to its most recent filing with the SEC. The fund owned 1,868 shares of… [+6064 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "TechnipFMC plc (NYSE:FTI) Shares Sold by Dimensional Fund Advisors LP",
+    "description": "Dimensional Fund Advisors LP lessened its holdings in shares of TechnipFMC plc (NYSE:FTI – Free Report) by 52.1% during the 2nd quarter, according to its most recent disclosure with the SEC. The institutional investor owned 5,323,799 shares of the oil and gas…",
+    "url": "https://www.etfdailynews.com/2024/09/22/technipfmc-plc-nysefti-shares-sold-by-dimensional-fund-advisors-lp/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/technipfmc-plc-logo-1200x675.png&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:55:41Z",
+    "content": "Dimensional Fund Advisors LP lessened its holdings in shares of TechnipFMC plc (NYSE:FTI – Free Report) by 52.1% during the 2nd quarter, according to its most recent disclosure with the SEC. The inst… [+5599 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Dimensional Fund Advisors LP Boosts Stake in Canadian Imperial Bank of Commerce (NYSE:CM)",
+    "description": "Dimensional Fund Advisors LP raised its holdings in shares of Canadian Imperial Bank of Commerce (NYSE:CM – Free Report) (TSE:CM) by 10.5% in the 2nd quarter, according to the company in its most recent disclosure with the Securities & Exchange Commission. Th…",
+    "url": "https://www.etfdailynews.com/2024/09/22/dimensional-fund-advisors-lp-boosts-stake-in-canadian-imperial-bank-of-commerce-nysecm/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cibc-logo-1200x675.png&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:55:39Z",
+    "content": "Dimensional Fund Advisors LP raised its holdings in shares of Canadian Imperial Bank of Commerce (NYSE:CM – Free Report) (TSE:CM) by 10.5% in the 2nd quarter, according to the company in its most rec… [+5539 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "UMB Financial Co. (NASDAQ:UMBF) Shares Bought by Dimensional Fund Advisors LP",
+    "description": "Dimensional Fund Advisors LP lifted its stake in shares of UMB Financial Co. (NASDAQ:UMBF – Free Report) by 6.3% in the 2nd quarter, according to its most recent disclosure with the Securities and Exchange Commission. The firm owned 1,689,895 shares of the ba…",
+    "url": "https://www.etfdailynews.com/2024/09/22/umb-financial-co-nasdaqumbf-shares-bought-by-dimensional-fund-advisors-lp/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/umb-financial-co-logo-1200x675.jpg&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:55:38Z",
+    "content": "Dimensional Fund Advisors LP lifted its stake in shares of UMB Financial Co. (NASDAQ:UMBF – Free Report) by 6.3% in the 2nd quarter, according to its most recent disclosure with the Securities and Ex… [+7103 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Edgewell Personal Care Co (NYSE:EPC) Shares Purchased by Dimensional Fund Advisors LP",
+    "description": "Dimensional Fund Advisors LP raised its position in shares of Edgewell Personal Care Co (NYSE:EPC – Free Report) by 0.7% in the second quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission. The firm o…",
+    "url": "https://www.etfdailynews.com/2024/09/22/edgewell-personal-care-co-nyseepc-shares-purchased-by-dimensional-fund-advisors-lp/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/edgewell-personal-care-co-logo-1200x675.png&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:55:31Z",
+    "content": "Dimensional Fund Advisors LP raised its position in shares of Edgewell Personal Care Co (NYSE:EPC – Free Report) by 0.7% in the second quarter, according to the company in its most recent Form 13F fi… [+5187 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Dimensional Fund Advisors LP Purchases 248,795 Shares of Voya Financial, Inc. (NYSE:VOYA)",
+    "description": "Dimensional Fund Advisors LP increased its position in shares of Voya Financial, Inc. (NYSE:VOYA – Free Report) by 13.8% during the 2nd quarter, according to its most recent 13F filing with the Securities and Exchange Commission (SEC). The firm owned 2,055,26…",
+    "url": "https://www.etfdailynews.com/2024/09/22/dimensional-fund-advisors-lp-purchases-248795-shares-of-voya-financial-inc-nysevoya/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/voya-financial-inc-logo-1200x675.png&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:55:24Z",
+    "content": "Dimensional Fund Advisors LP increased its position in shares of Voya Financial, Inc. (NYSE:VOYA – Free Report) by 13.8% during the 2nd quarter, according to its most recent 13F filing with the Secur… [+5216 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Dimensional Fund Advisors LP Cuts Position in Sterling Infrastructure, Inc. (NASDAQ:STRL)",
+    "description": "Dimensional Fund Advisors LP reduced its position in shares of Sterling Infrastructure, Inc. (NASDAQ:STRL – Free Report) by 3.4% in the second quarter, according to its most recent filing with the SEC. The fund owned 1,226,471 shares of the construction compa…",
+    "url": "https://www.etfdailynews.com/2024/09/22/dimensional-fund-advisors-lp-cuts-position-in-sterling-infrastructure-inc-nasdaqstrl/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/sterling-infrastructure-inc-logo-1200x675.jpg?v=20221206111548&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:55:22Z",
+    "content": "Dimensional Fund Advisors LP reduced its position in shares of Sterling Infrastructure, Inc. (NASDAQ:STRL – Free Report) by 3.4% in the second quarter, according to its most recent filing with the SE… [+3979 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Dimensional Fund Advisors LP Buys 174,778 Shares of Nasdaq, Inc. (NASDAQ:NDAQ)",
+    "description": "Dimensional Fund Advisors LP boosted its holdings in Nasdaq, Inc. (NASDAQ:NDAQ – Free Report) by 8.0% during the 2nd quarter, according to its most recent 13F filing with the Securities and Exchange Commission. The institutional investor owned 2,358,843 share…",
+    "url": "https://www.etfdailynews.com/2024/09/22/dimensional-fund-advisors-lp-buys-174778-shares-of-nasdaq-inc-nasdaqndaq/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/nasdaq-inc-logo-1200x675.png?v=20240104073040&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:55:22Z",
+    "content": "Dimensional Fund Advisors LP boosted its holdings in Nasdaq, Inc. (NASDAQ:NDAQ – Free Report) by 8.0% during the 2nd quarter, according to its most recent 13F filing with the Securities and Exchange … [+5471 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Dimensional Fund Advisors LP Acquires 52,126 Shares of Kohl’s Co. (NYSE:KSS)",
+    "description": "Dimensional Fund Advisors LP increased its holdings in shares of Kohl’s Co. (NYSE:KSS – Free Report) by 0.8% during the second quarter, according to the company in its most recent disclosure with the SEC. The institutional investor owned 6,434,081 shares of t…",
+    "url": "https://www.etfdailynews.com/2024/09/22/dimensional-fund-advisors-lp-acquires-52126-shares-of-kohls-co-nysekss/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/kohls-co-logo-1200x675.png?v=20221117151850&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:54:29Z",
+    "content": "Dimensional Fund Advisors LP increased its holdings in shares of Kohl’s Co. (NYSE:KSS – Free Report) by 0.8% during the second quarter, according to the company in its most recent disclosure with the… [+5132 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Rexford Industrial Realty, Inc. (NYSE:REXR) Shares Acquired by Dimensional Fund Advisors LP",
+    "description": "Dimensional Fund Advisors LP lifted its stake in shares of Rexford Industrial Realty, Inc. (NYSE:REXR – Free Report) by 6.4% during the second quarter, Holdings Channel reports. The fund owned 3,326,694 shares of the real estate investment trust’s stock after…",
+    "url": "https://www.etfdailynews.com/2024/09/22/rexford-industrial-realty-inc-nyserexr-shares-acquired-by-dimensional-fund-advisors-lp/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/rexford-industrial-realty-inc-logo-1200x675.jpg?v2&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:54:29Z",
+    "content": "Dimensional Fund Advisors LP lifted its stake in shares of Rexford Industrial Realty, Inc. (NYSE:REXR – Free Report) by 6.4% during the second quarter, Holdings Channel reports. The fund owned 3,326,… [+7258 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Dimensional Fund Advisors LP Boosts Stake in First Financial Bancorp. (NASDAQ:FFBC)",
+    "description": "Dimensional Fund Advisors LP boosted its stake in First Financial Bancorp. (NASDAQ:FFBC – Free Report) by 0.9% during the second quarter, according to the company in its most recent filing with the SEC. The institutional investor owned 6,732,162 shares of the…",
+    "url": "https://www.etfdailynews.com/2024/09/22/dimensional-fund-advisors-lp-boosts-stake-in-first-financial-bancorp-nasdaqffbc/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/first-financial-bancorp-(ohio)-logo-1200x675.jpg&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:54:29Z",
+    "content": "Dimensional Fund Advisors LP boosted its stake in First Financial Bancorp. (NASDAQ:FFBC – Free Report) by 0.9% during the second quarter, according to the company in its most recent filing with the S… [+5299 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Dimensional Fund Advisors LP Has $152 Million Stock Holdings in M/I Homes, Inc. (NYSE:MHO)",
+    "description": "Dimensional Fund Advisors LP decreased its position in M/I Homes, Inc. (NYSE:MHO – Free Report) by 6.6% in the 2nd quarter, according to the company in its most recent filing with the Securities & Exchange Commission. The institutional investor owned 1,244,48…",
+    "url": "https://www.etfdailynews.com/2024/09/22/dimensional-fund-advisors-lp-has-152-million-stock-holdings-in-m-i-homes-inc-nysemho/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/m-i-homes-inc-logo-1200x675.jpg?v=20221130172227&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:54:27Z",
+    "content": "Dimensional Fund Advisors LP decreased its position in M/I Homes, Inc. (NYSE:MHO – Free Report) by 6.6% in the 2nd quarter, according to the company in its most recent filing with the Securities &amp… [+5167 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Dimensional Fund Advisors LP Decreases Stake in Itron, Inc. (NASDAQ:ITRI)",
+    "description": "Dimensional Fund Advisors LP reduced its position in Itron, Inc. (NASDAQ:ITRI – Free Report) by 5.8% during the second quarter, Holdings Channel.com reports. The institutional investor owned 1,529,413 shares of the scientific and technical instruments company…",
+    "url": "https://www.etfdailynews.com/2024/09/22/dimensional-fund-advisors-lp-decreases-stake-in-itron-inc-nasdaqitri/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/itron-inc-logo-1200x675.JPG&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:54:26Z",
+    "content": "Dimensional Fund Advisors LP reduced its position in Itron, Inc. (NASDAQ:ITRI – Free Report) by 5.8% during the second quarter, Holdings Channel.com reports. The institutional investor owned 1,529,41… [+5843 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Dimensional Fund Advisors LP Grows Stock Holdings in Primerica, Inc. (NYSE:PRI)",
+    "description": "Dimensional Fund Advisors LP raised its position in shares of Primerica, Inc. (NYSE:PRI – Free Report) by 3.5% during the second quarter, according to its most recent disclosure with the Securities & Exchange Commission. The institutional investor owned 637,7…",
+    "url": "https://www.etfdailynews.com/2024/09/22/dimensional-fund-advisors-lp-grows-stock-holdings-in-primerica-inc-nysepri/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/primerica-logo-1200x675.jpg&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:54:26Z",
+    "content": "Dimensional Fund Advisors LP raised its position in shares of Primerica, Inc. (NYSE:PRI – Free Report) by 3.5% during the second quarter, according to its most recent disclosure with the Securities &… [+6493 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Dimensional Fund Advisors LP Acquires 144,416 Shares of Brunswick Co. (NYSE:BC)",
+    "description": "Dimensional Fund Advisors LP increased its holdings in shares of Brunswick Co. (NYSE:BC – Free Report) by 7.4% during the second quarter, according to the company in its most recent Form 13F filing with the SEC. The firm owned 2,096,808 shares of the company’…",
+    "url": "https://www.etfdailynews.com/2024/09/22/dimensional-fund-advisors-lp-acquires-144416-shares-of-brunswick-co-nysebc/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/brunswick-co-logo-1200x675.png?v=20240424114757&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:54:23Z",
+    "content": "Dimensional Fund Advisors LP increased its holdings in shares of Brunswick Co. (NYSE:BC – Free Report) by 7.4% during the second quarter, according to the company in its most recent Form 13F filing w… [+6000 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Massachusetts Financial Services Co. MA Purchases 5,652 Shares of Armstrong World Industries, Inc. (NYSE:AWI)",
+    "description": "Massachusetts Financial Services Co. MA raised its holdings in shares of Armstrong World Industries, Inc. (NYSE:AWI – Free Report) by 14.6% during the second quarter, HoldingsChannel.com reports. The firm owned 44,384 shares of the construction company’s stoc…",
+    "url": "https://www.etfdailynews.com/2024/09/22/massachusetts-financial-services-co-ma-purchases-5652-shares-of-armstrong-world-industries-inc-nyseawi/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/armstrong-world-industries-logo-1200x675.gif&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:54:17Z",
+    "content": "Massachusetts Financial Services Co. MA raised its holdings in shares of Armstrong World Industries, Inc. (NYSE:AWI – Free Report) by 14.6% during the second quarter, HoldingsChannel.com reports. The… [+5445 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Greg Joyce",
+    "title": "Juan Soto passes movement test in return to Yankees’ starting lineup",
+    "description": "Juan Soto came through his pinch-hit cameo well enough to be back in the lineup a day later, going 2-for-6 in the 10-0 win over the A’s.",
+    "url": "https://nypost.com/2024/09/22/sports/juan-soto-passes-movement-test-in-return-to-yankees-starting-lineup/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/newspress-collage-gef9g2977-1726997559852.jpg?quality=75&strip=all&1726983481&w=1024",
+    "publishedAt": "2024-09-22T09:54:07Z",
+    "content": "OAKLAND, Calif. A day after leaning into his flair for the dramatic with a clutch pinch-hit double in the 10th inning, Juan Soto made his return to the Yankees lineup on Saturday and stayed in it.\r\nS… [+2870 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Neha Chamaria and Howard Smith, The Motley Fool",
+    "title": "2 Hot Stocks Down 45% to Buy Right Now",
+    "description": "Shares of Rivian and Nio have plunged this year, but both EV makers have big things coming up that could send their stocks soaring.",
+    "url": "https://finance.yahoo.com/news/2-hot-stocks-down-45-095400870.html/",
+    "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+    "publishedAt": "2024-09-22T09:54:00Z",
+    "content": "If you have money to invest but believe there aren't any bargains right now since stock market indices are hitting all-time highs, wait until you hear about the stocks that have missed the rally and … [+5586 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Vistra Corp. (NYSE:VST) Shares Sold by Oppenheimer Asset Management Inc.",
+    "description": "Oppenheimer Asset Management Inc. trimmed its stake in shares of Vistra Corp. (NYSE:VST – Free Report) by 25.9% in the second quarter, Holdings Channel reports. The fund owned 2,961 shares of the company’s stock after selling 1,034 shares during the period. O…",
+    "url": "https://www.etfdailynews.com/2024/09/22/vistra-corp-nysevst-shares-sold-by-oppenheimer-asset-management-inc/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/vistra-energy-corp-logo-1200x675.jpg&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:53:30Z",
+    "content": "Oppenheimer Asset Management Inc. trimmed its stake in shares of Vistra Corp. (NYSE:VST – Free Report) by 25.9% in the second quarter, Holdings Channel reports. The fund owned 2,961 shares of the com… [+4833 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "3,667 Shares in Vaxcyte, Inc. (NASDAQ:PCVX) Bought by Oppenheimer Asset Management Inc.",
+    "description": "Oppenheimer Asset Management Inc. acquired a new position in Vaxcyte, Inc. (NASDAQ:PCVX – Free Report) during the 2nd quarter, according to the company in its most recent Form 13F filing with the Securities & Exchange Commission. The fund acquired 3,667 share…",
+    "url": "https://www.etfdailynews.com/2024/09/22/3667-shares-in-vaxcyte-inc-nasdaqpcvx-bought-by-oppenheimer-asset-management-inc/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/vaxcyte-inc-logo-1200x675.jpg?v=20221117163136&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:53:30Z",
+    "content": "Oppenheimer Asset Management Inc. acquired a new position in Vaxcyte, Inc. (NASDAQ:PCVX – Free Report) during the 2nd quarter, according to the company in its most recent Form 13F filing with the Sec… [+5893 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Oppenheimer Asset Management Inc. Acquires 1,804 Shares of Aramark (NYSE:ARMK)",
+    "description": "Oppenheimer Asset Management Inc. increased its holdings in shares of Aramark (NYSE:ARMK – Free Report) by 24.0% in the 2nd quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission. The institutional investor owned 9,3…",
+    "url": "https://www.etfdailynews.com/2024/09/22/oppenheimer-asset-management-inc-acquires-1804-shares-of-aramark-nysearmk/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/aramark-logo-1200x675.jpg&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:53:30Z",
+    "content": "Oppenheimer Asset Management Inc. increased its holdings in shares of Aramark (NYSE:ARMK – Free Report) by 24.0% in the 2nd quarter, according to its most recent Form 13F filing with the Securities a… [+5302 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Astera Labs, Inc. (NASDAQ:ALAB) Shares Bought by Massachusetts Financial Services Co. MA",
+    "description": "Massachusetts Financial Services Co. MA raised its position in Astera Labs, Inc. (NASDAQ:ALAB – Free Report) by 2.6% in the 2nd quarter, according to its most recent filing with the SEC. The firm owned 91,408 shares of the company’s stock after acquiring an a…",
+    "url": "https://www.etfdailynews.com/2024/09/22/astera-labs-inc-nasdaqalab-shares-bought-by-massachusetts-financial-services-co-ma/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/astera-labs-inc-logo-1200x675.jpg?v=20240410092721&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:53:28Z",
+    "content": "Massachusetts Financial Services Co. MA raised its position in Astera Labs, Inc. (NASDAQ:ALAB – Free Report) by 2.6% in the 2nd quarter, according to its most recent filing with the SEC. The firm own… [+5228 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Oppenheimer Asset Management Inc. Invests $264,000 in PROS Holdings, Inc. (NYSE:PRO)",
+    "description": "Oppenheimer Asset Management Inc. acquired a new position in shares of PROS Holdings, Inc. (NYSE:PRO – Free Report) in the 2nd quarter, according to its most recent disclosure with the Securities and Exchange Commission (SEC). The institutional investor acqui…",
+    "url": "https://www.etfdailynews.com/2024/09/22/oppenheimer-asset-management-inc-invests-264000-in-pros-holdings-inc-nysepro/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/pros-holdings-inc-logo-1200x675.jpg?v=20221202080347&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:53:28Z",
+    "content": "Oppenheimer Asset Management Inc. acquired a new position in shares of PROS Holdings, Inc. (NYSE:PRO – Free Report) in the 2nd quarter, according to its most recent disclosure with the Securities and… [+4373 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Massachusetts Financial Services Co. MA Purchases 834,663 Shares of Outset Medical, Inc. (NASDAQ:OM)",
+    "description": "Massachusetts Financial Services Co. MA boosted its holdings in shares of Outset Medical, Inc. (NASDAQ:OM – Free Report) by 118.5% during the 2nd quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission. The …",
+    "url": "https://www.etfdailynews.com/2024/09/22/massachusetts-financial-services-co-ma-purchases-834663-shares-of-outset-medical-inc-nasdaqom/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/outset-medical-inc-logo-1200x675.jpg?v=20240524082520&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:53:27Z",
+    "content": "Massachusetts Financial Services Co. MA boosted its holdings in shares of Outset Medical, Inc. (NASDAQ:OM – Free Report) by 118.5% during the 2nd quarter, according to the company in its most recent … [+4137 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Massachusetts Financial Services Co. MA Acquires 141 Shares of Workday, Inc. (NASDAQ:WDAY)",
+    "description": "Massachusetts Financial Services Co. MA raised its holdings in Workday, Inc. (NASDAQ:WDAY – Free Report) by 0.6% during the second quarter, HoldingsChannel.com reports. The fund owned 25,532 shares of the software maker’s stock after purchasing an additional …",
+    "url": "https://www.etfdailynews.com/2024/09/22/massachusetts-financial-services-co-ma-acquires-141-shares-of-workday-inc-nasdaqwday/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/workday-logo-1200x675.jpg&w=240&h=240&zc=2",
+    "publishedAt": "2024-09-22T09:53:27Z",
+    "content": "Massachusetts Financial Services Co. MA raised its holdings in Workday, Inc. (NASDAQ:WDAY – Free Report) by 0.6% during the second quarter, HoldingsChannel.com reports. The fund owned 25,532 shares o… [+6837 chars]"
+  },
+  {
+    "source": {
       "id": "abc-news-au",
       "name": "ABC News (AU)"
     },
@@ -63,19 +712,6 @@
     "urlToImage": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_685x385.jpg",
     "publishedAt": "2024-09-10T07:04:00Z",
     "content": "The Goods and Services Tax (GST) Council's meeting on Monday announced some significant tax cuts to make essential goods and services more affordable. The Council cut GST on select cancer medications… [+691 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "[Removed]"
-    },
-    "author": null,
-    "title": "[Removed]",
-    "description": "[Removed]",
-    "url": "https://removed.com",
-    "urlToImage": null,
-    "publishedAt": "1970-01-01T00:00:00Z",
-    "content": "[Removed]"
   },
   {
     "source": {
@@ -158,19 +794,6 @@
   {
     "source": {
       "id": null,
-      "name": "[Removed]"
-    },
-    "author": null,
-    "title": "[Removed]",
-    "description": "[Removed]",
-    "url": "https://removed.com",
-    "urlToImage": null,
-    "publishedAt": "1970-01-01T00:00:00Z",
-    "content": "[Removed]"
-  },
-  {
-    "source": {
-      "id": null,
       "name": "Dramabeans.com"
     },
     "author": "quirkycase",
@@ -180,19 +803,6 @@
     "urlToImage": "https://d263ao8qih4miy.cloudfront.net/wp-content/uploads/2024/09/GP_wk7_16.jpg",
     "publishedAt": "2024-09-10T07:00:46Z",
     "content": "Good Partner: Episodes 12-13\r\nThis week takes a dark turn with a case that focuses on cruel abuse and the ways wealth and power can drown out a victims cries for help. Theres an infuriatingly high ba… [+8571 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Marketingoops.com"
-    },
-    "author": "Marketing Oops!",
-    "title": "ผ่าแนวคิด N Health ชูจุดเด่นเน้นมาตรฐาน และประสิทธิภาพการให้บริการด้านสุขภาพ สร้างความได้เปรียบให้แก่โรงพยาบาล และสุขภาพของคนไทย ในแบบ Preventive Healthcare",
-    "description": "N Health ธุรกิจให้บริการด้านสุขภาพสามารถสร้างการเติบโตได้ ด้วยกลยุทธ์การขายที่เน้นการสร้างคุณค่าให้กับลูกค้าและบริการที่ครอบคลุม กลยุทธ์การขายจึงเป็นหัวใจสำคัญในการสร้างการเติบโตให้กับธุรกิจ N Health โดย คุณ อมราวดี ณ ลำปาง General Manager of Business Solutio…",
-    "url": "https://www.marketingoops.com/exclusive/interview-exclusive/n-health-providing-medical-support-services-in-this-era/",
-    "urlToImage": "https://cdn.marketingoops.com/wp-content/uploads/2024/09/N-Health-Preventive-Healthcare.jpg",
-    "publishedAt": "2024-09-10T07:00:45Z",
-    "content": "N Health N Health General Manager of Business Solutions (N Health) N Health \r\nSilver Age \r\n Telemedicine Digital Healthcare \r\n Healthcare \r\n(Integrated Diagnostic Business IDB) Value Base Healthcare … [+438 chars]"
   },
   {
     "source": {
@@ -1458,19 +2068,6 @@
     {
       "source": {
         "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Yahoo Entertainment"
       },
       "author": "Brad Smith",
@@ -1480,19 +2077,6 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/d9zukPS43YSfhcU_Rbbk2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/f1158e70-598c-11ef-b7f7-0fe81657cfdd",
       "publishedAt": "2024-08-13T16:50:49Z",
       "content": "Optimism for small businesses has risen by 2.2 points month-over-month for July, according to the National Federation of Independent Business's (NFIB) small business optimism index. The reading may b… [+937 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
     },
     {
       "source": {
