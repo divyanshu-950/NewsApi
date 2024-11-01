@@ -1,5 +1,459 @@
 {  "articles": [
-  
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Kelly Lawler",
+    "title": "'The Diplomat' Season 2 review: A political fantasy - USA TODAY",
+    "description": "Keri Russell and Allison Janney star in the second season of Netflix's \"The Diplomat,\" which turns walking and talking into high stakes drama.",
+    "url": "https://www.usatoday.com/story/entertainment/tv/2024/10/31/the-diplomat-season-2-review/75896312007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/10/29/USAT/75920414007-the-diplomat-n-s-2-e-3-00-45-49-13-rc.jpg?crop=3534,1987,x65,y0&width=3200&height=1800&format=pjpg&auto=webp",
+    "publishedAt": "2024-10-31T12:33:56Z",
+    "content": "The world is in flames, countries are at each others throats and politicians are screaming in rage. \r\nNo, Im not talking about the 2024 presidential race, but rather the second season of Netflixs Ker… [+3738 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Nika Shakhnazarova",
+    "title": "Eric Trump says US doesn’t ‘give a damn’ about Prince Harry or ‘unpopular’ Meghan Markle: ‘Sad to watch’ - New York Post ",
+    "description": "The ex-president’s second son, 40, said it’s “sad to watch” how the Duke and Duchess of Sussex have “gone off the deep end.”",
+    "url": "https://nypost.com/2024/10/31/us-news/eric-trump-says-no-one-in-america-gives-a-damn-about-prince-harry-or-his-unpopular-wife-meghan-markle/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/92755347.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-10-31T12:23:29Z",
+    "content": "Eric Trump reckons Prince Harry need not worry about his US visa debacle — because no one in America “gives a damn” about him.\r\nThe ex-president’s second son, 40, had some scathing remarks about the … [+2474 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Nika Shakhnazarova",
+    "title": "Martha Stewart rips into her own Netflix documentary on release day, slams director’s work: ‘Lousy’ - New York Post ",
+    "description": "The lifestyle guru, 83, did not mince words as she ripped into the film’s director, R.J. Cutler, over the final result.",
+    "url": "https://nypost.com/2024/10/31/entertainment/martha-stewart-rips-into-her-own-netflix-documentary-on-release-day-i-hate-those-last-scenes/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/92755156.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-10-31T11:41:00Z",
+    "content": "Martha Stewart is not happy with the way her new Netflix documentary, “Martha,” had turned out.\r\nThe lifestyle guru, 83, ripped into the doc’s filmmaker, R.J. Cutler, over the final result, saying it… [+2296 chars]"
+  },
+  {
+    "source": {
+      "id": "bloomberg",
+      "name": "Bloomberg"
+    },
+    "author": "Mark Leydorf",
+    "title": "Bittersweet Road Trip Film A Real Pain Feels Really Familiar - Bloomberg",
+    "description": "Jesse Eisenberg and Kieran Culkin star as Jesse Eisenberg and Kieran Culkin in a disappointing buddy flick.",
+    "url": "https://www.bloomberg.com/news/articles/2024-10-31/a-real-pain-review-jesse-eisenberg-and-kieran-culkin-in-a-buddy-flick-fail",
+    "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEy_O8zH2TUc/v1/1200x649.jpg",
+    "publishedAt": "2024-10-31T11:00:07Z",
+    "content": "Actors: Beware of vanity projects. Beware especially of creating your own vanity projects. But if you must write and direct yourself in a leading roleas Jesse Eisenberg has done in A Real Pain, his b… [+530 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Eonline.com"
+    },
+    "author": null,
+    "title": "Kourtney Kardashian and Travis Barker's Baby Boy Rocky Debuts 2 Adorable Halloween Costumes - E! Online - E! NEWS",
+    "description": "Kourtney Kardashian and Travis Barker's 11-month-old son Rocky Thirteen Barker donned not one, but two Halloween costumes in celebration of spooky season. See the cute photos.",
+    "url": "https://www.eonline.com/news/1409341/kourtney-kardashian-and-travis-barkers-baby-boy-rocky-debuts-2-adorable-halloween-costumes",
+    "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024615/cr_1200x1200-240715160321-shutterstock_editorial_14095856cf.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+    "publishedAt": "2024-10-31T09:05:00Z",
+    "content": "Rocky Barker's Halloween costumes might just be the most interesting to look at.\r\nAfter all, they've gotten the seal of approval from mom Kourtney Kardashian and dad Travis Barker, who recently share… [+764 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Matthew J. Friedman and Karina Tsui, CNN",
+    "title": "LA County district attorney sends letters requesting clemency for Menendez brothers - Yahoo! Voices",
+    "description": "Los Angeles District Attorney George Gascón “strongly supports” Erik and Lyle Menendez’s bid for clemency and has written letters on behalf of each brother...",
+    "url": "https://www.cnn.com/2024/10/31/us/la-county-da-clemency-menendez-brothers-hnk/index.html",
+    "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/d059152b7f0d2f579cec5afe97750e56",
+    "publishedAt": "2024-10-31T09:01:29Z",
+    "content": "Los Angeles District Attorney George Gascón strongly supports Erik and Lyle Menendezs bid for clemency and has written letters on behalf of each brother to California Gov. Gavin Newsom, he announced … [+2198 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Elizabeth Wagmeister, Priscilla Alvarez",
+    "title": "A Gen Z pop star kicked off Harris’ campaign. Puerto Rican musicians may bring her to the finish line - CNN",
+    "description": "The influx of Latino artists denouncing Donald Trump and showing up for Kamala Harris is the October surprise that the vice president’s campaign didn’t see coming.",
+    "url": "https://www.cnn.com/2024/10/31/politics/celebrity-endorsements-puerto-rico-harris-trump/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2034632744.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-10-31T08:00:00Z",
+    "content": "In September, Latin music superstar Nicky Jam appeared onstage with Donald Trump. Donning a red MAGA hat, the reggaeton singer told a Las Vegas rally that he was supporting the former president.\r\nOn … [+8929 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Suntimes.com"
+    },
+    "author": "Georgia Nicols",
+    "title": "Horoscope for Thursday, October 31, 2024 - Chicago Sun-Times",
+    "description": null,
+    "url": "https://chicago.suntimes.com/horoscopes/2024/10/31/horoscope-for-thursday-october-31-2024",
+    "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+    "publishedAt": "2024-10-31T05:02:27Z",
+    "content": "Moon Alert\r\nAvoid shopping or important decisions from 11:30 a.m. to 1 p.m. Chicago time. After that, the moon moves from Libra into Scorpio.\r\nAries (March 21-April 19)\r\nTread carefully this morning,… [+3844 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Radiohead singer Thom Yorke walks off stage as fan shouts Gaza protests - BBC.com",
+    "description": "Thom Yorke hit back at the fan after he heckled the singer over death numbers in Gaza during a performance in Melborne.",
+    "url": "https://www.bbc.com/news/articles/c5yrv2zyd22o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f66d/live/0ab3d430-9750-11ef-9d53-85e9b8570d92.jpg",
+    "publishedAt": "2024-10-31T04:44:54Z",
+    "content": "Radiohead singer Thom Yorke briefly walked off stage during his Australian solo tour after an exchange with an audience member who heckled him with a protest about deaths in Gaza. \r\nVideos posted onl… [+2708 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Anna Young",
+    "title": "Imprisoned ‘Tiger King’ star Joe Exotic engaged to fellow inmate: ‘Wish I would have met him long ago’ - New York Post ",
+    "description": "The jailbirds announced their engagement on Monday.",
+    "url": "https://nypost.com/2024/10/30/us-news/tiger-king-star-joe-exotic-engaged-to-fellow-prison-inmate/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/wish-i-met-long-ago-92731780.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-10-31T04:41:00Z",
+    "content": "Time to cell-ebrate.\r\nTiger King star Joe Exotic – who is serving a 21-year federal prison sentence – revealed hes engaged to a fellow inmate he hopes to wed behind bars in December. \r\n“Meet Jorge Ma… [+2522 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Page Six"
+    },
+    "author": null,
+    "title": "Taylor Swift live updates: Travis Kelce gushes about relationship on latest ‘New Heights’ episode - Page Six",
+    "description": "Follow live updates from Page Six for the daily lowdown on everything Taylor Swift: from Eras Tour updates to fan theories, glimpses into her relationship with Travis Kelce and more.",
+    "url": "https://pagesix.com/2024/10/30/celebrity-news/taylor-swift-live-updates-10-30-31-24/",
+    "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/10/taylor-swift-travis-kelce.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-10-31T04:06:00Z",
+    "content": "Page Six is bringing you the daily lowdown on everything Taylor Swift: from Eras Tour updates to fan theories, glimpses into her relationship with Travis Kelce and more.\r\nFollow Page Six’s Taylor Swi… [+15 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Deadline"
+    },
+    "author": "Dessi Gomez",
+    "title": "‘Agatha All Along’ Episode 9 Recap: Nicholas Scratch’s Fate Unfolds, Billy Comes To Terms With His Chaos Magic And Decides What To Do Next - Deadline",
+    "description": "The finale of 'Agatha All Along' takes viewers back to the birth of Nicholas Scratch and the conception of the Witches' Road. Billy moves forward.",
+    "url": "http://deadline.com/2024/10/agatha-all-along-finale-recap-nicholas-scratch-wiccan-1236163040/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2024/10/MPY-108-15842_R.jpeg?w=1024",
+    "publishedAt": "2024-10-31T03:07:00Z",
+    "content": "SPOILER ALERT: This post contains spoilers for the finale (Episode 9) of Agatha All Along.\r\nMaybe the real coven true was the friendships forged along the way. The coven two, though, is a lot more co… [+9019 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Eonline.com"
+    },
+    "author": null,
+    "title": "Shaun White Tried to Propose to Nina Dobrev Twice Before Engagement - E! NEWS",
+    "description": "Shaun White attempted to propose to fiancée Nina Dobrev twice before the couple actually got engaged following five years of dating.",
+    "url": "https://www.eonline.com/news/1409342/shaun-white-details-engagement-to-nina-dobrev",
+    "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202453/rs_1200x1200-240603072626-shaun.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+    "publishedAt": "2024-10-31T02:41:00Z",
+    "content": "Shaun White didn't stick the landing on his first two proposal ideas. \r\nThe Olympic gold medalist had two failed plans to pop the question to his fiancée Nina Dobrev before finally getting down on on… [+765 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "2024-10-31T02:17:00Z",
+    "content": "[Removed]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Kara Scannell",
+    "title": "Judge rules civil lawsuit against Sean ‘Diddy’ Combs cannot proceed under a pseudonym - CNN",
+    "description": "A federal judge said a woman who accused Sean “Diddy” Combs of sexually assaulting her cannot proceed with her lawsuit under a pseudonym after finding the rapper has a right to defend himself.",
+    "url": "https://www.cnn.com/2024/10/30/entertainment/sean-diddy-combs-civil-lawsuit-pseudonym/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/sean-diddy-combs.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-10-31T02:07:00Z",
+    "content": "A federal judge said a woman who accused Sean Diddy Combs of sexually assaulting her cannot proceed with her lawsuit under a pseudonym after finding the rapper has a right to defend himself.\r\nThe fun… [+2733 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Eonline.com"
+    },
+    "author": null,
+    "title": "How Taylor Swift’s Dad Really Feels About Travis Kelce, According to Flight Seatmate - E! Online - E! NEWS",
+    "description": "A woman who sat next to Taylor Swift's dad Scott Swift on a recent flight recalled all of the details of their conversation, during which Scott gushed about Travis Kelce.",
+    "url": "https://www.eonline.com/news/1409309/how-taylor-swifts-dad-really-feels-about-travis-kelce-according-to-flight-seatmate",
+    "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024128/rs_1200x1200-240228072310-TaylorScott.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+    "publishedAt": "2024-10-31T00:38:00Z",
+    "content": "Taylor Swift's dad thinks Travis Kelce is fly like a jet stream.\r\nOn a recent flight following his daughter's Eras Tour shows in New Orleans, Scott Swiftwho shares Taylor, 34, and Austin, 32, with ex… [+932 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hollywood Reporter"
+    },
+    "author": "Pamela McClintock",
+    "title": "Imax CEO Doesn’t Deny Talks With Netflix to Play Greta Gerwig’s ‘Narnia’ on the Big Screen - Hollywood Reporter",
+    "description": "The 'Barbie' filmmaker is pushing for Imax and Netflix to play the movie over the Thanksgiving 2026 holiday despite the long-standing tug-of-war between the streamer and major cinema chains.",
+    "url": "http://www.hollywoodreporter.com/movies/movie-news/imax-netflix-greta-gerwig-narnia-1236049197/",
+    "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/10/GettyImages-2174547226-H-2024.jpg?w=1296&h=730&crop=1",
+    "publishedAt": "2024-10-31T00:03:00Z",
+    "content": "Will Aslan the lion prove to be the hero that convinces Netflix to soften its stance regarding theatrical and give Greta Gerwig‘s adaptation of C.S. Lewis’ The Chronicles of Narnia series a run in so… [+3355 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Giantfreakinrobot.com"
+    },
+    "author": "Jonathan Klotz",
+    "title": "Diddy Party Planner Reveals Freak Off Requirements - Giant Freakin Robot",
+    "description": "The curtain has been pulled back on Diddy's infamous Freak Off events and the more that's revealed, the worse they seem.",
+    "url": "https://www.giantfreakinrobot.com/cltr/diddy-freak-off-requirements.html",
+    "urlToImage": "https://www.giantfreakinrobot.com/wp-content/uploads/2024/10/diddy-video.png",
+    "publishedAt": "2024-10-31T00:00:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Parade"
+    },
+    "author": "Meghan Roos",
+    "title": "Stevie Nicks Makes Shocking Political Admission About Her Big Voting 'Regret' - Yahoo Entertainment",
+    "description": "‘And I don’t have very many regrets,’ Nicks added.",
+    "url": "https://parade.com/news/stevie-nicks-shocking-political-admission-big-voting-regret-2024-election",
+    "urlToImage": "https://media.zenfs.com/en/parade_250/98f0aa2dff67de16d06fedd3e16d6df6",
+    "publishedAt": "2024-10-30T23:40:07Z",
+    "content": "Stevie Nicks revealed her biggest regret as a voter during a recent visit to MSNBCsMorning Joe.\r\nThe 76-year-old Fleetwood Mac singer appeared on the morning talk show to discuss The Lighthouse, her … [+2130 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hollywood Reporter"
+    },
+    "author": "Zoe G. Phillips",
+    "title": "Zoë Kravitz and Channing Tatum Split and Call Off Engagement Following Three-Year Relationship - Hollywood Reporter",
+    "description": "Kravitz and Tatum dated for three years, and announced their engagement in 2023.",
+    "url": "http://www.hollywoodreporter.com/news/general-news/zoe-kravitz-channing-tatum-split-1236049638/",
+    "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/10/ZoeChanningGettyImages-2167459394.jpg?w=1296&h=730&crop=1",
+    "publishedAt": "2024-10-30T23:35:08Z",
+    "content": "Zoë Kravitz and Channing Tatum have reportedly split and called off their engagement. \r\nThe two actors first met and became romantically involved while working on Kravitz’s directorial debut, Blink T… [+1247 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Figure Four Online"
+    },
+    "author": "Paul Fontaine",
+    "title": "WWE NXT ratings down for Halloween Havoc fallout episode - Figure Four Online",
+    "description": "Tuesday night’s WWE NXT episode averaged 588,000 viewers on The CW Network, down 16.2 percent from last week.",
+    "url": "https://www.f4wonline.com/news/nxt/wwe-nxt-ratings-down-for-halloween-havoc-fallout-episode/",
+    "urlToImage": "https://cdn.f4wonline.com/wp-content/uploads/2024/10/nxt2300nxt.jpg",
+    "publishedAt": "2024-10-30T22:42:31Z",
+    "content": "Tuesday night’s WWE NXT episode averaged 588,000 viewers on The CW Network, down 16.2 percent from last week. It’s the lowest audience total the show has done since moving to The CW and is NXT’s lowe… [+1249 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hindustan Times"
+    },
+    "author": "Dr J.N Pandey",
+    "title": "Pisces Diwali Horoscope Today, October 31, 2024 predicts a vacation today - Hindustan Times",
+    "description": "Pisces Diwali Horoscope Today, October 31, 2024 to know your astrological predictions. No major professional challenge will come by. | Horoscope",
+    "url": "https://www.hindustantimes.com/astrology/horoscope/pisces-diwali-horoscope-today-october-31-2024-predicts-a-vacation-today-101730322818660.html",
+    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/10/30/1600x900/Pisces_diwali_1730323152724_1730323158922.jpg",
+    "publishedAt": "2024-10-30T22:41:16Z",
+    "content": "Pisces (19th February to 20th March)\r\nDaily Horoscope Prediction says, Quality matters, not quantity\r\nThe love affair will be intact as you manage tremors on a positive note. Settle all professional … [+3062 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hindustan Times"
+    },
+    "author": "Dr J.N Pandey",
+    "title": "Aquarius Diwali Horoscope Today, October 31, 2024 predicts success at the office - Hindustan Times",
+    "description": "Aquarius Diwali Horoscope Today, October 31, 2024 to know your astrological predictions. No major professional challenge will come by. | Horoscope",
+    "url": "https://www.hindustantimes.com/astrology/horoscope/aquarius-diwali-horoscope-today-october-31-2024-predicts-success-at-the-office-101730321291791.html",
+    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/10/30/1600x900/Aquarius_diwali_1730321910178_1730321921000.jpg",
+    "publishedAt": "2024-10-30T22:40:16Z",
+    "content": "Aquarius (20th January to 18th February)\r\nDaily Horoscope Prediction says, always be cordial with others\r\nAquarius Diwali Horoscope Today, October 31, 2024: Look for more opportunities to grow in you… [+3009 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hindustan Times"
+    },
+    "author": "Dr J.N Pandey",
+    "title": "Scorpio Diwali Horoscope Today, October 31, 2024 predicts trade expansions - Hindustan Times",
+    "description": "Scorpio Diwali Horoscope Today, October 31, 2024 to know your astrological predictions. Prosperity also exists today. | Horoscope",
+    "url": "https://www.hindustantimes.com/astrology/horoscope/scorpio-diwali-horoscope-today-october-31-2024-predicts-trade-expansions-101730317092818.html",
+    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/10/30/1600x900/scorpio_diwali_1730317487037_1730317496900.jpg",
+    "publishedAt": "2024-10-30T22:37:15Z",
+    "content": "Scorpio (23rd October to 21st November)\r\nDaily Horoscope Prediction says, enjoy the day and spread happiness\r\nScorpio Diwali Horoscope Today, October 31, 2024: Businessmen will be successful in signi… [+3140 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hindustan Times"
+    },
+    "author": "Dr J.N Pandey",
+    "title": "Libra Diwali Horoscope Today October 31 2024 predicts wealth at your side - Hindustan Times",
+    "description": "Libra Diwali Horoscope Today, October 31, 2024 to know your astrological predictions. Both health and wealth will also be at your side today. | Horoscope",
+    "url": "https://www.hindustantimes.com/astrology/horoscope/libra-diwali-horoscope-today-october-31-2024-predicts-wealth-at-your-side-101730311775842.html",
+    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/10/30/1600x900/Libra_diwali_1730311966110_1730311973717.jpg",
+    "publishedAt": "2024-10-30T22:36:15Z",
+    "content": "Libra - (23rd September to 22nd October)\r\nDaily Horoscope Prediction says, life is not a smooth ride today\r\nSettle the issues in the relationship and consider new options to augment the love life. Ha… [+2979 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hindustan Times"
+    },
+    "author": "Dr J.N Pandey",
+    "title": "Taurus Diwali Horoscope Today, October 31, 2024 predicts good returns in business - Hindustan Times",
+    "description": "Taurus Diwali Horoscope Today, October 31, 2024 to know your astrological predictions. Businessmen and educational materials will see good returns. | Horoscope",
+    "url": "https://www.hindustantimes.com/astrology/horoscope/taurus-diwali-horoscope-today-october-31-2024-predicts-good-returns-in-business-101730307821806.html",
+    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/10/30/1600x900/Taurus_diwali_1730309348506_1730309354955.jpg",
+    "publishedAt": "2024-10-30T22:31:14Z",
+    "content": "Taurus (20th April to 20th May)\r\nDaily Horoscope Prediction says, you believe in fair game\r\nDeep love and success at the job are the highlights of the day. There will be prosperity in life which also… [+3072 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Boxoffice Pro"
+    },
+    "author": "Boxoffice Staff",
+    "title": "Weekend Preview: VENOM: THE LAST DANCE Will Tango to the Top Spot Again - Boxoffice Pro",
+    "description": "The Boxoffice Podium Forecasting the Top 3 Movies at the Domestic Box Office | November 1 – 3, 2024 Week 44 | November 1 – 3, 2024Top 10 3-Day Range | Weekend 44, 2024: $35M — $45M 1. Venom: The Last DanceSony Pictures | Week 2Weekend Range: $17M – $23M Pros …",
+    "url": "https://www.boxofficepro.com/weekend-preview-venom-the-last-dance-will-tango-to-the-top-spot-again/",
+    "urlToImage": "https://www.boxofficepro.com/wp-content/uploads/2024/10/Film-Still-Pro-Icon-4.png",
+    "publishedAt": "2024-10-30T22:01:57Z",
+    "content": "Subscribe to our FREE email newsletters to be notified of our latest updates in pre-release tracking, box office analysis, and industry news. Long Range Forecast November 22, 2024 Wicked Part 1 | Uni… [+60 chars]"
+  },
+  {
+    "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+    },
+    "author": "The Wall Street Journal",
+    "title": "Disney to Pay More Than $500 Million to Air the Grammys - The Wall Street Journal",
+    "description": null,
+    "url": "https://www.wsj.com/business/media/disney-to-pay-more-than-500-million-to-air-the-grammys-820a3855",
+    "urlToImage": null,
+    "publishedAt": "2024-10-30T21:14:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hollywood Reporter"
+    },
+    "author": "Kevin Dolak",
+    "title": "Barack Obama Reveals Malia Dropped Surname Off Latest Short Film’s Credits - Hollywood Reporter",
+    "description": "\"I want them to watch it that first time, and not in any way have that association,\" she told her dad upon the festival debut of 'The Heart.'",
+    "url": "http://www.hollywoodreporter.com/lifestyle/lifestyle-news/barack-obama-malia-obama-dropped-last-name-short-film-the-heart-1236049423/",
+    "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2017/08/gettyimages-645163318_-_h_2017.jpg?w=928&h=523&crop=1",
+    "publishedAt": "2024-10-30T20:42:22Z",
+    "content": "Malia Obama used a nom de plume while screening and submitting her most recent short film, which the former first daughter worked on with Emmy winner Donald Glover, to film festivals.\r\nIn an intervie… [+3960 chars]"
+  },
+  {
+    "source": {
+      "id": "buzzfeed",
+      "name": "Buzzfeed"
+    },
+    "author": "Chelsea Stewart",
+    "title": "22 Celebrity Halloween Costumes So Far - BuzzFeed",
+    "description": "These costumes are spooktacular.",
+    "url": "https://www.buzzfeed.com/chelseastewart/best-celebrity-halloween-costumes-2024",
+    "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-10/30/20/enhanced/46664bed9162/original-1220-1730318630-8.jpg?crop=2999:1575;0,0%26downsize=1250:*",
+    "publishedAt": "2024-10-30T20:38:56Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "the-jerusalem-post",
+      "name": "The Jerusalem Post"
+    },
+    "author": "By  JERUSALEM POST STAFF",
+    "title": "'You're not marrying a Jew': Martha Stewart says her father slapped her after engagement - The Jerusalem Post",
+    "description": "In the documentary, Martha Stewart opens up about her childhood and the complicated relationship she had with her father.",
+    "url": "https://www.jpost.com/j-spot/article-826904",
+    "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/631393",
+    "publishedAt": "2024-10-30T19:58:00Z",
+    "content": "In a new Netflix documentary, Martha Stewart reveals that her father slapped her when she got engaged to her fiancé, Andrew Stewart because he was Jewish in articles published by Business Insider and… [+3946 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Soap Hub"
+    },
+    "author": "Ashley Amber",
+    "title": "Here’s Why Sam Really Died On October 30 General Hospital - Soap Hub",
+    "description": "Get the scoop.",
+    "url": "https://soaphub.com/general-hospital/news-gh/why-sam-really-died-october-30/",
+    "urlToImage": "https://soaphub.com/wp-content/uploads/2024/10/general-hospital-recap-october-30-sam-dante-jpg.webp",
+    "publishedAt": "2024-10-30T19:52:30Z",
+    "content": "The October 30, 2024, episode of General Hospital sent shockwaves through Port Charles when Sam went from celebrating her engagement to being pronounced dead.\r\nSam’s (Kelly Monaco) death won’t come a… [+1506 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Page Six"
+    },
+    "author": "Desiree Murphy",
+    "title": "‘Dancing With the Stars’ contestants Ilona Maher, Chandler Kinney react to Carrie Ann Inaba’s critical scoring of their performances - Page Six",
+    "description": "The female contestants — along with their pro partners, Alan Bersten and Brandon Armstrong — exclusively spoke to Page Six about being the only pairs to not receive a “10” from the long…",
+    "url": "https://pagesix.com/2024/10/30/entertainment/dancing-with-the-stars-contestants-ilona-maher-chandler-kinney-react-to-carrie-ann-inabas-critical-scoring-for-halloween-episode/",
+    "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/10/92708418.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-10-30T19:43:22Z",
+    "content": "While many Dancing With the Stars contestants seemed to receive a treat from Carrie Ann Inaba during this weeks Halloween Nightmares episode, others felt tricked by her harsh scoring.\r\nPage Six exclu… [+5126 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Alli Rosenbloom",
+    "title": "Like Halloween but not horror? Here are 15 movies for you - CNN",
+    "description": "You love the spirit of Halloween but watching movies that may haunt you isn’t your thing. Here are 15 movies to watch if you prefer sweet dreams instead of nightmares.",
+    "url": "https://www.cnn.com/2024/10/30/entertainment/halloween-movies-2024/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/05-mcdbatm-wb060.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-10-30T19:27:00Z",
+    "content": "My boss hates Halloween and every year, she struggles to find movies to watch that are in keeping with the spirit of the season but wont give her nightmares. Im honestly tired telling her to watch th… [+3077 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Deadline"
+    },
+    "author": "Greg Evans",
+    "title": "Mel Brooks Recalls The German Accent That Won Teri Garr Her Immortal ‘Young Frankenstein’ Role - Deadline",
+    "description": "Mel Brooks, who directed Teri Garr in the 1974 comedy Young Frankenstein, remembered the actor upon her death yesterday.",
+    "url": "http://deadline.com/2024/10/mel-brooks-teri-garr-young-frankenstein-1236162396/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2024/10/MSDYOFR_FE001.jpg?w=1024",
+    "publishedAt": "2024-10-30T18:41:00Z",
+    "content": "Mel Brooks, who directed Teri Garr in the iconic 1974 comedy Young Frankenstein, remembered the actor upon her death Tuesday, recalling Garr’s talent and spirit.\r\n“So very sorry to hear about Teri Ga… [+2929 chars]"
+  },
   {
     "source": {
       "id": null,

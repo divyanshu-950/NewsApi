@@ -2,6 +2,461 @@
   {
     "source": {
       "id": null,
+      "name": "CNBC"
+    },
+    "author": "Amelia Lucas",
+    "title": "7 ways that Starbucks CEO Brian Niccol plans to change the coffee chain - CNBC",
+    "description": "Starbucks is planning to bring back Sharpies and ceramic mugs and cut back its menu.",
+    "url": "https://www.cnbc.com/2024/10/31/starbucks-ceo-brian-niccol-change.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108055551-1730377852012-SG-Niccol-04.jpg?v=1730377921&w=1920&h=1080",
+    "publishedAt": "2024-10-31T12:17:45Z",
+    "content": "Brian Niccols, CEO of Starbucks, speaking with CNBC on Oct. 31st, 2024. \r\nStarbucks CEO Brian Niccol shared more details about the company's turnaround strategy during the company's quarterly confere… [+7110 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Gabrielle Fonrouge",
+    "title": "Peloton announces Ford exec Peter Stern as its next CEO - CNBC",
+    "description": "Peloton has chosen Ford executive Peter Stern to be its next CEO after Barry McCarthy stepped down earlier this year.",
+    "url": "https://www.cnbc.com/2024/10/31/peloton-ceo-ford-exec-peter-stern.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108055506-1730374828181-stern-peter-014-headshot.jpg?v=1730374886&w=1920&h=1080",
+    "publishedAt": "2024-10-31T11:12:42Z",
+    "content": "Peloton on Thursday said it has appointed Peter Stern, a Ford executive and the cofounder of Apple Fitness+ to be its next CEO and president. \r\nStern, the president of Ford Integrated Services, prima… [+3183 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Gabrielle Fonrouge",
+    "title": "Peloton raises its full-year profit guidance, but expects the holiday quarter to be softer than expected - CNBC",
+    "description": "Peloton's cash flows are improving, but it's expecting to sell fewer bikes and treadmills during its holiday quarter than Wall Street expected.",
+    "url": "https://www.cnbc.com/2024/10/31/peloton-pton-q1-2025-earnings.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108055224-1730321492363-gettyimages-2152088544-img_8483_sn09eiha.jpeg?v=1730321581&w=1920&h=1080",
+    "publishedAt": "2024-10-31T11:06:09Z",
+    "content": "Peloton is back to generating free cash flow and is edging within reach of profitability as the connected fitness company reins in costs and looks to improve the unit economics behind its hardware, i… [+3332 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Lydia Moynihan",
+    "title": "Kalshi’s daring bet on election betting is paying off — to the tune of $100 million - New York Post ",
+    "description": "“We’re letting the market speak instead of pundits, pollsters, people, political figures, people with biases or conflicts of interest, people that had incentives or not,” Kalshi CEO Tarek Man…",
+    "url": "https://nypost.com/2024/10/31/business/kalshis-daring-bet-on-election-betting-is-paying-off/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/Kalshi-Infographic-photos-from-Kashi.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-10-31T11:00:00Z",
+    "content": "Two 20-something New Yorkers have added an entirely new dimension to the 2024 presidential election: legal betting. \r\nThe new platform Kalshi offers the first legal election betting in the US in over… [+6766 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Fox Business"
+    },
+    "author": "Eric Revell",
+    "title": "October jobs report to arrive days ahead of Election Day, Fed's rate cut decision - Fox Business",
+    "description": "The release of the October jobs report on Friday that will give American voters and the Fed's policymakers a last look at labor market data ahead of Election Day and the Fed meeting.",
+    "url": "https://www.foxbusiness.com/economy/october-jobs-report-arrive-days-ahead-election-day-feds-rate-cut-decision",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/10/0/0/hiring-sign-job-fair.jpg?ve=1&tl=1",
+    "publishedAt": "2024-10-31T10:00:00Z",
+    "content": "The Labor Department is scheduled to release its jobs report\r\n for October on Friday, which will be the last major economic data release ahead of Election Day and the Federal Reserve's policy meeting… [+4746 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Lisa Pauline Mattackal",
+    "title": "Futures tumble as Meta, Microsoft cost warnings highlight AI trade risks - Yahoo Finance",
+    "description": "(Reuters) -Wall Street futures tumbled on Thursday as warnings from Meta Platforms and Microsoft about rising AI-related costs dampened optimism around...",
+    "url": "https://finance.yahoo.com/news/futures-tumble-meta-microsoft-cost-094829806.html",
+    "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/d82fb6ccf31c252e5d801e3e08393175",
+    "publishedAt": "2024-10-31T09:48:29Z",
+    "content": "By Lisa Pauline Mattackal\r\n(Reuters) -Wall Street futures tumbled on Thursday as warnings from Meta Platforms and Microsoft about rising AI-related costs dampened optimism around megacap stocks, whic… [+2944 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Barron's"
+    },
+    "author": "Barron's",
+    "title": "Meta Stock Falling After Facebook Parent's Earnings Beat. Spending Is an Issue. - Barron's",
+    "description": null,
+    "url": "https://www.barrons.com/articles/facebook-meta-earnings-stock-price-b01caabf",
+    "urlToImage": null,
+    "publishedAt": "2024-10-31T09:36:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "politico",
+      "name": "Politico"
+    },
+    "author": "Declan Harty",
+    "title": "Wall Street CEOs are betting on Trump. Stocks suggest a Harris win. - POLITICO",
+    "description": "Voters are clamoring for any hints of clarity about the neck-and-neck presidential race, so some are looking beyond public opinion polls.",
+    "url": "https://www.politico.com/news/2024/10/31/stock-market-betting-kamala-harris-win-00185818",
+    "urlToImage": "https://static.politico.com/6c/77/01ac5de94aafb3fe2d76a3ed277c/financial-markets-wall-street-97462.jpg",
+    "publishedAt": "2024-10-31T09:00:00Z",
+    "content": "If the index is falling, the theory goes, investors are bracing for more uncertainty from a new administration. But a climb in the S&amp;P 500 signals that the market is expecting the current preside… [+5789 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "John Revill",
+    "title": "Siemens' $10.6 billion Altair deal seen boosting industrial software offering - Yahoo Finance",
+    "description": "(Reuters) -Siemens is to buy U.S. engineering software firm Altair Engineering for $10.6 billion, strengthening its position in the growing market for...",
+    "url": "https://finance.yahoo.com/news/siemens-buy-engineering-software-firm-204053384.html",
+    "urlToImage": "https://media.zenfs.com/en/reuters.com/928e4c84d2ba4a45cdcd2112297ba3ca",
+    "publishedAt": "2024-10-31T08:48:30Z",
+    "content": "By John Revill\r\n(Reuters) -Siemens is to buy U.S. engineering software firm Altair Engineering for $10.6 billion, strengthening its position in the growing market for industrial software.\r\nThe deal, … [+2481 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Lim Hui Jie",
+    "title": "Asia markets slip as BOJ holds rates; China factory activity expands for first time since April - CNBC",
+    "description": "The Bank of Japan is expected to hold rates at 0.25%, according to a Reuters poll of economists.",
+    "url": "https://www.cnbc.com/2024/10/31/asia-markets.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108055316-1730329750125-gettyimages-2172308362-JAPAN_BOJ.jpeg?v=1730329798&w=1920&h=1080",
+    "publishedAt": "2024-10-31T07:41:00Z",
+    "content": "Kazuo Ueda, governor of the Bank of Japan (BOJ), speaks during a news conference at the central bank's headquarters in Tokyo, Japan\r\nAsia-Pacific markets slipped Thursday as investors look to the Ban… [+2421 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Stellantis.com"
+    },
+    "author": null,
+    "title": "Third Quarter 2024 Shipments and Revenues - Stellantis",
+    "description": "&nbsp;\r\nStellantis Reports Lower Q3 2024 Net Revenues Amid Transitional Period&nbsp;<b",
+    "url": "https://www.stellantis.com/en/news/press-releases/2024/october/third-quarter-2024-shipments-and-revenues",
+    "urlToImage": "https://www.stellantis.com/content/dam/stellantis-corporate/news/press-releases/share-icons/share-icons-v1.png",
+    "publishedAt": "2024-10-31T07:03:21Z",
+    "content": "AMSTERDAM  Stellantis reports lower Q3 2024 Net revenues amid transitional period of product upgrades and inventory reduction actions. The Company reiterates its 2024 financial guidance, which was up… [+6720 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Sonia Heng",
+    "title": "Chinese EV maker BYD's quarterly sales overtook Tesla's for the first time - CNBC",
+    "description": "The milestone comes amid tough competition in China, the world's largest auto market, as well as higher tariffs on imports of Chinese EVs into the EU.",
+    "url": "https://www.cnbc.com/2024/10/31/chinese-ev-maker-byds-quarterly-sales-overtook-teslas-for-the-first-time.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108055345-1730336435430-2024-10-29T163944Z_52995210_RC22RAACF9SY_RTRMADP_3_EUROPE-CHINA-AUTOS.JPG?v=1730336498&w=1920&h=1080",
+    "publishedAt": "2024-10-31T06:23:01Z",
+    "content": "Chinese electric vehicle maker BYD reported third-quarter revenue that topped that of behemoth rival Tesla for the first time.\r\nOn Wednesday, BYD reported revenue for the three months ended Sept. 30 … [+2206 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Brian Evans",
+    "title": "S&P 500 futures slip after Microsoft reports; traders brace for key inflation data: Live updates - CNBC",
+    "description": "Traders reviewed results from Microsoft and Meta Platforms, and they looked ahead to a key inflation reading due Thursday morning.",
+    "url": "https://www.cnbc.com/2024/10/30/stock-market-today-live-updates.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107390842-17110323172024-03-21t004447z_773410090_rc2wp6a0wuro_rtrmadp_0_usa-fed-investors.jpeg?v=1711578069&w=1920&h=1080",
+    "publishedAt": "2024-10-31T05:26:00Z",
+    "content": "Stock futures slid on Thursday morning as Wall Street absorbed a fresh batch of earnings reports from megacap technology names.\r\nS&amp;P 500 futures lost 0.48%, and Nasdaq 100 futures fell about 0.7%… [+1657 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Tipranks.com"
+    },
+    "author": "Sheryl Sheth",
+    "title": "Analysts Cautious on Super Micro Computer (NASDAQ:SMCI) Post E&Y Exit - TipRanks",
+    "description": "Analysts have drawn caution on AI (artificial intelligence) player Super Micro Computer ($SMCI) stock after the surprise exit of its auditor, Ernst  Young LLP,...",
+    "url": "https://us.tipranks.com/news/analysts-cautious-on-super-micro-computer-nasdaqsmci-post-ey-exit",
+    "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/10/shutterstock_1826145776-750x406.jpg",
+    "publishedAt": "2024-10-31T05:05:01Z",
+    "content": "Analysts have drawn caution on AI (artificial intelligence) player Super Micro Computer (SMCI) stock after the surprise exit of its auditor, Ernst &amp; Young LLP, yesterday. Ernst &amp; Young (E&amp… [+2678 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": "Heekyong Yang, Hyunjoo Jin",
+    "title": "Samsung says it is making headway in AI chip supply after disappointing results - Reuters",
+    "description": "Samsung Electronics said it would focus on producing high-end chips and was making progress on a major supply deal, as it sought to allay investor concerns over its semiconductor business that suffered a 40% quarter-on-quarter profit plunge.",
+    "url": "https://www.reuters.com/technology/samsung-posts-weaker-profit-recovery-it-misses-out-ai-boom-2024-10-30/",
+    "urlToImage": "https://www.reuters.com/resizer/v2/E2TT4SMU6RNGPCP7VDL4HYDUFY.jpg?auth=6bf09c5b89157ef0cdbfac571ad50bb54041a638080c497826050af4aca4edeb&height=1005&width=1920&quality=80&smart=true",
+    "publishedAt": "2024-10-31T05:03:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Philip Bump, Lenny Bronner",
+    "title": "Column | The vast majority of early voters were probably going to vote anyway - The Washington Post",
+    "description": "As with everything this election, it’s what’s at the margin that could make the difference.",
+    "url": "https://www.washingtonpost.com/politics/2024/10/30/vast-majority-early-voters-were-probably-going-vote-anyway/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FE7YSBI744PBWEK7DMNEG7IITU_size-normalized.jpg&w=1440",
+    "publishedAt": "2024-10-31T01:41:55Z",
+    "content": "Elon Musk approaches information about the 2024 election with the passion of a new convert: enthusiastic about what he sees, even if he doesnt entirely understand it. This tendency overlaps with his … [+103 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WKRC TV Cincinnati"
+    },
+    "author": "WKRC",
+    "title": "Man randomly assaults sleeping United passenger mid-flight - WKRC TV Cincinnati",
+    "description": "A man was facing felony charges after he punched a sleeping passenger during a flight.",
+    "url": "https://local12.com/news/nation-world/man-randomly-assaults-sleeping-united-passenger-mid-flight-bloody-blood-airline-hurt-hospitalized-no-motive-relationship-bathroom-exited-plane-attack-criminal",
+    "urlToImage": "https://local12.com/resources/media2/16x9/6000/986/0x313/90/d423b47e-746c-4a5f-a2ea-e1c5170061e9-AP24103498111937.jpg",
+    "publishedAt": "2024-10-31T01:28:52Z",
+    "content": "SAN FRANCISCO (WKRC) - A man was facing felony charges after he punched a sleeping passenger during a flight.\r\nThe assault happened about two hours into a five-hour United flight from California to W… [+981 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Jordan Novet",
+    "title": "Microsoft CFO says OpenAI investment will cut into profit this quarter - CNBC",
+    "description": "Microsoft has invested over $13 billion in OpenAI, a bet that's weighing on the company's profitability.",
+    "url": "https://www.cnbc.com/2024/10/30/microsoft-cfo-says-openai-investment-will-cut-into-profit-this-quarter.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107329682-1699299150834-gettyimages-1778708098-js2_4099_isifrhca.jpeg?v=1730332494&w=1920&h=1080",
+    "publishedAt": "2024-10-31T00:46:00Z",
+    "content": "Microsoft's massive investment in OpenAI is weighing on earnings.\r\nFollowing Microsoft's quarterly earnings report on Wednesday, CFO Amy Hood said she expects the company to take a $1.5 billion hit t… [+2593 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Tipranks.com"
+    },
+    "author": "Marty Shtrubel",
+    "title": "Cathie Wood Loads Up on Amazon Stock Ahead of Earnings - TipRanks",
+    "description": "It’s almost time for Amazon (NASDAQ:AMZN) to report 3Q24 earnings, with the ecommerce giant slated to release its latest financial statement once the market action ...",
+    "url": "https://us.tipranks.com/news/cathie-wood-loads-up-on-amazon-stock-ahead-of-earnings",
+    "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/10/Cathie-Wood-AMZN-750x406.jpg",
+    "publishedAt": "2024-10-31T00:35:52Z",
+    "content": "Its almost time for Amazon (NASDAQ:AMZN) to report 3Q24 earnings, with the ecommerce giant slated to release its latest financial statement once the market action comes to a halt on Thursday (October… [+3203 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MarketWatch"
+    },
+    "author": "Emily Bary, Tomi Kilgore, Ciara Linnane",
+    "title": "Microsoft earnings: Stock falls as company forecasts Azure cloud slowdown - MarketWatch",
+    "description": "Microsoft reported earnings after the close of trading Wednesday, beating with its results but forecasting a slowdown in its cloud business for the current quarter.",
+    "url": "https://www.marketwatch.com/livecoverage/microsoft-earnings-stock-resuls-ai-azure-cloud-guidance",
+    "urlToImage": "https://images.mktw.net/im-71126589/social",
+    "publishedAt": "2024-10-31T00:31:00Z",
+    "content": "Microsoft's management team feels good about how the company will benefit financially from artificial intelligence as the technology evolves. CEO Satya Nadella says the company is present in the righ… [+559 chars]"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": null,
+    "title": "Reddit’s explosive user growth and AI tools help it soar to its first profit as a public company - The Associated Press",
+    "description": "Reddit has turned a profit for the first time as a public company. The social platform claimed a profit of $29.9 million for the period ending in September, and reported sales of $348.4 million, an amount surpassing the $312.8 million analysts had projected. …",
+    "url": "https://apnews.com/article/reddit-third-quarter-profit-5a9e32159a947094ae801ab107c950da",
+    "urlToImage": "https://dims.apnews.com/dims4/default/53af2a8/2147483647/strip/true/crop/8028x4516+0+420/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F52%2F02%2F0d6dead5ce4532b02f5afb64b7a6%2F1ca3914fa3334b7e9a511a2462b34764",
+    "publishedAt": "2024-10-30T23:35:00Z",
+    "content": "NEW YORK (AP) Reddit has turned a profit for the first time as a public company. \r\nThe social platform claimed a profit of $29.9 million, or 16 cents per share, for the period ending in September, an… [+1734 chars]"
+  },
+  {
+    "source": {
+      "id": "newsweek",
+      "name": "Newsweek"
+    },
+    "author": "Sonam Sheth",
+    "title": "Trump Media Stock Plummets in Worst Trading Day Since Going Public - Newsweek",
+    "description": "Donald Trump's namesake company just saw its worst trading day since going public, with shares tanking by more than 20%.",
+    "url": "https://www.newsweek.com/djt-donald-trump-media-stock-worst-trading-day-1977632",
+    "urlToImage": "https://d.newsweek.com/en/full/2508384/donald-trump.jpg",
+    "publishedAt": "2024-10-30T22:07:38Z",
+    "content": "Shares of the Trump Media &amp; Technology Group (TMTG) tanked more than 20 percent on Wednesday, marking the company's single worst trading day since it first went public in March.\r\nThe company's st… [+3098 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Alexandra Canal",
+    "title": "Roku stock tumbles after Q4 guidance disappoints, company says it will stop reporting key user figure - Yahoo Finance",
+    "description": "Roku shares are falling after the company reported disappointing guidance for the current quarter and said it will stop reporting certain subscriber figures ...",
+    "url": "https://finance.yahoo.com/news/roku-stock-tumbles-after-q4-guidance-disappoints-company-says-it-will-stop-reporting-key-user-figure-215329174.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IO9hVAHWRb.T4mNl54U50w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDM-/https://s.yimg.com/os/creatr-uploaded-images/2021-11/8ebdc580-3ced-11ec-af36-d2878ad1ba75",
+    "publishedAt": "2024-10-30T21:53:29Z",
+    "content": "Roku (ROKU) stock fell more than 10% in after-hours trading on Wednesday after the company's Q4 guidance disappointed, despite the media player reporting its first quarter of $1 billion in revenue.\r\n… [+2602 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CoinDesk"
+    },
+    "author": "Danny Nelson",
+    "title": "Coinbase Pours $25M More Into Fairshake as CEO Armstrong Says 'We’re Not Slowing Down' - CoinDesk",
+    "description": "“The crypto voter is already a force to be reckoned with, but it will continue to grow,” CEO Brian Armstrong said.",
+    "url": "https://www.coindesk.com/policy/2024/10/30/coinbase-pours-25m-more-into-fairshake-as-ceo-armstrong-says-were-not-slowing-down/",
+    "urlToImage": "https://www.coindesk.com/resizer/JNh42T3tr7taCk-LkyX04k90d-g=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/K5PM2RHIBJCBNJBVUBK53FVSRM.png",
+    "publishedAt": "2024-10-30T21:41:00Z",
+    "content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhave been updated.\r\nCoinDesk is anaward-winningmedia outlet that covers the cryptocurrency industry. Its… [+457 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": "Christina Amann, Andrey Sychev",
+    "title": "VW demands 10% wage cuts to save jobs as profits plunge - Reuters",
+    "description": "Volkswagen argued it was the only way that Europe's biggest carmaker could save jobs and remain competitive.",
+    "url": "https://www.reuters.com/business/autos-transportation/volkswagen-reports-third-quarter-profit-slump-major-overhaul-looms-2024-10-30/",
+    "urlToImage": "https://www.reuters.com/resizer/v2/24H77ZPMQBLBFPKZW5KHTOMKRY.jpg?auth=6dcf28ef56e0d8a683c79152fb838bbdfa592f434bb778a7f3e128ea581ae91a&height=1005&width=1920&quality=80&smart=true",
+    "publishedAt": "2024-10-30T21:40:45Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Starbucks.com"
+    },
+    "author": null,
+    "title": "Starbucks Announces Removal of Extra Charge for Non-Dairy Milk Starting Nov. 7 - Starbucks Stories",
+    "description": "Customers in U.S. and Canada company-owned and operated stores will no longer pay extra for customizing their beverage with non-dairy milk.",
+    "url": "https://stories.starbucks.com/press/2024/starbucks-announces-removal-of-extra-charge-for-non-dairy-milk-starting-nov-7/",
+    "urlToImage": "https://stories.starbucks.com/uploads/2024/10/Starbucks-Alt-Milk-Feature.jpg",
+    "publishedAt": "2024-10-30T21:31:05Z",
+    "content": "Timed with Starbucks holiday launch on November 7, customers in U.S. and Canada company-owned and operated stores will no longer pay extra for customizing their beverage with non-dairy milk including… [+1919 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Barron's"
+    },
+    "author": "Barron's",
+    "title": "Alphabet Earnings Had Wall Street on Edge. There Was No Need to Fret. - Barron's",
+    "description": null,
+    "url": "https://www.barrons.com/articles/alphabet-earnings-report-wall-street-db631393",
+    "urlToImage": null,
+    "publishedAt": "2024-10-30T21:27:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Decrypt"
+    },
+    "author": "Decrypt",
+    "title": "Coinbase Shares Dip After Earnings Miss as Crypto Exchange Plans $1 Billion Buyback - Decrypt",
+    "description": null,
+    "url": "https://decrypt.co/289240/coinbase-q3-earnings-miss-buyback",
+    "urlToImage": null,
+    "publishedAt": "2024-10-30T21:18:01Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Julie Hyman",
+    "title": "Mag 7 earnings underline the group's huge market influence - Yahoo Finance",
+    "description": "Alphabet (GOOG, GOOGL) delivered an earnings beat, sending the stock higher and fueling confidence in the “Magnificent Seven” group. With Microsoft (MSFT...",
+    "url": "https://finance.yahoo.com/video/magnificent-7-earnings-underline-groups-211200909.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/m6TL7ePmyLjd_6JO_ApZFw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/2ad21ff0-9701-11ef-abff-f898ab94d873",
+    "publishedAt": "2024-10-30T21:12:00Z",
+    "content": "Alphabet (GOOG, GOOGL) delivered an earnings beat, sending the stock higher and fueling confidence in the Magnificent Seven group. With Microsoft (MSFT), Meta Platforms (META), Amazon (AMZN), and App… [+1383 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "SpaceNews"
+    },
+    "author": "",
+    "title": "Space Force opens national security launch contracts to new players - SpaceNews",
+    "description": "For this on-ramp opportunity, prospective launch providers must have a credible plan for a first launch by December 2025",
+    "url": "https://spacenews.com/space-force-opens-national-security-launch-contracts-to-new-players/",
+    "urlToImage": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/08/neutron-2023.jpg?resize=1200%2C782&ssl=1",
+    "publishedAt": "2024-10-30T20:49:32Z",
+    "content": "WASHINGTON The U.S. Space Force on Oct. 30 opened the bidding process for emerging space launch providers to compete for national security missions under the National Security Space Launch (NSSL) Pha… [+1850 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Michael Wayland",
+    "title": "Carvana raises 2024 earnings guidance after topping Wall Street's Q3 expectations - CNBC",
+    "description": "Carvana said its adjusted EBITDA would be \"significantly above the high end\" of its previous target of $1 billion to $1.2 billion.",
+    "url": "https://www.cnbc.com/2024/10/30/carvana-cvna-q3-2024-earnings.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107367916-1706819214355-IMG_8094.JPG?v=1730321180&w=1920&h=1080",
+    "publishedAt": "2024-10-30T20:31:31Z",
+    "content": "Carvana on Wednesday raised its 2024 earnings guidance after the online used-car retailer significantly topped Wall Street's third-quarter expectations.\r\nHere's how the company performed in the third… [+1494 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CoinDesk"
+    },
+    "author": "Stephen  Alpher",
+    "title": "Michael Saylor's MicroStrategy Plans to Raise $42B to Buy More Bitcoin Over Next 3 Years - CoinDesk",
+    "description": "The company reported its third quarter earnings results after the close of trading on Wednesday afternoon.",
+    "url": "https://www.coindesk.com/business/2024/10/30/michael-saylors-microstrategy-plans-to-raise-42b-to-buy-more-bitcoin-over-next-3-years/",
+    "urlToImage": "https://www.coindesk.com/resizer/7PmGQns6dn8cIfSfdXiFOIJm1GU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/G7I5DIH6F5DWBAHMGJA6SBTYQ4.jpg",
+    "publishedAt": "2024-10-30T20:13:00Z",
+    "content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhave been updated.\r\nCoinDesk is anaward-winningmedia outlet that covers the cryptocurrency industry. Its… [+457 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Cdc.gov"
+    },
+    "author": "CDC",
+    "title": "E. coli Outbreak Linked to Onions Served at McDonald’s | E. coli infection - CDC",
+    "description": "Learn about a multistate outbreak of <em>E. coli </em>infections linked to onions served on burgers.",
+    "url": "https://www.cdc.gov/ecoli/outbreaks/e-coli-O157.html",
+    "urlToImage": "https://www.cdc.gov/ecoli/media/images/2024/10/quarter-pounder-1200x675-1.jpg?_=24020",
+    "publishedAt": "2024-10-30T19:41:15Z",
+    "content": "CDC, FDA, USDA-FSIS, and public health officials in multiple states are investigating an outbreak of E. coli O157:H7 infections. Most people in this outbreak are reporting eating the Quarter Pounder … [+555 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Fox Business"
+    },
+    "author": "Breck Dumas",
+    "title": "Governors urge grid operator to take action amid record-high power plant prices - Fox Business",
+    "description": "Five governors are calling on PJM to take urgent action to address electric bills in their states after the grid operator awarded record-high prices to power plant operator.",
+    "url": "https://www.foxbusiness.com/politics/governors-urge-grid-operator-take-action-amid-record-high-power-plant-prices",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/10/0/0/gettyimages-2153309254.jpg?ve=1&tl=1",
+    "publishedAt": "2024-10-30T19:22:00Z",
+    "content": "Five Democratic governors are calling on the nation's largest grid operator, PJM Interconnection, to change the process it uses to determine the price paid to power plants after record-high prices we… [+3049 chars]"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Megan Cerullo",
+    "title": "Airlines must now give automatic refunds for significant delays. Here's what to know. - CBS News",
+    "description": "The new rule standardizes what constitutes a significant delay, and forces airlines to provide automatic refunds to customers.",
+    "url": "https://www.cbsnews.com/news/airline-refunds-for-delayed-flights-dot-rule/",
+    "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/30/72158cca-f8e3-48c3-96b1-570ddfbbd9be/thumbnail/1200x630/9836eaad3aec3a929e93922565849c83/gettyimages-1172692318.jpg?v=da20036415aedcaca28a32ffe615549e",
+    "publishedAt": "2024-10-30T19:08:01Z",
+    "content": "Airlines are now required to give customers automatic refunds, under a new Department of Transportation rule that went into effect this week. \r\nWhile the new regulation won't make grappling with flig… [+3619 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "ETF Daily News"
     },
     "author": "MarketBeat News",
