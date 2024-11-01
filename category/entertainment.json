@@ -170,19 +170,6 @@
   },
   {
     "source": {
-      "id": null,
-      "name": "[Removed]"
-    },
-    "author": null,
-    "title": "[Removed]",
-    "description": "[Removed]",
-    "url": "https://removed.com",
-    "urlToImage": null,
-    "publishedAt": "2024-10-31T02:17:00Z",
-    "content": "[Removed]"
-  },
-  {
-    "source": {
       "id": "cnn",
       "name": "CNN"
     },
@@ -558,19 +545,7 @@
     "publishedAt": "2024-09-22T09:14:53Z",
     "content": "StockNews.com initiated coverage on shares of Cinedigm (NASDAQ:CIDM – Free Report) in a research note published on Saturday morning. The firm issued a hold rating on the stock.\r\nCinedigm Stock Up 1.3… [+1015 chars]"
   },
-  {
-    "source": {
-      "id": null,
-      "name": "[Removed]"
-    },
-    "author": null,
-    "title": "[Removed]",
-    "description": "[Removed]",
-    "url": "https://removed.com",
-    "urlToImage": null,
-    "publishedAt": "2024-09-22T09:14:53Z",
-    "content": "[Removed]"
-  },
+ 
   {
     "source": {
       "id": null,
@@ -687,19 +662,6 @@
     "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2024/09/GettyImages-182880596_0157e0-e1726993744981.jpg?fit=5000%2C2825",
     "publishedAt": "2024-09-22T08:50:44Z",
     "content": "At least four people were killed and dozens more injured in a mass shooting in one of Birmingham, Alabamas most popular entertainment areas on Saturday evening, according to the Birmingham Police Dep… [+2201 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "[Removed]"
-    },
-    "author": null,
-    "title": "[Removed]",
-    "description": "[Removed]",
-    "url": "https://removed.com",
-    "urlToImage": null,
-    "publishedAt": "2024-09-22T08:41:50Z",
-    "content": "[Removed]"
   },
   {
     "source": {
