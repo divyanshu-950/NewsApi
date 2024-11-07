@@ -1,6 +1,370 @@
 { "articles": [
   {
     "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Kate Gibson",
+    "title": "What one stock market gauge is predicting about the presidential race - CBS News",
+    "description": "One market strategist notes a pattern based on whether the S&P 500 rises or falls between the end of July and Halloween.",
+    "url": "https://www.cbsnews.com/news/election-2024-stock-market-prediction-trump-kamala-harris-stovall/",
+    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2019/01/11/807aea7b-9ed2-4763-a5a1-15a7c3ba14b2/thumbnail/1200x630/7ee672eae4635176be691be9f9055f90/nyse-gettyimages-1079740858.jpg?v=c1d30b1df13c40bf65c6c1e6d9ac4ad7",
+    "publishedAt": "2024-11-06T00:19:26Z",
+    "content": "If history is any guide, one stock market gauge suggests that Vice President Kamala Harris will defeat former President Donald Trump in the 2024 presidential race. \r\nIn all but two elections since 19… [+1955 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Alexandra Canal",
+    "title": "Stock market live: Election night updates and impacts - Yahoo Finance",
+    "description": "Investors are in wait-and-see mode to find out whether Harris or Trump will win the US election.",
+    "url": "https://finance.yahoo.com/news/live/stock-market-live-election-night-updates-and-impacts-230305879.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.lIFwj4HRx1xJ5B_e.xKsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTQ-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/6a8e8750-9bbb-11ef-bf5d-d364b54d2d60",
+    "publishedAt": "2024-11-06T00:00:00Z",
+    "content": "US stock futures moved higher as investors brace for the results of the US presidential election, which are expected to roll in over the next several hours.\r\nNear 8 p.m. ET, contracts on the tech-hea… [+7939 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Akash Sriram and Stephen Nellis",
+    "title": "Super Micro shares fall as server maker misses sales targets, annual filing uncertain - Yahoo Finance",
+    "description": "(Reuters) -Super Micro Computer, whose auditor unexpectedly stepped down last week, flagged uncertainty on Tuesday about the timing of its annual report but ...",
+    "url": "https://finance.yahoo.com/news/super-micro-says-cannot-predict-212522589.html",
+    "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/3a3930a6ed5f9fb8a8a1cc77e639d227",
+    "publishedAt": "2024-11-05T23:40:19Z",
+    "content": "By Akash Sriram and Stephen Nellis\r\n(Reuters) -Super Micro Computer, whose auditor unexpectedly stepped down last week, flagged uncertainty on Tuesday about the timing of its annual report but said a… [+2239 chars]"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Aimee Picchi",
+    "title": "Donald Trump's Trump Media posts earnings as DJT stock halts on Election Day. Here are the details. - CBS News",
+    "description": "Trump Media & Technology Group's main asset is the social media app Truth Social. Here's how it's performing.",
+    "url": "https://www.cbsnews.com/news/donald-trump-media-djt-election-day-2024/",
+    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/30/db787214-ca84-49dc-8fb2-5d79f74586f9/thumbnail/1200x630/28b7cbf8908facc462110262f38670a5/cbsn-fusion-trump-attempts-to-win-back-latinx-support-as-fallout-from-puerto-rico-rally-comment-continues-thumbnail.jpg?v=c1d30b1df13c40bf65c6c1e6d9ac4ad7",
+    "publishedAt": "2024-11-05T23:15:44Z",
+    "content": "Donald Trump's Trump Media &amp; Technology Group had an eventful Election Day 2024, with its DJT stock halted three times after the shares suddenly plunged. At the end of the trading day, the Truth … [+2456 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Pras Subramanian",
+    "title": "Ferrari stock slides as China deliveries hit roadblock - Yahoo Finance",
+    "description": "Ferrari stock slipped on Tuesday after the Italian luxury automaker reported third quarter results that were in line with expectations but deliveries that...",
+    "url": "https://finance.yahoo.com/news/ferrari-stock-slides-as-china-deliveries-hit-roadblock-171649688.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kaiZLJksUFiFWi7llDJ.Xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/2d2ab510-2efa-11ef-a277-ebae042c1bf6",
+    "publishedAt": "2024-11-05T22:05:56Z",
+    "content": "Ferrari (RACE) stock slipped on Tuesday after the Italian luxury automaker reported third quarter results that were in line with expectations but deliveries that slumped compared to a year ago. Ferra… [+4287 chars]"
+  },
+  {
+    "source": {
+      "id": "the-verge",
+      "name": "The Verge"
+    },
+    "author": "Emma Roth",
+    "title": "Apple reportedly facing first-ever EU fine over App Store rules - The Verge",
+    "description": "Apple will soon face its first penalty from the European Union after the bloc found that its anti-steering practices violated the Digital Markets Act.",
+    "url": "https://www.theverge.com/2024/11/5/24289067/apple-eu-fine-digital-markets-act-app-store",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/GO4gvqNZ1LRy8Pwz0XQMjTi3L1M=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25697380/STK071_APPLE_A.jpg",
+    "publishedAt": "2024-11-05T22:01:14Z",
+    "content": "Apple reportedly facing first-ever EU fine over App Store rules\r\nApple reportedly facing first-ever EU fine over App Store rules\r\n / The Digital Markets Act allows for a potentially massive fine over… [+233 chars]"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "ABC News",
+    "title": "Boeing workers agree to new contract offer, concluding strike - ABC News",
+    "description": null,
+    "url": "https://abcnews.go.com/Business/boeing-workers-vote-new-contract-end-strike/story?id\\\\u003d115462308",
+    "urlToImage": null,
+    "publishedAt": "2024-11-05T21:37:45Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Matt Egan",
+    "title": "Trump’s media stock is halted for extremely volatile trading as America goes to the polls - CNN",
+    "description": "Former President Donald Trump’s social media company was temporarily halted – twice – after a sudden and precipitous plunge on Election Day following a massive surge.",
+    "url": "https://www.cnn.com/2024/11/05/investing/trump-stock-election-truth-social/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182946223.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-11-05T21:10:00Z",
+    "content": "Former President Donald Trumps social media company was temporarily halted twice after a sudden and precipitous plunge on Election Day following a massive surge.\r\nShares of Truth Social owner Trump M… [+3160 chars]"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Saleen Martin",
+    "title": "CO man's family says he was sick twice after eating McDonald's Quarter Pounder: Reports - USA TODAY",
+    "description": "James Charles Smith lived in Grand Junction and frequently went to McDonald’s with his wife to get a Quarter Pounder. He died on Oct. 20.",
+    "url": "https://www.usatoday.com/story/money/food/2024/11/05/mcdonalds-e-coli-colorado-death/76069928007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/11/05/USAT/76070545007-2180538535.jpg?crop=5999,3375,x0,y312&width=3200&height=1801&format=pjpg&auto=webp",
+    "publishedAt": "2024-11-05T21:02:38Z",
+    "content": "A Colorado family is speaking out after its patriarch became the first death resulting from an E. coli outbreak that has plagued McDonald's in recent weeks.\r\nJames Charles Smith, also known as JC Smi… [+5111 chars]"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Mike Snider",
+    "title": "TGI Fridays bankruptcy: Concerns about nearly $50 million in unused gift cards - USA TODAY",
+    "description": "During the first hearing about TGI Fridays' bankruptcy process, franchisees had concerns about nearly $50 million in outstanding gift cards.",
+    "url": "https://www.usatoday.com/story/money/2024/11/05/tgi-fridays-bankruptcy-gift-cards/76064934007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/11/05/USAT/76069263007-20241102-t-193158-z-1259282058-rc-25-xaaxfu-58-rtrmadp-3-tgifridaysbankruptcy.JPG?crop=6494,3650,x0,y1206&width=3200&height=1799&format=pjpg&auto=webp",
+    "publishedAt": "2024-11-05T20:42:28Z",
+    "content": "As TGI Friday's bankruptcy process moves forward, some of the beleaguered chain's restaurants are afraid they will be stuck handling nearly $50 million in gift cards.\r\nIf you are a card holder, you m… [+5351 chars]"
+  },
+  {
+    "source": {
+      "id": "the-hill",
+      "name": "The Hill"
+    },
+    "author": "Taylor Giorno",
+    "title": "Trump mourns Home Depot founder, GOP donor Bernie Marcus: ‘An extraordinary man’ - The Hill",
+    "description": "Former President Trump on Tuesday mourned “legendary entrepreneur and political genius” Bernie Marcus, the Home Depot founder and prominent Republican mega-donor who died Monday at the age of 95. “He was my supporter from the beginning and was always there wh…",
+    "url": "https://thehill.com/homenews/campaign/4973401-trump-mourns-home-depot-founder-gop-donor-bernie-marcus-an-extraordinary-man/",
+    "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/11/AP19175614189132-e1730839170273.jpg?w=1280",
+    "publishedAt": "2024-11-05T20:39:00Z",
+    "content": "Skip to content\r\nFormer President Trump on Tuesday mourned “legendary entrepreneur and political genius” Bernie Marcus, the Home Depot founder and prominent Republican mega-donor who died Monday at t… [+1303 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Fox Business"
+    },
+    "author": "Aislinn Murphy",
+    "title": "Companies, including Krispy Kreme and UberEats, roll out deals for Election Day - Fox Business",
+    "description": "A slew of companies have launched Election Day deals and freebies, including Uber, Lyft, Johnny Rockets and others.",
+    "url": "https://www.foxbusiness.com/lifestyle/companies-including-krispy-kreme-ubereats-roll-out-deals-election-day",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/11/0/0/voting-sticker.jpg?ve=1&tl=1",
+    "publishedAt": "2024-11-05T20:29:00Z",
+    "content": "A slew of companies has launched Election Day deals and freebies.\r\nThis comes as millions of Americans are heading to the voting booths on Tuesday, joining millions of others who already participated… [+3140 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": "Florence Loeve, Sudip Kar-Gupta",
+    "title": "Netflix under tax fraud investigation as offices in France and Netherlands raided - Reuters",
+    "description": "Investigators searched the offices of U.S. streaming giant Netflix in France and the Netherlands on Tuesday as part of a preliminary investigation into tax fraud laundering, a French judicial source said.",
+    "url": "https://www.reuters.com/business/media-telecom/investigators-search-netflix-offices-france-netherlands-source-2024-11-05/",
+    "urlToImage": "https://www.reuters.com/resizer/v2/4ELSCEOXCRMGPPR6CBWPF6QDBI.jpg?auth=16ed575fb081bd6af30627c0684a5cfc771fe7c0d3eacc8deed210b3b5bf1ff6&height=1005&width=1920&quality=80&smart=true",
+    "publishedAt": "2024-11-05T20:21:47Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Investopedia"
+    },
+    "author": "Bill McColl",
+    "title": "Top Stock Movers Now: Trump Media, Tesla, Palantir, and More - Investopedia",
+    "description": "Major U.S. indexes gained at midday Tuesday as investors awaited the results of the U.S. presidential election.",
+    "url": "https://www.investopedia.com/top-stock-movers-now-trump-media-tesla-palantir-and-more-8739936",
+    "urlToImage": "https://www.investopedia.com/thmb/-tFby6iGL5NgfrWSF6qlaRXxDJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2182431318-2666c817d1da4f3ba2bd5f21c9961f9c.jpg",
+    "publishedAt": "2024-11-05T18:55:06Z",
+    "content": "<ul><li>Major U.S. indexes gained at midday Tuesday as investors awaited the results of the U.S. presidential election. </li><li>Shares of Trump Media &amp; Technology Group, the social media company… [+2131 chars]"
+  },
+  {
+    "source": {
+      "id": "the-hill",
+      "name": "The Hill"
+    },
+    "author": "Miranda Nazzaro",
+    "title": "NYT says public may not see political needle on election night - The Hill",
+    "description": "The New York Times’s signature election needle may not be available to the public as results come in Tuesday night amid an ongoing strike by the outlet’s technology staff, the paper’s election analytics team confirmed Tuesday. The Times’s election night stati…",
+    "url": "https://thehill.com/policy/technology/4973062-new-york-times-needle-strike/",
+    "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/01/659db9d71565a4.71508420-e1724445610775.jpeg?w=1280",
+    "publishedAt": "2024-11-05T18:55:00Z",
+    "content": "Skip to content\r\nThe New York Times’s signature election needle may not be available to the public as results come in Tuesday night amid an ongoing strike by the outlet’s technology staff, the paper’… [+2545 chars]"
+  },
+  {
+    "source": {
+      "id": "fortune",
+      "name": "Fortune"
+    },
+    "author": "Paolo Confino",
+    "title": "Polymarket users have wagered $3.2 billion on the outcome of the election—and the majority of bets are on Trump winning - Fortune",
+    "description": "The majority of bets were for Donald Trump, with $1.3 billion wagered on the former president and $827 million on Vice President Kamala Harris.",
+    "url": "https://fortune.com/2024/11/05/polymarket-bets-odds-election-day-trump-harris/",
+    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/11/GettyImages-2180239766_f17cc4-e1730827843437.jpg?resize=1200,600",
+    "publishedAt": "2024-11-05T18:03:00Z",
+    "content": "The 2024 election was filled with new and unprecedented developments in the history of American electoral politics: A sitting President was pushed out of the race by his own party. A mixed-race woman… [+3881 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Investopedia"
+    },
+    "author": "Aaron McDade",
+    "title": "Nvidia Stock Surges To Regain Position as World's Most Valuable Company - Investopedia",
+    "description": "Nvidia shares rose Tuesday, pushing the chipmaker back into the top spot on the list of the world's most valuable companies by market capitalization, ahead of Apple.",
+    "url": "https://www.investopedia.com/nvidia-stock-surges-to-regain-position-as-most-valuable-company-8739790",
+    "urlToImage": "https://www.investopedia.com/thmb/jGaj8ub_eHK4gKtCAxQTMA1wzW8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2155632328-b6e7d075faca41ab98cd961370efa6f6.jpg",
+    "publishedAt": "2024-11-05T17:21:09Z",
+    "content": "<ul><li>Nvidia shares rose Tuesday, pushing the chipmaker back into the top spot on the list of the world's most valuable companies by market capitalization, ahead of Apple.</li><li>Nvidia, Apple, an… [+1590 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Ana Teresa Solá",
+    "title": "Average age of first-time homebuyers is 38, an all-time high. Here's what that says about the real estate market - CNBC",
+    "description": "The typical first time homebuyer is now 38 years old, a record high, according to the National Association of Realtors. Here's why it's harder to buy.",
+    "url": "https://www.cnbc.com/2024/11/05/the-average-age-of-first-time-us-homebuyers-is-38-an-all-time-high.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108057324-1730756159886-gettyimages-2026046505-dsc_1022.jpeg?v=1730756173&w=1920&h=1080",
+    "publishedAt": "2024-11-05T17:13:52Z",
+    "content": "First-time homebuyers in the U.S. are getting older.\r\nThe median first-time homebuyer has reached an all-time high of 38 years old three years older than in July 2023, according to the National Assoc… [+4715 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Barron's"
+    },
+    "author": "Barron's",
+    "title": "ADM Stock Is Tumbling. Earnings Miss and Accounting Issues Persist. - Barron's",
+    "description": null,
+    "url": "https://www.barrons.com/articles/adm-earnings-stock-price-deb48a39",
+    "urlToImage": null,
+    "publishedAt": "2024-11-05T17:06:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Barron's"
+    },
+    "author": "Barron's",
+    "title": "Hims & Hers Stock Rises on Earnings, Generic Version of Novo Nordisk Diabetes Drug - Barron's",
+    "description": null,
+    "url": "https://www.barrons.com/articles/hims-hers-stock-novo-nordisk-generic-07404bfa",
+    "urlToImage": null,
+    "publishedAt": "2024-11-05T16:38:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Barron's"
+    },
+    "author": "Barron's",
+    "title": "Cleveland-Cliffs Earnings Show Trump and Harris Are Wrong on U.S. Steel Merger - Barron's",
+    "description": null,
+    "url": "https://www.barrons.com/articles/cleveland-cliffs-earnings-stock-us-steel-2daf720e",
+    "urlToImage": null,
+    "publishedAt": "2024-11-05T16:27:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Fox Business"
+    },
+    "author": "Daniella Genovese",
+    "title": "Dollar Tree CEO Rick Dreiling steps down, citing health concerns - Fox Business",
+    "description": "Rick Dreiling, the chief executive of discount retailer Dollar Tree, abruptly stepped down on Sunday, citing health concerns as the reason for his resignation.",
+    "url": "https://www.foxbusiness.com/lifestyle/dollar-tree-ceo-rick-dreiling-steps-down-citing-health-concerns",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/11/0/0/dollar-tree.jpg?ve=1&tl=1",
+    "publishedAt": "2024-11-05T15:36:00Z",
+    "content": "Dollar Tree CEO Rick Dreiling abruptly stepped down from his position at the helm of the beleaguered retail chain, citing health concerns as the reason for his resignation.\r\n\"With my health presentin… [+2312 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CoinDesk"
+    },
+    "author": "Stephen  Alpher",
+    "title": "Bitcoin Breaks Above $70K as Crypto and U.S. Stocks Move Higher Early on Election Day - CoinDesk",
+    "description": "Semler Scientific's 26% gain following quarterly results was leading the advance for crypto-linked stocks.",
+    "url": "https://www.coindesk.com/markets/2024/11/05/bitcoin-breaks-above-70k-as-crypto-and-us-stocks-move-higher-early-on-election-day/",
+    "urlToImage": "https://www.coindesk.com/resizer/FIm1pduU3SgfTi_hoA47w5l5nS4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/OAFSECHSUNCIBPYJ7KHEZ3Q3IE.jpg",
+    "publishedAt": "2024-11-05T15:22:00Z",
+    "content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhave been updated.\r\nCoinDesk is anaward-winningmedia outlet that covers the cryptocurrency industry. Its… [+457 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Tipranks.com"
+    },
+    "author": "Samuel O'Brient",
+    "title": "Palantir (NYSE:PLTR) Stock Soars as Earnings Show Strong AI Software Demand - TipRanks",
+    "description": "Palantir ($PLTR) just reported robust Q3 earnings with high sales growth, indicating that demand for its AI software platform is strong. Known as a data analytics c...",
+    "url": "https://www.tipranks.com/news/palantir-nysepltr-stock-soars-as-earnings-show-strong-ai-software-demand",
+    "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/11/shutterstock_2514395777-750x406.jpg",
+    "publishedAt": "2024-11-05T14:59:07Z",
+    "content": "Palantir (PLTR) just reported robust Q3 earnings with high sales growth, indicating that demand for its AI software platform is strong. Known as a data analytics company, Palantir has emerged as a cl… [+2246 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "MacKenzie Sigalos",
+    "title": "Coinbase’s big election bet is about to be tested - CNBC",
+    "description": "Coinbase emerged as a top corporate donor this election cycle, backing candidates the company viewed as supporting its pro-crypto agenga.",
+    "url": "https://www.cnbc.com/2024/11/05/coinbases-big-election-bet-is-about-to-be-tested.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106868259-1618418339934-gettyimages-1144022591-775341711SF057_Consensus_20.jpeg?v=1730815430&w=1920&h=1080",
+    "publishedAt": "2024-11-05T14:00:28Z",
+    "content": "WASHINGTON In the first few years after founding Coinbase, CEO Brian Armstrong shied away from Washington, D.C. But as his ambitions for his crypto exchange scaled, so too did his need to curry favor… [+8105 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Bea.gov"
+    },
+    "author": null,
+    "title": "U.S. International Trade in Goods and Services, September 2024 - Bureau of Economic Analysis",
+    "description": "The U.S. Census Bureau and the U.S. Bureau of Economic Analysis announced today that the goods and services deficit was $84.4 billion in September, up $13.6 billion from $70.8 billion in August, revised.",
+    "url": "https://www.bea.gov/news/2024/us-international-trade-goods-and-services-september-2024",
+    "urlToImage": null,
+    "publishedAt": "2024-11-05T13:30:00Z",
+    "content": "Explanatory Notes\r\nGoods (Census basis)\r\nData for goods on a Census basis are compiled from the documents collected by U.S. Customs and Border Protection (CBP) and reflect the movement of goods betwe… [+36283 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Amelia Lucas",
+    "title": "Yum Brands earnings miss estimates as KFC, Pizza Hut report same-store sales declines - CNBC",
+    "description": "KFC and Pizza Hut both reported steeper-than-expected declines in their same-store sales.",
+    "url": "https://www.cnbc.com/2024/11/05/yum-brands-yum-q3-2024-earnings.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108015621-1730809812172-108015621-1722607261102-gettyimages-2158731277-BC_24SChart5461.jpeg?v=1730809829&w=1920&h=1080",
+    "publishedAt": "2024-11-05T12:22:12Z",
+    "content": "Yum Brands on Tuesday reported quarterly earnings and revenue that missed Wall Street's expectation as same-store sales at KFC and Pizza Hut slid more than expected.\r\nHere's what the company reported… [+1590 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Daily Beast"
+    },
+    "author": "Dan Ladden-Hall",
+    "title": "Elon Musk Pulls the Plug on Pro-Trump X Town Hall: ‘Let’s Cancel This’ - The Daily Beast",
+    "description": "It’s not the first political event to go horribly awry on Musk’s platform.",
+    "url": "https://www.thedailybeast.com/elon-musk-pulls-the-plug-on-pro-trump-x-town-hall-lets-cancel-this/",
+    "urlToImage": "https://www.thedailybeast.com/resizer/v2/UZQPUY72TBHRBMDWP7T3TVKTJQ.jpg?smart=true&auth=be25e8a6072c7a56748a412ff8998ac7f4c8c7d82d57db4398084adcb89cc8a6&width=1200&height=630",
+    "publishedAt": "2024-11-05T12:12:00Z",
+    "content": "Elon Musk scrapped a political town hall on X shortly after it started Monday blaming technical difficulties.\r\nThe virtual event on the eve of the election is just the latest in a series of town hall… [+2001 chars]"
+  }
+  ,{
+    "source": {
       "id": null,
       "name": "CNBC"
     },

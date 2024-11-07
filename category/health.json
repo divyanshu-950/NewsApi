@@ -1,6 +1,360 @@
 {"articles" : [
   {
     "source": {
+      "id": null,
+      "name": "nj.com"
+    },
+    "author": "Annie Lane",
+    "title": "Dear Annie: After two years of ‘kissing frogs,’ I’ve found my prince ... but he’s not in good health - NJ.com",
+    "description": "I’m torn between my feelings for him and the practical realities we’ll have to face.",
+    "url": "https://www.nj.com/advice/2024/11/dear-annie-after-two-years-of-kissing-frogs-ive-found-my-prince-but-hes-not-in-good-health.html",
+    "urlToImage": "https://www.nj.com/resizer/v2/6PWAWGTKTFHOZF4VJALHFHE3VU.png?auth=90912d1a3bfc5998cf6cfab1ce6f47e617eb137d87e48fae0600341aca4fda0b&width=1280&quality=90",
+    "publishedAt": "2024-11-05T22:30:00Z",
+    "content": "DEAR ANNIE: I am a 64-year-old woman who got divorced after 35 years of marriage. After two years of kissing frogs, I believe Ive finally found my prince. Hes a kidney dialysis patient, and weve been… [+1191 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Neurosciencenews.com"
+    },
+    "author": "Neuroscience News",
+    "title": "Gene Study Links Alcohol Addiction to Accelerated Alzheimer’s Progression - Neuroscience News",
+    "description": "Researchers discovered alcohol use disorder (AUD) and Alzheimer's disease (AD) exhibit similar patterns of gene dysregulation, hinting that alcohol consumption may hasten Alzheimer’s progression.",
+    "url": "https://neurosciencenews.com/genetics-aud-alzheimers-27981/",
+    "urlToImage": "https://neurosciencenews.com/files/2024/11/aud-alzheimers-neurosicence.jpg",
+    "publishedAt": "2024-11-05T20:23:04Z",
+    "content": "Summary: Researchers discovered alcohol use disorder (AUD) and Alzheimer’s disease (AD) exhibit similar patterns of gene dysregulation, hinting that alcohol consumption may hasten Alzheimers progress… [+7356 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Neurosciencenews.com"
+    },
+    "author": "Neuroscience News",
+    "title": "Gut Bacteria Modulate Stress Responses Over Time - Neuroscience News",
+    "description": "New research has unveiled how gut bacteria play a key role in regulating stress by interacting with circadian rhythms, opening possibilities for microbiome-based therapies for mental health.",
+    "url": "https://neurosciencenews.com/circadian-microbiota-stress-27980/",
+    "urlToImage": "https://neurosciencenews.com/files/2024/11/gut-brain-stress-neurosicence.jpg",
+    "publishedAt": "2024-11-05T20:01:23Z",
+    "content": "Summary: New research has unveiled how gut bacteria play a key role in regulating stress by interacting with circadian rhythms, opening possibilities for microbiome-based therapies for mental health.… [+6573 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Reda Wigle",
+    "title": "A daily 30-minute habit cured depression for 40% of people — you don’t even have to move - New York Post ",
+    "description": "A light at the end of the dark tunnel of depression? Doctors commonly prescribe antidepressants to treat patients suffering from depression, but these meds come with a hefty list of possible side e…",
+    "url": "https://nypost.com/2024/11/05/lifestyle/drug-free-therapy-could-help-treat-depression/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/daily-30-minute-habit-cured-93089128_af3f69.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-11-05T17:39:00Z",
+    "content": "A light at the end of the dark tunnel of depression?\r\nA report published by the Centers for Disease Control and Prevention last year revealed that nearly one in five adults in the US have been diagno… [+3432 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Medical Xpress"
+    },
+    "author": "Lesley Henton",
+    "title": "Do no harm: Researchers help doctors identify words they should never say to patients - Medical Xpress",
+    "description": "Seriously ill patients and family members face intense emotional suffering. Even a single word may scare patients and families, make them feel disempowered, and possibly negate the effectiveness of shared decision making.",
+    "url": "https://medicalxpress.com/news/2024-11-doctors-words-patients.html",
+    "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/do-no-harm-researchers.jpg",
+    "publishedAt": "2024-11-05T17:26:46Z",
+    "content": "Seriously ill patients and family members face intense emotional suffering. Even a single word may scare patients and families, make them feel disempowered, and possibly negate the effectiveness of s… [+6490 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Sophie Watson",
+    "title": "I overdosed on a weight loss drug and was throwing up blood — I felt like I was going to die - New York Post ",
+    "description": "Leigh-Anne Lagden was given a free weight loss injection in exchange for social media promotion but claims they told her to take five times as much as she should have and she ended up hospitalized.",
+    "url": "https://nypost.com/2024/11/05/lifestyle/influencer-who-overdosed-on-weight-loss-drug-thew-up-blood-went-to-hospital/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/sent-freebie-brand-promote-meds-93084910.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-11-05T16:48:00Z",
+    "content": "A size-6 influencer who was sent free weight loss drugs in exchange for Instagram promotion says she accidentally overdosed on the skinny jab and spent days vomiting blood, thinking she was going to … [+6106 chars]"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "ABC News",
+    "title": "Exploring the loneliness epidemic: From professional cuddlers to social clubs - ABC News",
+    "description": null,
+    "url": "https://abcnews.go.com/US/exploring-loneliness-epidemic-professional-cuddlers-social-clubs/story?id\\\\u003d115395397",
+    "urlToImage": null,
+    "publishedAt": "2024-11-05T16:40:30Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gizmodo.com"
+    },
+    "author": "Ed Cara",
+    "title": "A Sexually Transmitted Ringworm Fungus Is Spreading in New York City - Gizmodo",
+    "description": "Dermatologists have discovered five cases of sexually transmitted ringworm in New York City caused by the fungus TMVII this year, the first ever detected in the United States.",
+    "url": "https://gizmodo.com/a-sexually-transmitted-ringworm-fungus-is-spreading-in-new-york-city-2000520597",
+    "urlToImage": "https://gizmodo.com/app/uploads/2024/11/ringworm.jpg",
+    "publishedAt": "2024-11-05T16:40:03Z",
+    "content": "An unwelcome germ visitor to the Big Apple is making itself cozy. In a recent paper published last month, scientists have reported the growing emergence of a sexually transmitted ringworm fungusone t… [+4062 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Reda Wigle",
+    "title": "This common lawn care staple may increase prostate cancer risk — after company was ordered to pay $2.25 billion - New York Post ",
+    "description": "Thumbs down for Roundup. Shocking research has revealed that more than a dozen chemicals used in popular weed killers like Roundup could be killing us… specifically by raising the risk of pro…",
+    "url": "https://nypost.com/2024/11/05/lifestyle/weed-killing-chemical-could-be-to-blame-for-new-crop-of-cancer/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/spraying-dandelions-green-yellow-atomizer-93083066.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-11-05T15:51:00Z",
+    "content": "More than a dozen chemicals used in popular weed killers like Roundup could be raising the risk of prostate cancer, shocking new research has revealed.\r\nIn a report published in the journal Cancer, r… [+5219 chars]"
+  },
+  
+  {
+    "source": {
+      "id": null,
+      "name": "Eatingwell.com"
+    },
+    "author": "https://www.facebook.com/EatingWell/",
+    "title": "Oatmeal Breakfast Cookies Are a Must-Have Recipe - EatingWell",
+    "description": "These oatmeal breakfast cookies are a must-have start to your day that's both satisfying and delicious.",
+    "url": "https://www.eatingwell.com/oatmeal-breakfast-cookies-8726319",
+    "urlToImage": "https://www.eatingwell.com/thmb/LHW5kM5_h6Z6bNpAj7tqrFuHQmo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/EWL-OatmealBreakfastCookies-Beauty-335_preview_maxWidth_4000_maxHeight_4000_ppi_300_quality_100-f51c3c219c8e460e985d3bd521194570.jpg",
+    "publishedAt": "2024-11-05T14:41:32Z",
+    "content": "<li> Preheat oven to 350°F with racks in top and lower third positions. Line 2 large rimmed baking sheets with parchment paper.\r\n</li><li> Place ½ cup brown sugar, ¼ cup tahini and ¼ cup butter in a … [+1511 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "OregonLive"
+    },
+    "author": "Dr. Keith Roach",
+    "title": "Dear Doctor: Do seniors on statins have a greater risk of developing myasthenia gravis? - OregonLive",
+    "description": "A very active 75-year-old came down with MG and wondered if the statins caused this.",
+    "url": "https://www.oregonlive.com/advice/2024/11/dear-doctor-do-seniors-on-statins-have-a-greater-risk-of-developing-myasthenia-gravis.html",
+    "urlToImage": "https://www.oregonlive.com/resizer/v2/XO2IEWUVDNDF7JODY2R2VK6RJE.jpeg?auth=33129d0a56609d03df508665cef6ef16b2c8c1cb2448b3e8876a307e73e85282&width=1280&quality=90",
+    "publishedAt": "2024-11-05T14:00:00Z",
+    "content": "DEAR DR. ROACH: Im a 75-year-old woman who is active in many ways. I did the swimming leg for a triathlon female relay team, which was 2-3 miles in the open ocean. \r\nSo, I am baffled by my recent dia… [+2937 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "Why Is Colon Cancer Becoming More Common in Young Adults? - Inside Edition",
+    "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+    "url": "https://www.youtube.com/",
+    "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
+    "publishedAt": "2024-11-05T13:25:34Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+    },
+    "author": "The Wall Street Journal",
+    "title": "‘Walking Pneumonia’ Is Surging Ahead of Cold and Flu Season - The Wall Street Journal",
+    "description": null,
+    "url": "https://www.wsj.com/health/wellness/walking-pneumonia-symptoms-8346732b",
+    "urlToImage": null,
+    "publishedAt": "2024-11-05T13:00:00Z",
+    "content": null
+  },
+  
+  {
+    "source": {
+      "id": null,
+      "name": "Eatingwell.com"
+    },
+    "author": "https://www.facebook.com/EatingWell/",
+    "title": "You Just Found Out You Have Prediabetes—Here Are 5 Things a Doctor Recommends You Do First - EatingWell",
+    "description": "Take control of prediabetes with these doctor-recommended steps to manage blood sugar, improve health and reduce your risk of type 2 diabetes.",
+    "url": "https://www.eatingwell.com/what-you-should-do-first-when-diagnosed-with-prediabetes-8737560",
+    "urlToImage": "https://www.eatingwell.com/thmb/SKwnI_15TE9VrES8vj-HjuzTKtk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/You-Just-Found-Out-You-Have-Prediabetes-baee7fd9e35242efb7c89f2ea450a310.jpg",
+    "publishedAt": "2024-11-05T12:04:48Z",
+    "content": "If you recently received a prediabetes diagnosis, youre far from alone. According to the National Institutes of Health, more than 1 in 3 U.S. adults are living with prediabetes. The good news? Findin… [+4514 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "'I was a GP but didn't know back pain was a sign of lung cancer' - BBC.com",
+    "description": "A former GP says anyone can get lung cancer a decade on from her \"bolt out of the blue\" diagnosis.",
+    "url": "https://www.bbc.com/news/articles/clyg31d3lqlo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1503/live/d375de10-9b54-11ef-a9f5-252f62549e4d.jpg",
+    "publishedAt": "2024-11-05T11:11:32Z",
+    "content": "Sally Hall said she did not know a sore back was a lung cancer symptom\r\nA former GP who has been living with incurable lung cancer for a decade has said her diagnosis was a \"bolt out of the blue\" as … [+3033 chars]"
+  },
+ 
+  {
+    "source": {
+      "id": null,
+      "name": "SciTechDaily"
+    },
+    "author": null,
+    "title": "Is Aging All in Your Head? According to Scientists, Your Outlook Could Predict Your Cognitive Future - SciTechDaily",
+    "description": "A new study shows that people with more positive expectations about aging tend to rate their cognitive function higher and report less perceived cognitive decline. Aging often comes with expectations—like gray hair, wrinkles, and occasional forgetfulness. Whi…",
+    "url": "https://scitechdaily.com/is-aging-all-in-your-head-according-to-scientists-your-outlook-could-predict-your-cognitive-future/",
+    "urlToImage": "https://scitechdaily.com/images/Happy-Smiling-Old-Woman.jpg",
+    "publishedAt": "2024-11-05T10:46:21Z",
+    "content": "A Penn State study found that positive expectations about aging correlate with better cognitive self-ratings among older adults. Shaping these expectations could support healthier cognitive aging and… [+6040 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Boredpanda.com"
+    },
+    "author": "Linas Jokubaitis",
+    "title": "“Right Now Is All We Have”: Woman With Rare ‘Benjamin Button’ Condition Claps Back At Trolls - Bored Panda",
+    "description": "\"I’m not even supposed to be alive.\"",
+    "url": "https://www.boredpanda.com/tenacioustiffany-woman-with-rapid-aging-disease/",
+    "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2024/11/tenacioustiffany-woman-with-rapid-aging-disease-fb-672a600d239a9.png",
+    "publishedAt": "2024-11-05T10:05:33Z",
+    "content": "Tiffany Wedekind is now believed to be one of the oldest living survivors of progeria, more commonly known as rapid aging disease, or Benjamin Button disease. At 46 years old, she has exceeded the av… [+6565 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Inc."
+    },
+    "author": "Jessica Stillman",
+    "title": "100+ Studies Show Just 30 Minutes of This Type of Exercise Gives You the Biggest Brainpower Boost - Inc.",
+    "description": "A review of more than 100 studies showed this specific type of exercise benefits your brain in under 30 minutes.",
+    "url": "https://www.inc.com/jessica-stillman/100-studies-show-just-30-minutes-of-this-type-of-exercise-gives-you-the-biggest-brainpower-boost/90997308",
+    "urlToImage": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2024/11/GettyImages-1755727979-1.jpg",
+    "publishedAt": "2024-11-05T09:27:10Z",
+    "content": "At this stage it should surprise exactly no one that regular exercise benefits your brain as well as your body. Doctors, neuroscientists, and academic researchers have all been shouting about how wor… [+4093 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Boredpanda.com"
+    },
+    "author": "Karina Babenok",
+    "title": "“Tragic Story”: After 9YO Brutally Attacked 23 Animals, Psychopathy Expert Debunks Myths - Bored Panda",
+    "description": "\"It's not too late\": Neuroscientist says 9-year-old \"child psychopath\" who murdered 23 animals could be helped with treatment",
+    "url": "https://www.boredpanda.com/expert-explains-child-psychopathy-management/",
+    "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2024/11/expert-explains-child-psychopathy-management-fb3.png",
+    "publishedAt": "2024-11-05T07:20:50Z",
+    "content": "The age-old debate of nature versus nurture when it comes to psychopathy has gained renewed relevance following the shocking killing of more than 20 pets by a 9-year-old last month.\r\nThe incident, wh… [+11283 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ScienceAlert"
+    },
+    "author": "David Nield",
+    "title": "The Cold Sore Virus Can Infect Your Brain. But How Does It Get Inside? - ScienceAlert",
+    "description": "We already know that the virus behind cold sores, herpes simplex virus type 1 (HSV-1), can also infect the brain and the central nervous system, and now a new study sheds more light on how the viral attack spreads out.",
+    "url": "https://www.sciencealert.com/the-cold-sore-virus-can-infect-your-brain-but-how-does-it-get-inside",
+    "urlToImage": "https://www.sciencealert.com/images/2024/11/PinkBrain.jpg",
+    "publishedAt": "2024-11-05T06:41:47Z",
+    "content": "We already know that the virus behind cold sores, herpes simplex virus type 1 (HSV-1), can also infect the brain and the central nervous system, and now a new study sheds more light on how the viral … [+3157 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ScienceAlert"
+    },
+    "author": "The Conversation",
+    "title": "Experts Reveal What The Pig With Bird Flu in Oregon Really Signifies - ScienceAlert",
+    "description": "The United States Department of Agriculture last week reported that a pig on a backyard farm in Oregon was infected with bird flu.",
+    "url": "https://www.sciencealert.com/experts-reveal-what-the-pig-with-bird-flu-in-oregon-really-signifies",
+    "urlToImage": "https://www.sciencealert.com/images/2024/11/PigSilhouette.jpg",
+    "publishedAt": "2024-11-05T05:53:40Z",
+    "content": "The United States Department of Agriculture last week reported that a pig on a backyard farm in Oregon was infected with bird flu.\r\nAs the bird flu situation has evolved, we've heard about the A/H5N1… [+6341 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gloucestershire Live"
+    },
+    "author": "Fiona Callingham, Diana Buntajova",
+    "title": "Red flag signs of dementia could appear in eyes long before memory loss - Surrey Live",
+    "description": "Dementia is a progressive syndrome that affects almost one million people in the UK, but there are a number of symptoms that could appear in your eyes before memory loss",
+    "url": "https://www.gloucestershirelive.co.uk/news/health/dementia-warning-signs-eyes-9686911",
+    "urlToImage": "https://i2-prod.getsurrey.co.uk/incoming/article30294673.ece/ALTERNATES/s1200/2_GettyImages-1270632680.jpg",
+    "publishedAt": "2024-11-05T04:30:00Z",
+    "content": "Dementia, a devastating condition affecting close to a million people across the UK, is commonly known for symptoms including memory loss, cognitive difficulties and altered behaviour. However, one e… [+3299 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "SciTechDaily"
+    },
+    "author": null,
+    "title": "Experts Warn: “American Malaria” Cases Rising at Alarming Rates - SciTechDaily",
+    "description": "According to a new study, cases of babesiosis rose by an average of 9% annually between 2015 and 2022, with nearly half of the affected individuals also co-infected with another tick-borne illness, such as Lyme disease. According to a new study led by researc…",
+    "url": "https://scitechdaily.com/experts-warn-american-malaria-cases-rising-at-alarming-rates/",
+    "urlToImage": "https://scitechdaily.com/images/Lyme-Disease-Tick-on-Skin.jpg",
+    "publishedAt": "2024-11-05T03:36:54Z",
+    "content": "Babesiosis cases have risen 9% annually in the U.S. since 2015. Co-infection with other tick-borne diseases, including Lyme, is common but doesn’t increase mortality risk. Preventive measures are cru… [+6054 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "East Idaho News"
+    },
+    "author": "EastIdahoNews.com Staff",
+    "title": "Sugar in the first 1,000 days after conception linked to health issues later in life, study says - East Idaho News",
+    "description": "(CNN) — The holiday season is nearly upon us and it’s easy for a child’s sweet tooth go wild. However, new research shows that it may be beneficial to cut back how much sugar young children consume. A study published Friday in the journal Science found that r…",
+    "url": "https://www.eastidahonews.com/2024/11/sugar-in-the-first-1000-days-after-conception-linked-to-health-issues-later-in-life-study-says/",
+    "urlToImage": "https://s3.us-west-2.amazonaws.com/assets.eastidahonews.com/wp-content/uploads/2024/11/sugar.jpg",
+    "publishedAt": "2024-11-05T03:02:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ScienceAlert"
+    },
+    "author": "David Nield",
+    "title": "Ozempic Gives Strong Relief to Severe Knee Pain, Clinical Trial Suggests - ScienceAlert",
+    "description": "The drug semaglutide is already proving incredibly effective in tackling diabetes (under the brand name Ozempic) and weight loss (as Wegovy), and a new study suggests it can do wonders for a type of crippling knee pain too.",
+    "url": "https://www.sciencealert.com/ozempic-gives-strong-relief-to-severe-knee-pain-clinical-trial-suggests",
+    "urlToImage": "https://www.sciencealert.com/images/2024/11/KneePain.jpg",
+    "publishedAt": "2024-11-05T02:18:05Z",
+    "content": "The drug semaglutide is already proving incredibly effective in tackling diabetes (under the brand name Ozempic) and weight loss (as Wegovy), and a new study suggests it can do wonders for a type of … [+2942 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NDTV News"
+    },
+    "author": "Bhavya Sukheja",
+    "title": "US Woman, 23, Goes Blind In One Eye After Swimming With Contact Lenses: \"Most Pain I've Ever Experienced\" - NDTV",
+    "description": "A woman in the US lost vision in one eye due to a rare parasite infection that developed after she went swimming with her contact lenses on.",
+    "url": "https://www.ndtv.com/world-news/us-woman-23-goes-blind-in-one-eye-after-swimming-with-contact-lenses-most-pain-ive-ever-experienced-6945856",
+    "urlToImage": "https://c.ndtvimg.com/2024-11/tpoedcuo_brooklyn-mccasland-_625x300_05_November_24.jpeg",
+    "publishedAt": "2024-11-05T02:15:24Z",
+    "content": "A woman in the US lost vision in one eye due to a rare parasite infection that developed after she went swimming with her contact lenses on. 23-year-old Brooklyn McCasland was visiting Alabama with h… [+2411 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WKTV"
+    },
+    "author": "Ben Kinne",
+    "title": "Deer at Columbia Farm Tests Positive for Chronic Wasting Disease - WKTV",
+    "description": "As hunting season approaches in the Mohawk Valley, the New York State DEC is investigating how a case of chronic wasting disease appeared on a Hayner Road farm in the",
+    "url": "https://www.wktv.com/news/deer-at-columbia-farm-tests-positive-for-chronic-wasting-disease/article_040a64be-9af7-11ef-956f-0f722fbd264a.html",
+    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wktv.com/content/tncms/assets/v3/editorial/6/04/604fa46e-9af7-11ef-8754-a786bb64ba5f/672942bc42ecd.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+    "publishedAt": "2024-11-05T01:40:17Z",
+    "content": "COLUMBIA, N.Y. -- As hunting season approaches in the Mohawk Valley, the New York State DEC is investigating how a case of chronic wasting disease appeared on a Hayner Road farm in the Town of Columb… [+1425 chars]"
+  },
+  {
+    "source": {
       "id": "business-insider",
       "name": "Business Insider"
     },

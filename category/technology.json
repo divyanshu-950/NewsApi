@@ -1,6 +1,383 @@
 { "articles": [
   {
     "source": {
+      "id": "the-verge",
+      "name": "The Verge"
+    },
+    "author": "Ash Parrish",
+    "title": "Nintendo says its Switch successor will be backward compatible with Switch games - The Verge",
+    "description": "Nintendo says the successor to the Switch will be backward compatible with its games and the Nintendo Switch Online service.",
+    "url": "https://www.theverge.com/2024/11/5/24284745/switch-2-backward-compatibility-nintendo-online-preservation",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/8JWRw_HOuKfVhERv2SqVFVojZjE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25590106/STK054_NINTENDO_D.jpg",
+    "publishedAt": "2024-11-06T01:42:00Z",
+    "content": "Nintendo says its Switch successor will be backward compatible with Switch games\r\nNintendo says its Switch successor will be backward compatible with Switch games\r\n / The company says that Nintendo S… [+2990 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GSMArena.com"
+    },
+    "author": "Vlad",
+    "title": "The Pixel 9 Pro is much cheaper to make than the iPhone 16 Pro - GSMArena.com news - GSMArena.com",
+    "description": "The phones are priced the same, however. A new report from Japan today claims to reveal the bill of materials (BOM) for both Google's Pixel 9 Pro and...",
+    "url": "https://www.gsmarena.com/pixel_9_pro_bill_of_materials_is_way_lower_than_iphone_16_pros-news-65212.php",
+    "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/11/google-pixel-9-pro-apple-iphone-16-pro-bill-of-materials/-952x498w6/gsmarena_000.jpg",
+    "publishedAt": "2024-11-05T23:39:01Z",
+    "content": "A new report from Japan today claims to reveal the bill of materials (BOM) for both Google's Pixel 9 Pro and Apple's iPhone 16 Pro. The bill of materials is essentially an estimation of how much the … [+1303 chars]"
+  },
+  {
+    "source": {
+      "id": "ars-technica",
+      "name": "Ars Technica"
+    },
+    "author": "Benj Edwards",
+    "title": "Anthropic’s Haiku 3.5 surprises experts with an “intelligence” price increase - Ars Technica",
+    "description": "Anthropic’s smallest AI model now beats its older largest LLM, Opus, at some tasks.",
+    "url": "https://arstechnica.com/ai/2024/11/anthropic-raises-eyebrows-with-haiku-price-hike-citing-increased-intelligence/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/claude_haiku_logo-1152x648.jpg",
+    "publishedAt": "2024-11-05T22:50:48Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "the-verge",
+      "name": "The Verge"
+    },
+    "author": "Emma Roth",
+    "title": "iOS 18.2 could finally estimate your iPhone’s charging time - The Verge",
+    "description": "iOS 18.2 could include a new “BatteryIntelligence” feature that shows how long it’ll take to charge your iPhone, according to code spotted by 9to5Mac.",
+    "url": "https://www.theverge.com/2024/11/5/24288986/ios-18-2-could-finally-estimate-your-iphones-charging-time",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/QHlxVJniAoluU1xpnHD_AX5XYZc=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25626295/247263_iphone_16_pro_AKrales_0799.jpg",
+    "publishedAt": "2024-11-05T21:23:40Z",
+    "content": "iOS 18.2 could finally estimate your iPhones charging time\r\niOS 18.2 could finally estimate your iPhones charging time\r\n / Along with new AI features and a ChatGPT integration, iOS 18.2 could add a n… [+194 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Slashdot.org"
+    },
+    "author": null,
+    "title": "Mozilla Foundation Lays Off 30% Staff, Drops Advocacy Division - Slashdot",
+    "description": "An anonymous reader quotes a report from TechCrunch: The Mozilla Foundation, the non-profit arm of the Firefox browser maker Mozilla, has laid off 30% of its employees as the organization says it faces a \"relentless onslaught of change.\" When reached by TechC…",
+    "url": "https://tech.slashdot.org/story/24/11/05/2039228/mozilla-foundation-lays-off-30-staff-drops-advocacy-division",
+    "urlToImage": "https://a.fsdn.com/sd/topics/mozilla_64.png",
+    "publishedAt": "2024-11-05T21:00:04Z",
+    "content": "This left wing insanity (...)\r\nThere's nothing \"left wing\" in woke ideas. They're liberal, not socialist. You know, Liberalism? The political doctrine about individual liberties and rights, free ente… [+345 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "9to5Mac"
+    },
+    "author": "Ryan Christoffel",
+    "title": "iOS 18.2’s Notes app gets three powerful Apple Intelligence upgrades - 9to5Mac",
+    "description": "Apple Notes gets three big upgrades in iOS 18.2 thanks to a new wave of Apple Intelligence features. Here’s what’s coming.",
+    "url": "https://9to5mac.com/2024/11/05/apple-notes-in-ios-182-gets-three-powerful-ai-upgrades/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/notes-ios182-apple-intelligence_ff4ba4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-11-05T20:17:00Z",
+    "content": "The second wave of Apple Intelligence features is coming soon, and its a huge upgradeincluding for Apple Notes users. iOS 18 already packed a strong Notes update, but next month iOS 18.2 will bring t… [+2878 chars]"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Jordan Hart",
+    "title": "How to add Apple's election results tracker to your iPhone lockscreen - Business Insider",
+    "description": "For the very online looking to stay dialed into election results, Apple makes it easy to track developments from your iPhone lockscreen.",
+    "url": "https://www.businessinsider.com/iphone-election-results-tracker-lock-screen-apple-news-app-2024-11",
+    "urlToImage": "https://i.insider.com/672a78af88cea3ba1c1e75fe?width=1200&format=jpeg",
+    "publishedAt": "2024-11-05T20:01:00Z",
+    "content": "Apple News is in full-blown Election Day mode and that includes a nifty feature that lets you track the results right from your iPhone lockscreen.\r\nThe winning candidate will need at least 270 electo… [+1560 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gizmodo.com"
+    },
+    "author": "Joe Tilleli",
+    "title": "A Grade-A Refurbished MacBook Air Costs the Same as Apple AirPods Pro - Gizmodo",
+    "description": "The Apple MacBook Air (Grade-A refurbished) is going for just $250 (74% off) at StackSocial.",
+    "url": "https://gizmodo.com/a-grade-a-refurbished-macbook-air-costs-the-same-as-apple-airpods-pro-2000520736",
+    "urlToImage": "https://gizmodo.com/app/uploads/2024/11/MacGradeA.jpg",
+    "publishedAt": "2024-11-05T18:34:49Z",
+    "content": "Black Friday is only a few short weeks away. It’s a great weekend to get your gift shopping for the upcoming holidays finished or to just treat yourself to some new tech you’ve had your eye on for aw… [+2113 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GamesRadar+"
+    },
+    "author": "Dustin Bailey",
+    "title": "After 5 years, Apex Legends is going back to the beginning with a Fortnite-style mode letting you experience the launch version of the battle royale FPS - Gamesradar",
+    "description": "Launch Royale is here to let you drop like it's 2019",
+    "url": "https://www.gamesradar.com/games/apex-legends/after-5-years-apex-legends-is-going-back-to-the-beginning-with-a-fortnite-style-mode-letting-you-experience-the-launch-version-of-the-battle-royale-fps/",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/DYa2CX8vaVT5MHsdD7subP-1200-80.jpg",
+    "publishedAt": "2024-11-05T18:27:00Z",
+    "content": "If you're finding yourself nostalgic for the heady days of 2019 battle royale games, EA and Respawn have just the thing with Apex Legends: From the Rift. The new season, which goes live today, featur… [+1588 chars]"
+  },
+  {
+    "source": {
+      "id": "ign",
+      "name": "IGN"
+    },
+    "author": "Wesley Yin-Poole",
+    "title": "Stardew Valley 1.6 Secretly Added Multiplayer to the Mobile Version — and You Unlock It With the Konami Code - IGN",
+    "description": "Stardew Valley 1.6 added a hidden experimental multiplayer feature to the mobile version of the game, developer Eric ‘ConcernedApe’ Barone has revealed. Here's how to unlock it.",
+    "url": "https://www.ign.com/articles/stardew-valley-16-secretly-added-multiplayer-to-the-mobile-version-and-you-unlock-it-with-the-konami-code",
+    "urlToImage": "https://assets-prd.ignimgs.com/2024/11/04/stardew-valley-chickens-1730758717251.png?width=1280",
+    "publishedAt": "2024-11-05T18:23:41Z",
+    "content": "Stardew Valley 1.6 added a hidden experimental multiplayer feature to the mobile version of the game, developer Eric ConcernedApe Barone has revealed.\r\nIn a blog post, Barone said the feature is hidd… [+2749 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Halowaypoint.com"
+    },
+    "author": "Alex Wakeford",
+    "title": "Great Journey Operation Launch - Halo Waypoint",
+    "description": "<p>New weapon and sandbox updates, new Halo 2-inspired playlist with a selection of fan-favorite maps (and Halo 2-style gameplay adjustments), new Operation Pass, Forge updates, and so much more. Let’s get you briefed on everything the Winter Update is bringi…",
+    "url": "https://www.halowaypoint.com/news/great-journey-operation-launch",
+    "urlToImage": "https://wpassets.halowaypoint.com/wp-content/2024/11/OperationGreatJourney.jpg",
+    "publishedAt": "2024-11-05T18:15:29Z",
+    "content": "The Great Journey is nigh! As Halo 2 marks its twentieth birthday this month, Operation: Great Journey has arrived to bring the celebrations to Halo Infinite, kicking off the 2024 Winter Update.\r\nNew… [+13830 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Wccftech"
+    },
+    "author": "Alessio Palumbo",
+    "title": "PS5 Pro Runs Naraka: Bladepoint Twice as Fast, Says Developer; PSSR Has Similar Quality to DLSS - Wccftech",
+    "description": "We interviewed the developers of Naraka: Bladepoint about the PS5 Pro console and how they're using the new hardware in their game.",
+    "url": "https://wccftech.com/ps5-pro-runs-naraka-bladepoint-twice-as-fast-says-developer/",
+    "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/11/PlayStation-5-Pro-HD-scaled.jpg",
+    "publishedAt": "2024-11-05T18:01:00Z",
+    "content": "This is the week of the PS5 Pro, and you can expect lots more coverage on Sony's mid-generation console refresh. Earlier today, we published our unboxing of the hardware; now, here's another episode … [+4891 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GamesRadar+"
+    },
+    "author": "Catherine Lewis",
+    "title": "Former GTA 6 dev says Rockstar will currently be trying to \"really tighten\" the game \"in every corner\" right now, because \"90% of your work\" is accounting for players who don't do as they're told - Gamesradar",
+    "description": "The former designer thinks \"good games are games that don't block the player\" from doing things differently",
+    "url": "https://www.gamesradar.com/games/grand-theft-auto/former-gta-6-dev-says-rockstar-will-currently-be-trying-to-really-tighten-the-game-in-every-corner-right-now-because-90-percent-of-your-work-is-accounting-for-players-who-dont-do-as-theyre-told/",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/y5mKvmeFWDs9KnE4hWJhak-1200-80.jpg",
+    "publishedAt": "2024-11-05T16:46:34Z",
+    "content": "It might not have an exact release date yet, but GTA 6\r\n is getting closer and closer, and one former designer on the game has suggested that Rockstar's focus right now will likely be on making sure … [+2530 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "9to5Mac"
+    },
+    "author": "Justin Kahn",
+    "title": "Deals: First cash deals on M4 Mac mini and iMac, $600 off 16GB MacBook Pro, 16GB MacBook Air $799, more - 9to5Mac",
+    "description": "Today’s lineup of price drops is headlined by the very first cash discounts at Amazon on the all-new M4 Mac...",
+    "url": "https://9to5mac.com/2024/11/05/deals-m4-mac-mini-imac-16gb-macbook-pro/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/M4-Mac-mini-deals-iMac-MacBook-Pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-11-05T16:45:00Z",
+    "content": "Todays lineup of price drops is headlined by the very first cash discounts at Amazon on the all-new M4 Mac mini as well as the new M4 iMac configurations ahead of delivery day later this week. From t… [+3916 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "Metal Slug Tactics - Official Launch Trailer - GameSpot",
+    "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+    "url": "https://www.youtube.com/",
+    "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
+    "publishedAt": "2024-11-05T16:36:36Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "wired",
+      "name": "Wired"
+    },
+    "author": "Eric Berger, Ars Technica",
+    "title": "China’s New Heavy Lift Rocket Looks a Whole Lot Like SpaceX’s Starship - WIRED",
+    "description": "The Long March 9 super heavy-lift rocket made an appearance at a major airshow recently—and looks awfully familiar.",
+    "url": "https://www.wired.com/story/china-heavy-lift-rocket-spacex-starship/",
+    "urlToImage": "https://media.wired.com/photos/672a015e1bce82d54ee1ec83/191:100/w_1280,c_limit/GettyImages-1436329205.jpg",
+    "publishedAt": "2024-11-05T16:30:00Z",
+    "content": "When Chinese space officials unveiled the design for the country's first super heavy-lift rocket nearly a decade ago, it looked like a fairly conventional booster. The rocket was fully expendable, wi… [+4212 chars]"
+  },
+  {
+    "source": {
+      "id": "ign",
+      "name": "IGN"
+    },
+    "author": "Ryan Dinsdale",
+    "title": "Pokémon TCG Pocket Battles Are Already Dominated by Two Decks in Particular - IGN",
+    "description": "Pokémon Trading Card Game Pocket battles are already being dominated by two decks in particular: the usual suspects of Charizard and Mewtwo.",
+    "url": "https://www.ign.com/articles/pokmon-tcg-pocket-battles-are-already-dominated-by-two-decks-in-particular",
+    "urlToImage": "https://assets-prd.ignimgs.com/2024/11/05/char-1730816458463.jpg?width=1280",
+    "publishedAt": "2024-11-05T16:09:41Z",
+    "content": "Pokémon Trading Card Game Pocket battles are already being dominated by two decks in particular: the usual suspects of Charizard and Mewtwo.\r\nThe streamlined mobile version of the beloved TCG arrived… [+3163 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "TechSpot"
+    },
+    "author": "Kishalaya Kundu",
+    "title": "AMD Ryzen 9000 CPUs see price cuts following Intel Arrow Lake launch - TechSpot",
+    "description": "The flagship Ryzen 9 9950X received a $50 price cut, which saw it knocked down to $599 from its original $649 MSRP. The CPU is currently retailing...",
+    "url": "https://www.techspot.com/news/105435-amd-ryzen-9000-cpus-see-major-price-cuts.html",
+    "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/11/2024-11-05-image-6.jpg",
+    "publishedAt": "2024-11-05T14:48:00Z",
+    "content": "What just happened? AMD launched the Ryzen 9000 series \"Granite Range\" CPUs in late August, but recent developments suggest that they may not be selling as well as the company might have expected. Te… [+1841 chars]"
+  },
+  {
+    "source": {
+      "id": "the-verge",
+      "name": "The Verge"
+    },
+    "author": "David Pierce",
+    "title": "Alexa at 10: Amazon’s assistant is a winner and a failure - The Verge",
+    "description": "Amazon’s Echo launched in 2014, and since then has helped create a voice-first revolution. But as AI takes over, the questions remain about what these devices are for.",
+    "url": "https://www.theverge.com/2024/11/5/24288352/amazon-alexa-anniversary-ai-llm-assistant-vergecast",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/eMMaGLFVmtcyAkrXVJSDd5_WekA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25715695/VST_1105_SIte.jpg",
+    "publishedAt": "2024-11-05T13:47:20Z",
+    "content": "Alexa at 10: Amazons assistant is a winner and a failure\r\nAlexa at 10: Amazons assistant is a winner and a failure\r\n / On The Vergecast: making sense of Alexas first decade, and wondering what might … [+2210 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Kotaku"
+    },
+    "author": "Ethan Gach",
+    "title": "Don't Let These 19 Games Coming Out This November Fly Under Your Radar - Kotaku",
+    "description": "Assassin's Creed Shadows' delay leaves a gaping blockbuster hole this month",
+    "url": "https://kotaku.com/game-release-schedule-calendar-november-2024-1851687776",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d78f4fde263acd41eda248839df4461f.jpg",
+    "publishedAt": "2024-11-05T13:15:00Z",
+    "content": "It feels like only yesterday we were in the thick of the fall release calendar being bombarded every other day by a new blockbuster or sleeper indie hit. November is slowing things down a bit, but it… [+920 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GameSpot"
+    },
+    "author": "Darryn Bonthuys",
+    "title": "Unsurprisingly, Call Of Duty: Black Ops 6 Was One Of The Most-Played Games On PC And Console Last Month - GameSpot",
+    "description": "Not even Goku, NFL superstars, and Steve could stop Call of Duty from rising to the top yet again.",
+    "url": "https://www.gamespot.com/gallery/unsurprisingly-call-of-duty-black-ops-6-was-one-of-the-most-played-games-on-pc-and-console-last-month/2900-5935/",
+    "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4384269-xboxoctober2024%287%29.jpg",
+    "publishedAt": "2024-11-05T13:11:05Z",
+    "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Tom's Guide"
+    },
+    "author": "Tom Pritchard",
+    "title": "iPad 10th generation is my favorite iPad — and it's $150 off in early Black Friday deal - Tom's Guide",
+    "description": "Save big on Amazon now",
+    "url": "https://www.tomsguide.com/tablets/ipads/ipad-10th-generation-is-my-favorite-ipad-and-its-usd150-off-in-early-black-friday-deal",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/RLMkv74x2E5tFtZaETosg3-1200-80.jpg",
+    "publishedAt": "2024-11-05T12:47:50Z",
+    "content": "While the new iPad mini 7 has been getting a lot of attention in recents weeks, there are plenty of different iPads on sale right now. In fact, my personal favorite is now back at its lowest ever pri… [+2184 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Eurogamer.net"
+    },
+    "author": "Victoria Kennedy",
+    "title": "Call of Duty: Black Ops 6 gets hefty update, with swathe of weapon adjustments - Eurogamer",
+    "description": "The Call of Duty: Black Ops 6 team has released a chunky patch for the game.",
+    "url": "https://www.eurogamer.net/call-of-duty-black-ops-6-gets-hefty-update-with-swathe-of-weapon-adjustments",
+    "urlToImage": "https://assetsio.gnwcdn.com/COD-BO6-MULTIPLAYER-HOW-TO-PLAY-TOUT.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "publishedAt": "2024-11-05T12:42:12Z",
+    "content": "Call of Duty: Black Ops 6 has received a chunky patch that, along with general fixes to things such as stability and progression, has also made sweeping adjustments to its multiplayer weapons.\r\nIn a … [+2000 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Eurogamer.net"
+    },
+    "author": "Tom Phillips",
+    "title": "Metacritic responds after Dragon Age: The Veilguard review bombing - Eurogamer",
+    "description": "Review aggregation site Metacritic has spoken out in response to the ongoing review bombing of Dragon Age: The Veilguard.",
+    "url": "https://www.eurogamer.net/metacritic-responds-after-dragon-age-the-veilguard-review-bombing",
+    "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2024-11-05-122351.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "publishedAt": "2024-11-05T12:35:41Z",
+    "content": "Review aggregation site Metacritic has spoken out in response to the ongoing review bombing of Dragon Age: The Veilguard by online commenters upset at the game's inclusive characters and themes.\r\nBio… [+2736 chars]"
+  },
+  {
+    "source": {
+      "id": "ign",
+      "name": "IGN"
+    },
+    "author": "Ryan Dinsdale",
+    "title": "Assassin's Creed Shadows Will Begin a New Modern Day Story After the Series' Post-Desmond Blues - IGN",
+    "description": "Assassin's Creed Shadows will lay the foundation for a new modern day story after years of Ubisoft struggling to match the interest in Desmond's storyline from the original Assassin's Creed games.",
+    "url": "https://www.ign.com/articles/assassins-creed-shadows-will-begin-a-new-modern-day-story-after-the-series-post-desmond-blues",
+    "urlToImage": "https://assets-prd.ignimgs.com/2024/05/15/acshadowsthumb-1715789706246.png?width=1280",
+    "publishedAt": "2024-11-05T12:28:11Z",
+    "content": "Assassin's Creed Shadows will lay the foundation for a new modern day story after years of Ubisoft struggling to match the interest in Desmond's storyline from the original Assassin's Creed games.\r\nM… [+4220 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GamesRadar+"
+    },
+    "author": "Anna Koselke",
+    "title": "Days after shutting its AAA game studio filled with former God of War and Overwatch talent, Netflix announces a \"new initiative\" powered by AI - Gamesradar",
+    "description": "It was apparently \"actually a planned transition\"",
+    "url": "https://www.gamesradar.com/games/god-of-war/days-after-shutting-its-aaa-game-studio-filled-with-former-god-of-war-and-overwatch-talent-netflix-announces-a-new-initiative-powered-by-ai/",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/6zdAn3pokKymibVYqmQteW-1200-80.jpg",
+    "publishedAt": "2024-11-05T12:21:37Z",
+    "content": "Just days after reportedly closing its AAA game studio\r\n with industry-leading talent, Netflix is planning \"truly novel game experiences\" powered by generative AI.\r\nThe news comes in the form of a Li… [+1967 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Verdict"
+    },
+    "author": "GlobalData",
+    "title": "Apple reportedly devising plans to enter smart glasses market - Yahoo Finance",
+    "description": "A study has begun at the company's Cupertino headquarters to understand the smart glasses category.",
+    "url": "https://www.verdict.co.uk/apple-smart-glasses-market/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ukz_iK4uyPSwp6M1jJjqFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/verdict_626/8b7709a94c688ac2bf05b1a6eb868d1f",
+    "publishedAt": "2024-11-05T11:19:26Z",
+    "content": "Tech giant Apple is conducting an internal study, dubbed Atlas, to gather employee feedback on smart glasses currently available in the market, Bloomberg reported.\r\nThis initiative, part of the compa… [+2360 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Nintendo Life"
+    },
+    "author": "Ollie Reynolds",
+    "title": "Nintendo Reconfirms Release Windows For Major Upcoming Switch Games - Nintendo Life",
+    "description": "Xenoblade X! Brothership! Donkey Kong Country!",
+    "url": "https://www.nintendolife.com/news/2024/11/nintendo-reconfirms-release-windows-for-major-upcoming-switch-games",
+    "urlToImage": "https://images.nintendolife.com/18d6a19e733bb/1280x720.jpg",
+    "publishedAt": "2024-11-05T08:45:00Z",
+    "content": "Image: Nintendo\r\nNintendo has released its financial data for the six-month period of FY2025 Q1/Q2 and, as per the norm, has reconfirmed its upcoming line-up of software for the Nintendo Switch.\r\nTru… [+1530 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Push Square"
+    },
+    "author": "Khayl Adam",
+    "title": "Star Wars Outlaws Gets Post-Launch Creative Director Switcheroo - Push Square",
+    "description": "\"He's all yours, bounty hunter. Reset the chamber for Skywalker\"",
+    "url": "https://www.pushsquare.com/news/2024/11/star-wars-outlaws-gets-post-launch-creative-director-switcheroo",
+    "urlToImage": "https://images.pushsquare.com/9eea20d0ca630/1280x720.jpg",
+    "publishedAt": "2024-11-05T08:13:15Z",
+    "content": "Released two months ago, Star Wars Outlaws has a new creative director, with Drew Rechner replacing Julian Gerighty in the top job. It's admittedly a pretty unusual move from Ubisoft and details are … [+1602 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Hot Hardware"
     },

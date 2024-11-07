@@ -1,6 +1,369 @@
 {"articles": [
   {
     "source": {
+      "id": "the-hindu",
+      "name": "The Hindu"
+    },
+    "author": "Sridhar Sivasubbu & Vinod Scaria",
+    "title": "If tardigrades crowd-sourced their remarkable genes, can humans? - The Hindu",
+    "description": "Tardigrades, resilient microscopic creatures, inspire scientific research with potential applications in medicine, biotechnology, and beyond.",
+    "url": "https://www.thehindu.com/sci-tech/science/if-tardigrades-crowd-sourced-their-remarkable-genes-can-humans/article68832042.ece",
+    "urlToImage": "https://th-i.thgim.com/public/incoming/5jgo8l/article67942806.ece/alternates/LANDSCAPE_1200/IMG_02_isbs_Tardigrade_2_1_U3C80H27.jpg",
+    "publishedAt": "2024-11-06T00:00:00Z",
+    "content": "Tardigrades are one of the most resilient as well as enigmatic life forms on the earth. These organisms, also called water bears and moss piglets, are microscopic eight-legged creatures without a bac… [+6303 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "SciTechDaily"
+    },
+    "author": null,
+    "title": "According to Scientists, This Organism Could Live on Mars - SciTechDaily",
+    "description": "Research at Mars analog sites in Utah and Nunavut focuses on lichen diversity, helping to predict lichen survival on Mars and aiding our understanding of these organisms both on Earth and potentially in space. Lichens are remarkably resilient organisms that c…",
+    "url": "https://scitechdaily.com/according-to-scientists-this-organism-could-live-on-mars/",
+    "urlToImage": "https://scitechdaily.com/images/Anushree-Srivastava-and-Lichens.jpg",
+    "publishedAt": "2024-11-05T22:04:09Z",
+    "content": "Crew biologist Anushree Srivastava collecting lichens near the Mars Desert Research Station while wearing a simulated spacesuit, an important part of analog space missions at this research site. Cred… [+4784 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ScienceAlert"
+    },
+    "author": "The Conversation",
+    "title": "Jupiter Has No Surface. Here's How That's Actually Possible. - ScienceAlert",
+    "description": "The planet Jupiter has no solid ground – no surface, like the grass or dirt you tread here on Earth.",
+    "url": "https://www.sciencealert.com/jupiter-has-no-surface-heres-how-thats-actually-possible",
+    "urlToImage": "https://www.sciencealert.com/images/2024/11/JupiterSeenByWebb.jpg",
+    "publishedAt": "2024-11-05T22:01:39Z",
+    "content": "The planet Jupiter has no solid ground no surface, like the grass or dirt you tread here on Earth. There's nothing to walk on, and no place to land a spaceship.\r\nBut how can that be? If Jupiter doesn… [+5062 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Space.com"
+    },
+    "author": "Tereza Pultarova",
+    "title": "Satellite survives impact with object in space, takes selfie to prove it (photos) - Space.com",
+    "description": "The 6mm hole was discovered accidentally in footage from an onboard camera.",
+    "url": "https://www.space.com/space-exploration/satellites/satellite-survives-impact-with-object-in-space-takes-selfie-to-prove-it-photo",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/w6AytNsNugokjmkPUgTNfc-1200-80.jpg",
+    "publishedAt": "2024-11-05T22:00:10Z",
+    "content": "A tiny puncture discovered in the solar panel of a small satellite orbiting Earth highlights the seriousness of the orbital clutter problem.\r\nLithuania-based satellite manufacturer NanoAvionics disco… [+4141 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gizmodo.com"
+    },
+    "author": "Passant Rabie",
+    "title": "New Video Details 'Groundbreaking' Orbital Maneuver of Space Force’s Secretive Spaceplane - Gizmodo",
+    "description": "X-37B started executing a series of aerobraking maneuvers to change from a highly elliptical orbit to a lower orbit.",
+    "url": "https://gizmodo.com/new-video-details-groundbreaking-orbital-maneuver-of-space-forces-secretive-spaceplane-2000520835",
+    "urlToImage": "https://gizmodo.com/app/uploads/2024/10/spaceplane-.jpeg",
+    "publishedAt": "2024-11-05T21:56:23Z",
+    "content": "After seven test flights, Boeing is finally starting to open up about its elusive military spaceplane. The company released a video detailing the experimental maneuvers currently being carried out by… [+3390 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Phys.Org"
+    },
+    "author": "Virginia Tech",
+    "title": "Earth underwent a massive, rapid melting period after the last global ice age, new study suggests - Phys.org",
+    "description": "At the end of the last global ice age, the deep-frozen Earth reached a built-in limit of climate change and thawed into a slushy planet. Results from a Virginia Tech-led study provide the first direct geochemical evidence of the slushy planet—otherwise known …",
+    "url": "https://phys.org/news/2024-11-earth-underwent-massive-rapid-period.html",
+    "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2019/earth.jpg",
+    "publishedAt": "2024-11-05T21:31:06Z",
+    "content": "At the end of the last global ice age, the deep-frozen Earth reached a built-in limit of climate change and thawed into a slushy planet. Results from a Virginia Tech-led study provide the first direc… [+3761 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Popular Mechanics"
+    },
+    "author": "Jackie Appel",
+    "title": "An Astronomer Was Able to Pinpoint the Mystery Location Depicted in a Van Gogh Masterpiece - AOL",
+    "description": "Now can he help find Van Gogh’s ear?",
+    "url": "https://www.popularmechanics.com/science/a62788306/van-gogh-astronomy-painting/",
+    "urlToImage": "https://media.zenfs.com/en/aol_popular_mechanics_812/04f35a934bbb6c817d411891f6843246",
+    "publishedAt": "2024-11-05T19:35:45Z",
+    "content": "Scientists Just Solved a Van Gogh Painting MysteryVincent van Gogh\r\n<ul><li>A team of scientists recently used astronomy to date Vincent van Goghs painting Lane of Poplars at Sunset.\r\n</li><li>The pa… [+4346 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BGR"
+    },
+    "author": "Joshua Hawkins, Joshua Hawkins",
+    "title": "Researchers found a way to bend light around corners, and it’s crazy to see in action - BGR",
+    "description": "A new study claims that researchers can bend light around corners, and it blew my mind when I saw it for the first time.",
+    "url": "https://bgr.com/science/researchers-found-a-way-to-bend-light-around-corners-and-its-crazy-to-see-in-action/",
+    "urlToImage": "https://bgr.com/wp-content/uploads/2021/11/speed-of-light-fast-internet-wifi.jpg?quality=82&strip=all",
+    "publishedAt": "2024-11-05T17:55:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Daily Galaxy --Great Discoveries Channel"
+    },
+    "author": null,
+    "title": "Are Neutron Stars the Perfect Laboratories for Detecting Dark Matter Clouds? - The Daily Galaxy --Great Discoveries Channel",
+    "description": "Dark matter, an enigma that composes around 85% of the universe's matter, has eluded direct observation for decades. But a recent study suggests that neutron",
+    "url": "https://dailygalaxy.com/2024/11/neutron-stars-detecting-dark-matter-clouds/",
+    "urlToImage": "https://dailygalaxy.com/wp-content/uploads/2024/11/Illustration-of-a-spiral-galaxy-displaying-the-gravitational-distortions-caused-by-dark-matter.jpg",
+    "publishedAt": "2024-11-05T17:39:20Z",
+    "content": "Dark matter, an enigma that composes around 85% of the universe‘s matter, has eluded direct observation for decades. But a recent study suggests that neutron stars might provide the perfect laborator… [+3699 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Boing Boing"
+    },
+    "author": null,
+    "title": "Scientists trap Schrödinger's Cat in quantum superposition - Boing Boing",
+    "description": "Boing Boing is the Web's favorite site devoted to technology, entertainment, and culture. Launched in 1989 as a print 'zine and still...",
+    "url": "https://boingboing.net/",
+    "urlToImage": "https://boingboing.net/wp-content/uploads/2022/06/bbstacked.jpg",
+    "publishedAt": "2024-11-05T17:00:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "wired",
+      "name": "Wired"
+    },
+    "author": "Eric Berger, Ars Technica",
+    "title": "China’s New Heavy Lift Rocket Looks a Whole Lot Like SpaceX’s Starship - WIRED",
+    "description": "The Long March 9 super heavy-lift rocket made an appearance at a major airshow recently—and looks awfully familiar.",
+    "url": "https://www.wired.com/story/china-heavy-lift-rocket-spacex-starship/",
+    "urlToImage": "https://media.wired.com/photos/672a015e1bce82d54ee1ec83/191:100/w_1280,c_limit/GettyImages-1436329205.jpg",
+    "publishedAt": "2024-11-05T16:30:00Z",
+    "content": "When Chinese space officials unveiled the design for the country's first super heavy-lift rocket nearly a decade ago, it looked like a fairly conventional booster. The rocket was fully expendable, wi… [+4212 chars]"
+  },
+  {
+    "source": {
+      "id": "newsweek",
+      "name": "Newsweek"
+    },
+    "author": "Tom Howarth",
+    "title": "'God of Chaos' Asteroid May Suffer Dramatic Changes During Earth Flyby - Newsweek",
+    "description": "NASA spacecraft to witness potential quakes and landslides as Earth's gravity tugs on nearby asteroid.",
+    "url": "https://www.newsweek.com/god-chaos-asteroid-dramatic-changes-during-2029-earth-flyby-1980395",
+    "urlToImage": "https://d.newsweek.com/en/full/2512651/asteroid.jpg",
+    "publishedAt": "2024-11-05T16:28:06Z",
+    "content": "Scientists predict that the asteroid Apophis may undergo significant surface changes when it makes its close approach to Earth in 2029, according to a new study.\r\nThe asteroid, named after the Egypti… [+4225 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WGME"
+    },
+    "author": "Meteorologist Emily Santom, WGME",
+    "title": "Catch the Southern Taurid meteor showers in Maine: Best times and viewing tips - WGME",
+    "description": "The Taurid meteor shower returns this year in November. There are two meteor showers: the Northern Taurids and the Southern Taurids.",
+    "url": "https://wgme.com/news/local/catch-the-southern-taurid-meteor-showers-in-maine-best-times-and-viewing-tips",
+    "urlToImage": "https://wgme.com/resources/media2/16x9/2121/986/0x111/90/306a37e6-cbdf-48b1-8a81-418d0a84c388-GettyImages831323432.jpg",
+    "publishedAt": "2024-11-05T16:05:33Z",
+    "content": "MAINE (WGME) -- The Taurid meteor shower returns this year in November. There are two meteor showers: the Northern Taurids and the Southern Taurids.\r\nThe Southern Taurids peak comes first on November… [+1029 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Big Think"
+    },
+    "author": "Don Lincoln",
+    "title": "Will protons last forever? Why scientists are searching for signs of decay - Big Think",
+    "description": "Why hasn’t matter fallen apart over billions of years? The mystery might start with protons.",
+    "url": "https://bigthink.com/hard-science/will-protons-last-forever-why-scientists-are-searching-for-signs-of-decay/",
+    "urlToImage": "https://bigthink.com/wp-content/uploads/2024/11/protons-dont-decay_compressed.jpg?resize=1200,630",
+    "publishedAt": "2024-11-05T15:57:10Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Boing Boing"
+    },
+    "author": "Rob Beschizza",
+    "title": "Report on why the Aricebo Observatory's 305-meter telescope collapsed - Boing Boing",
+    "description": "After years of growing concern about its poor condition, the Arecibo telescope's famed reflector was suddenly ruined by the collapse of its receiver into the dish in 2020. Engineers have…",
+    "url": "https://boingboing.net/2024/11/05/report-on-why-the-aricebo-observatorys-305-meter-telescope-collapsed.html",
+    "urlToImage": "https://boingboing.net/wp-content/uploads/2024/11/shutterstock_1865360653-scaled.jpg",
+    "publishedAt": "2024-11-05T15:45:48Z",
+    "content": "After years of growing concern about its poor condition, the Arecibo telescope's famed reflector was suddenly ruined by the collapse of its receiver into the dish in 2020. Engineers have completed th… [+1767 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Space.com"
+    },
+    "author": "Robert Lea",
+    "title": "Newfound dead star spins record-breaking 716 times a second, explodes with thermonuclear blasts - Space.com",
+    "description": "\"We are dealing with very extreme events.\"",
+    "url": "https://www.space.com/neutron-star-4U182030-speed-demon-fastest-star",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/M3oXP4fPrWqr3MZWHao9EH-1200-80.png",
+    "publishedAt": "2024-11-05T15:00:32Z",
+    "content": "Astronomers have discovered a \"dead star\" neutron star is spinning at an incredible 716 times a second, making it the joint fastest-spinning cosmic body ever seen. Not only this, but the neutron star… [+6645 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hackaday"
+    },
+    "author": "Maya Posch",
+    "title": "Flirting With Kessler: Why Space Debris Physics Make It Such An Orbital Pain - Hackaday",
+    "description": "Picture in your mind a big parking lot with 131 million cars on it. Now imagine that they are spread out over the entire Earth’s inhabited areas. Although still a large number, it is absolute…",
+    "url": "https://hackaday.com/2024/11/05/flirting-with-kessler-why-space-debris-physics-make-it-such-an-orbital-pain/",
+    "urlToImage": "https://hackaday.com/wp-content/uploads/2018/04/debris1.jpg",
+    "publishedAt": "2024-11-05T15:00:00Z",
+    "content": "Picture in your mind a big parking lot with 131 million cars on it. Now imagine that they are spread out over the entire Earth’s inhabited areas. Although still a large number, it is absolutely dwarf… [+9266 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "Ty Roush",
+    "title": "Northern Lights Forecast Update: Here’s Where Aurora Borealis Could Be Seen Tonight As Likely Geomagnetic Storm Nears - Forbes",
+    "description": "The northern lights may be visible in states like Maine, Michigan, Minnesota and Wisconsin.",
+    "url": "https://www.forbes.com/sites/tylerroush/2024/11/05/northern-lights-forecast-update-heres-where-aurora-borealis-could-be-seen-tonight-as-likely-geomagnetic-storm-nears/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672a2fdb96eaa7930dd5c7ab/0x0.jpg?format=jpg&crop=3000,1688,x0,y153,safe&height=900&width=1600&fit=bounds",
+    "publishedAt": "2024-11-05T14:47:20Z",
+    "content": "Auroral activity may be seen below the Canadian border on Tuesday night, and theres a chance the northern lights will become more visible in the coming days as geomagnetic storm conditions likely inc… [+2771 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gizmodo.com"
+    },
+    "author": "Isaac Schultz",
+    "title": "Something Weird Happened 15 Minutes Before the Giant Tonga Eruption of 2022 - Gizmodo",
+    "description": "A previously overlooked seismic signal portended the gargantuan volcanic eruption.",
+    "url": "https://gizmodo.com/something-weird-happened-15-minutes-before-the-giant-tonga-eruption-of-2022-2000520310",
+    "urlToImage": "https://gizmodo.com/app/uploads/2024/11/tonga-eruption-satellite.jpg",
+    "publishedAt": "2024-11-05T14:25:44Z",
+    "content": "Two years ago, the Hunga Tonga-Hunga Ha’apai volcano blew its top, destroying the island of the same name, forcing mass evacuations, covering Tonga in ash, and causing several deaths. Predicting thes… [+4252 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Phys.Org"
+    },
+    "author": "Bob Yirka",
+    "title": "Study of Venus's Haasttse-baad Tessera suggests formation by two large impacts - Phys.org",
+    "description": "A trio of geologists and environmental scientists from Universidad Rey Juan Carlos, Lawrence Livermore National Laboratory, and the University of Minnesota has found evidence suggesting that the Haasttse-baad Tessera formation on Venus was likely formed due t…",
+    "url": "https://phys.org/news/2024-11-venus-haasttse-baad-tessera-formation.html",
+    "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/study-of-venus-haastte.jpg",
+    "publishedAt": "2024-11-05T14:00:02Z",
+    "content": "A trio of geologists and environmental scientists from Universidad Rey Juan Carlos, Lawrence Livermore National Laboratory, and the University of Minnesota has found evidence suggesting that the Haas… [+2796 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Phys.Org"
+    },
+    "author": "Tomasz Nowakowski",
+    "title": "Globular cluster Gran 5 hosts two stellar populations, study finds - Phys.org",
+    "description": "Using the Gemini-South telescope, astronomers have performed high-resolution near-infrared spectroscopy of stars in a Galactic globular cluster known as Gran 5. They found that this cluster harbors two stellar populations with different metallicities. The fin…",
+    "url": "https://phys.org/news/2024-11-globular-cluster-gran-hosts-stellar.html",
+    "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/globular-cluster-gran.jpg",
+    "publishedAt": "2024-11-05T14:00:02Z",
+    "content": "Using the Gemini-South telescope, astronomers have performed high-resolution near-infrared spectroscopy of stars in a Galactic globular cluster known as Gran 5. They found that this cluster harbors t… [+3289 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Space.com"
+    },
+    "author": "Keith Cooper",
+    "title": "'Vega continues to be unusual:' Lack of planets around young star puzzles astronomers - Space.com",
+    "description": "\"It's a mysterious system because it's unlike other circumstellar disks we've looked at.\"",
+    "url": "https://www.space.com/space-exploration/james-webb-space-telescope/vega-continues-to-be-unusual-lack-of-planets-around-young-star-puzzles-astronomers",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/wxPZKZHTWVro7ioyvNrLia-1200-80.jpg",
+    "publishedAt": "2024-11-05T14:00:00Z",
+    "content": "A joint Hubble and James Webb Space Telescope (JWST) project to learn more about the dusty disk around the bright star Vega has found a surprising lack of planets, as evidenced by the disk and surrou… [+9421 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Conversation Africa"
+    },
+    "author": "Jean-Luc Margot",
+    "title": "Carl Sagan’s scientific legacy extends far beyond ‘Cosmos’ - The Conversation",
+    "description": "On what would’ve been the astronomer’s 90th trip around the Sun, here’s a look at his legacy as a scientist, advocate and communicator.",
+    "url": "https://theconversation.com/carl-sagans-scientific-legacy-extends-far-beyond-cosmos-240885",
+    "urlToImage": "https://images.theconversation.com/files/627532/original/file-20241023-17-muc6em.jpg?ixlib=rb-4.1.0&rect=42%2C407%2C4693%2C2346&q=45&auto=format&w=1356&h=668&fit=crop",
+    "publishedAt": "2024-11-05T13:44:11Z",
+    "content": "On Nov. 9, 2024, the world will mark Carl Sagans 90th birthday but sadly without Sagan, who died in 1996 at the age of 62. \r\nMost people remember him as the co-creator and host of the 1980 Cosmos tel… [+6413 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Space.com"
+    },
+    "author": "Elizabeth Howell",
+    "title": "Watch 31st SpaceX Dragon cargo capsule arrive at the ISS today - Space.com",
+    "description": "Dragon is scheduled to arrive at 10:15 a.m. EST.",
+    "url": "https://www.space.com/space-exploration/international-space-station/watch-31st-spacex-dragon-cargo-capsule-arrive-at-the-iss-today",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/Rp3CbeFVGrynqfxxzQoNuh-1200-80.jpg",
+    "publishedAt": "2024-11-05T13:41:48Z",
+    "content": "The space station will receive a new shipment of supplies this morning (Nov. 5), and you can watch the event live.\r\nA SpaceX Dragon cargo spacecraft laden with 6,000 pounds (2,700 kilograms) of food,… [+1821 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Space.com"
+    },
+    "author": "Andrew Jones",
+    "title": "Sharp 'lobster vision:' China's Einstein Probe space telescope already making discoveries during commissioning phase - Space.com",
+    "description": "Observatory may already have detected a new kind of transient event.",
+    "url": "https://www.space.com/space-exploration/missions/sharp-lobster-vision-chinas-einstein-probe-space-telescope-already-making-discoveries-during-commissioning-phase",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/tSeek8CWinBRNUnGLgChQG-1200-80.jpg",
+    "publishedAt": "2024-11-05T13:00:00Z",
+    "content": "A Chinese X-ray space telescope has already made several discoveries during its initial commissioning phase.\r\nThe Einstein Probe, featuring lobster-eye optics and European participation, launched\r\n o… [+3042 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Jacopo Prisco",
+    "title": "Is there a hidden planet in our solar system? Astronomers say the moment of truth is near - CNN",
+    "description": "Some scientists say a growing number of clues point to the existence of a hidden planet in the Kuiper Belt beyond Neptune — and they may soon have the opportunity to find proof.",
+    "url": "https://www.cnn.com/2024/11/04/science/planet-nine-kuiper-belt-latest-evidence/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20241104-hidden-planet-16x9.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-11-05T11:00:00Z",
+    "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nOur solar system used to have nine planets. Astronomer… [+14684 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Space.com"
+    },
+    "author": "Keith Cooper",
+    "title": "Asteroid-mining company AstroForge gets 1st-ever FCC license for commercial deep-space mission - Space.com",
+    "description": "The license covers the Odin mission, which will launch in early 2025 on board the next Intuitive Machines moon launch.",
+    "url": "https://www.space.com/space-exploration/tech/asteroid-mining-company-astroforge-gets-1st-ever-fcc-license-for-commercial-deep-space-mission",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/grosgXkfua694zVQuXtoTC-1200-80.jpg",
+    "publishedAt": "2024-11-05T11:00:00Z",
+    "content": "Asteroid prospecting company AstroForge has been awarded the first-ever commercial license for operating and communicating with a spacecraft in deep space, ahead of its Odin mission that's set to lau… [+3463 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "Jamie Carter",
+    "title": "In Photos: See NASA Juno’s Jaw-Dropping New Images Of Jupiter - Forbes",
+    "description": "NASA’s Juno spacecraft has returned new images of Jupiter after its 66th close flyby as it enters the final year of its mission.",
+    "url": "https://www.forbes.com/sites/jamiecartereurope/2024/11/05/in-photos-see-nasa-junos-jaw-dropping-new-images-of-jupiter/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6722b858528689c7a5baa913/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2024-11-05T11:00:00Z",
+    "content": "Jupiter, as seen during NASA Juno's 66th perijove on Oct. 23, 2024. \r\nNASA / JPL / SwRI / MSSS / Gerald Eichstädt / Thomas Thomopoulos © cc by\r\nNASAs Juno spacecraft has returned new images of Jupite… [+2775 chars]"
+  },{
+    "source": {
       "id": null,
       "name": "Forbes"
     },

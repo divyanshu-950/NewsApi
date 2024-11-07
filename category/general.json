@@ -2,6 +2,330 @@
   "articles": [
     {
       "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Gaurav Gupta",
+      "title": "Shreyas Iyer back to bolster Mumbai's Ranji Trophy bid against Odisha",
+      "description": "Mumbai's Ranji Trophy campaign takes a dramatic turn as opener Prithvi Shaw is dropped due to fitness concerns. The team backs Shaw's talent while he undergoes a rigorous fitness regimen. Mumbai aims for crucial wins in upcoming matches against Odisha and Ser…",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shreyas-iyer-back-to-bolster-mumbais-ranji-trophy-bid-against-odisha/articleshow/114999518.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114999486,width-1070,height-580,imgsize-27722,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-11-06T03:10:31Z",
+      "content": "1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh"
+    },
+    {
+      "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "Bloomberg News",
+      "title": "Swiggy’s $1.3 Billion IPO May Face Lukewarm Retail Interest",
+      "description": "Before the trading day starts we bring you a digest of the key news and events that are likely to move markets. Today we look at:",
+      "url": "https://financialpost.com/pmn/business-pmn/swiggys-1-3-billion-ipo-may-face-lukewarm-retail-interest",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/11/indian-stocks-tend-to-rally-a-year-after-us-elections.jpg",
+      "publishedAt": "2024-11-06T03:08:12Z",
+      "content": "Before the trading day starts we bring you a digest of the key news and events that are likely to move markets. Today we look at:\r\nAuthor of the article:\r\n9qtkyjgijv2i1)jtkzk8qfxv_media_dl_1.pngBloom… [+5976 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Akash Podishetti",
+      "title": "Swiggy IPO vs Zomato: Which is the better investment option currently?",
+      "description": "Swiggy's IPO launch sparks debate on the better investment: Swiggy or Zomato.  Zomato, currently profitable with a larger market share, has seen a stock surge.  Analysts believe Swiggy, though currently unprofitable, might become a stronger competitor post-IP…",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-ipo-vs-zomato-which-is-the-better-investment-option-currently/articleshow/114999413.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-114999401,width-1200,height-630,imgsize-2136683,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2024-11-06T03:06:22Z",
+      "content": "Swiggy launched its much-anticipated Rs 11,300 crore public offer, setting the stage for a showdown with its rival Zomato on the exchanges. As both companies try hard to capture investor attention, S… [+3965 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Jaikrishnan Nair",
+      "title": "Thanks to Malayali mayor, UK town to honour India's 'forgotten' war dead",
+      "description": "The Cambridge City Council is set to honor the bravery and sacrifice of nearly 4 million Indian soldiers who fought in World War I and II. The event, spearheaded by Cambridge Mayor and Kottayam native Baiju Thittala, seeks to recognize the soldiers' contribut…",
+      "url": "https://timesofindia.indiatimes.com/city/kochi/thanks-to-malayali-mayor-uk-town-to-honour-indias-forgotten-war-dead/articleshow/114999075.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114999376,width-1070,height-580,imgsize-356149,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-11-06T03:04:50Z",
+      "content": "How to grow Dhaniya at home without any soil or sand (you only need water!)"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "KS Badri Narayanan",
+      "title": "Negative bias seen for Nifty, Sensex at open",
+      "description": "Gift Nifty shows downward bias, volatility due to US election results; India isolated from global markets, market remains volatile.",
+      "url": "https://www.thehindubusinessline.com/markets/negative-bias-seen-for-nifty-sensex-at-open/article68835141.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/33egpw/article68827776.ece/alternates/LANDSCAPE_1200/2024-10-22T070122Z_538488505_RC2EPAA2KSO2_RTRMADP_3_INDIA-NSE.JPG",
+      "publishedAt": "2024-11-06T03:03:00Z",
+      "content": "Gift Nifty at 24,268 indicates a downward bias for Nifty at open on Wednesday. However, Gift Nifty has been volatile as the US election results start trickling in. Analysts expect the market to remai… [+2610 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Enormous gaps in corporate remuneration must pass two key tests",
+      "description": "The supply of leadership talent falling short of demand has taken top-level pay packages to new heights in India Inc, going by data from Nifty 500 companies. Even in a free-market setting, though, Rawlsian constraints ought to apply.",
+      "url": "https://www.livemint.com/opinion/online-views/income-inequality-abhay-bhutada-hero-motocorp-pawan-munjal-tech-mahindra-c-p-gurnani-kalanithi-maran-sajjan-jindal-11730857902553.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/11/06/1600x900/gbfb97ff419074b4f6d00e635f34579aa3b85aef4dea4aefdf_1730858850358_1730858850492.jpg",
+      "publishedAt": "2024-11-06T03:00:14Z",
+      "content": "Even as growing inequality confronts India as a challenge, remuneration trends among large Indian companies are exacerbating worries. While the top leaders of Nifty 500 firms earn staggering sums, as… [+3308 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "NDTV Sports Desk",
+      "title": "Kohli, Rohit Told To \"Forget Big Cars, VIP Treatment\" In Stern Feedback",
+      "description": "Mohammad Kaif wants India's senior stars to give up VIP culture and go back to playing domestic cricket.",
+      "url": "https://sports.ndtv.com/cricket/virat-kohli-rohit-sharma-told-to-forget-big-cars-vip-treatment-go-back-to-domestic-cricket-6953900",
+      "urlToImage": "https://c.ndtvimg.com/2024-11/2k0br8u_virat-kohli-x_625x300_06_November_24.jpeg",
+      "publishedAt": "2024-11-06T02:54:04Z",
+      "content": "The lack of domestic cricket taunts continue haunt Indian cricket team's seniors, with experts refusing to turn down the intensity of their criticism after 0-3 whitewash against New Zealand. Many sti… [+2099 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AFP",
+      "title": "WTA Finals: Coco Gauff beats Iga Swiatek to book semi-finals spot",
+      "description": "Coco Gauff upset Iga Swiatek in straight sets at the WTA Finals, securing Aryna Sabalenka's year-end No. 1 ranking. This victory marks Gauff's second win against Swiatek in 13 encounters. Earlier, Barbora Krejcikova defeated Jessica Pegula, keeping her semi-f…",
+      "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/wta-finals-coco-gauff-beats-iga-swiatek-to-book-semi-finals-spot/articleshow/114998652.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114998848,width-1070,height-580,imgsize-52882,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-11-06T02:47:22Z",
+      "content": "1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jennifer Elias",
+      "title": "Google curbs politics discussion among employees on U.S. Election Day",
+      "description": "During Election Day, employees tried flooding popular internal message board with election-related memes despite warnings by company executives.",
+      "url": "https://www.cnbc.com/2024/11/05/google-curbs-politics-discussion-among-employees-on-us-election-day.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104640319-1592915390095preview.jpg?v=1730866140&w=1920&h=1080",
+      "publishedAt": "2024-11-06T02:46:00Z",
+      "content": "Google has been moderating and removing employees' internal election-related conversations, CNBC has learned. \r\nAhead of Tuesday's U.S. elections, Google executives warned employees to keep political… [+6043 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thehillstimes.in"
+      },
+      "author": "The Hills Times",
+      "title": "Abhijit Mazumdar’s ‘Body’ selected in main competition at IFFK",
+      "description": "New Delhi, Nov 5: Independent feature film “Body”, directed by first-time filmmaker Abhijit Mazumdar, has been chosen as an official selection at the 29th International Film Festival of Kerala.The festival is set to be held in Thiruvananthapuram between Decem…",
+      "url": "https://thehillstimes.in/entertainment/abhijit-mazumdars-body-selected-in-main-competition-at-iffk",
+      "urlToImage": null,
+      "publishedAt": "2024-11-06T02:45:00Z",
+      "content": "New Delhi, Nov 5: Independent feature film “Body”, directed by first-time filmmaker Abhijit Mazumdar, has been chosen as an official selection at the 29th International Film Festival of Kerala.The fe… [+2860 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Dhritiman Ray",
+      "title": "INDIA bloc vows to match Jharkhand BJP sops, more or less",
+      "description": "The ruling JMM-Congress-RJD-CPI-ML alliance in Jharkhand released its election manifesto, promising 10 lakh jobs, increased reservations for SCs/STs/OBCs, and a higher MSP for paddy. This comes as a direct challenge to BJP's 'Sankalp' manifesto, setting the s…",
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/india-bloc-vows-to-match-jharkhand-bjp-sops-more-or-less/articleshow/114998779.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114998846,width-1070,height-580,imgsize-844033,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-11-06T02:44:05Z",
+      "content": "How to grow Dhaniya at home without any soil or sand (you only need water!)"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thehillstimes.in"
+      },
+      "author": "The Hills Times",
+      "title": "IFFI 2024: Ranbir to attend session as part of Raj Kapoor’s birth centenary celebrations",
+      "description": "New Delhi, Nov 5: Animal star Ranbir Kapoor will be in conversation with filmmaker Rahul Rawail to celebrate his grandfather and multihyphenate Raj Kapoor’s birth centenary at the 55th International Film Festival of India (IFFI).While Kapoor’s 100th birth ann…",
+      "url": "https://thehillstimes.in/entertainment/iffi-2024-ranbir-to-attend-session-as-part-of-raj-kapoors-birth-centenary-celebrations",
+      "urlToImage": null,
+      "publishedAt": "2024-11-06T02:40:00Z",
+      "content": "New Delhi, Nov 5: Animal star Ranbir Kapoor will be in conversation with filmmaker Rahul Rawail to celebrate his grandfather and multihyphenate Raj Kapoor’s birth centenary at the 55th International … [+1133 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "author": "AFP",
+      "title": "Trafficked: the girls sold for sex in India",
+      "description": "Sold by her family as a teenager, Zarin was beaten, drugged and repeatedly gang-raped — just one of many thousands of young women trafficked in India. Her home state of West Bengal — bordering Bangladesh, Bhutan and Nepal — is a key trafficking hub where more…",
+      "url": "https://www.digitaljournal.com/world/trafficked-the-girls-sold-for-sex-in-india/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2024/11/c4cc26939713c7ebf1d9b6ebada71cdcd4c3376d.jpg",
+      "publishedAt": "2024-11-06T02:35:31Z",
+      "content": "A young Indian woman, rescued from sexual exploitation, speaks with AFP at a house provided by an NGO in Kolkata - Copyright AFP Dibyangshu SARKAR\r\nSold by her family as a teenager, Zarin was beaten,… [+4424 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ibtimes.com.au"
+      },
+      "author": "Aishwarya KUMAR",
+      "title": "Trafficked: The Girls Sold For Sex In India",
+      "description": "Sold by her family as a teenager, Zarin was beaten, drugged and repeatedly gang-raped -- just one of many thousands of young women trafficked in India.",
+      "url": "https://www.ibtimes.com.au/trafficked-girls-sold-sex-india-1853148",
+      "urlToImage": "https://d.ibtimes.com.au/en/full/1864422/young-indian-woman-rescued-sexual-exploitation-speaks-afp-house-provided-ngo-kolkata.jpg",
+      "publishedAt": "2024-11-06T02:33:26Z",
+      "content": "Sold by her family as a teenager, Zarin was beaten, drugged and repeatedly gang-raped -- just one of many thousands of young women trafficked in India.\r\nHer home state of West Bengal -- bordering Ban… [+4218 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "International Business Times"
+      },
+      "author": "Aishwarya KUMAR",
+      "title": "Trafficked: The Girls Sold For Sex In India",
+      "description": "Sold by her family as a teenager, Zarin was beaten, drugged and repeatedly gang-raped -- just one of many thousands of young women trafficked in India.",
+      "url": "https://www.ibtimes.com/trafficked-girls-sold-sex-india-3749717",
+      "urlToImage": "https://d.ibtimes.com/en/full/4559444/young-indian-woman-rescued-sexual-exploitation-speaks-afp-house-provided-ngo-kolkata.jpg",
+      "publishedAt": "2024-11-06T02:33:14Z",
+      "content": "Sold by her family as a teenager, Zarin was beaten, drugged and repeatedly gang-raped -- just one of many thousands of young women trafficked in India.\r\nHer home state of West Bengal -- bordering Ban… [+4218 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Now",
+      "title": "As FII selling persists, domestic investors looking for buying opportunities: Sunil Subramaniam",
+      "description": "​But the US uncertainty-related selling because money is going back into the US and the Japan, that is not India-centric. So, domestic fund managers are sensing an opportunity and from now on even there is further FII selling, domestic fund managers will step…",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/as-fii-selling-persists-domestic-investors-looking-for-buying-opportunities-sunil-subramaniam/articleshow/114979713.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-114979642,width-1200,height-630,imgsize-65118,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2024-11-06T02:31:00Z",
+      "content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2024 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets… [+317 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "KS Badri Narayanan",
+      "title": "Stocks that will see action today: November 6",
+      "description": "Buzzing stocks, Stocks to watch: Hero MotoCorp, Tata Steel, Apollo Hospitals, Jindal Steel, Thangamayil, Aadhar Housing, Premier Explosives, NTPC, Hindustan Zinc, Indian Hotels, Infosys,  Alkem LaboratoriesOberoi Realty, Adani Energy Solutions, Kalyan Jewelle…",
+      "url": "https://www.thehindubusinessline.com/markets/stocks-that-will-see-action-today-november-6/article68835101.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/w61xvi/article68833563.ece/alternates/LANDSCAPE_1200/IMG_BL0710_Brand_Digital_2_1_1TDDRJOB.jpg",
+      "publishedAt": "2024-11-06T02:30:16Z",
+      "content": "Hero MotoCorp on Tuesday said it is planning to enter Europe and the UK markets from the second half of 2025 as it looks to consolidate its presence overseas. The New Delhi-headquartered two-wheeler … [+3537 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thehillstimes.in"
+      },
+      "author": "The Hills Times",
+      "title": "IFFI 2024: Ranbir Kapoor to attend session as part of Raj Kapoor’s birth centenary celebrations",
+      "description": "New Delhi, Nov 5: Animal star Ranbir Kapoor will be in conversation with filmmaker Rahul Rawail to celebrate his grandfather and multihyphenate Raj Kapoor’s birth centenary at the 55th International Film Festival of India (IFFI).While Kapoor’s 100th birth ann…",
+      "url": "https://thehillstimes.in/entertainment/iffi-2024-ranbir-kapoor-to-attend-session-as-part-of-raj-kapoors-birth-centenary-celebrations",
+      "urlToImage": null,
+      "publishedAt": "2024-11-06T02:30:00Z",
+      "content": "New Delhi, Nov 5: Animal star Ranbir Kapoor will be in conversation with filmmaker Rahul Rawail to celebrate his grandfather and multihyphenate Raj Kapoor’s birth centenary at the 55th International … [+1127 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AP",
+      "title": "Champions League: Real Madrid, Manchester City suffer big defeats; Liverpool hammer Bayer Leverkusen",
+      "description": "European giants Real Madrid and Manchester City were handed shocking defeats in the Champions League, with Madrid falling 3-1 to AC Milan and City succumbing 4-1 to Sporting Lisbon. Liverpool soared to the top of their group after a commanding 4-0 victory ove…",
+      "url": "https://timesofindia.indiatimes.com/sports/football/champions-league/top-stories/champions-league-real-madrid-manchester-city-suffer-big-defeats-liverpool-hammer-bayer-leverkusen/articleshow/114998393.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114998462,width-1070,height-580,imgsize-57870,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-11-06T02:28:35Z",
+      "content": "1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Dwaipayan Datta",
+      "title": "Can they rise Down Under? Time for Rohit Sharma, Virat Kohli to take fresh guard",
+      "description": "After a disappointing series against New Zealand, Indian veterans Rohit Sharma and Virat Kohli face a crucial test in Australia. Both face scrutiny for their recent form, with Rohit's captaincy and batting woes under the scanner. As they prepare for the Borde…",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/can-they-rise-down-under-time-for-rohit-sharma-virat-kohli-to-take-fresh-guard/articleshow/114998494.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114998504,width-1070,height-580,imgsize-83218,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-11-06T02:28:00Z",
+      "content": "#INDvsNZ: Rohit Sharma and Co. Need to Stop Playing On Raging Turners At Home"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Shivangini",
+      "title": "Q2 Results Today: Tata Steel, Apollo Hospitals, Power Grid Corporation, Blue Star among 97 companies to post earnings",
+      "description": "Today, 97 companies, including major players Tata Steel, Apollo Hospitals, and Power Grid Corporation, are set to report their Q2FY2025 earnings on November 6, providing insights into sectors from healthcare to energy.",
+      "url": "https://www.livemint.com/companies/company-results/q2-results-today-tata-steel-apollo-hospitals-power-grid-corporation-blue-star-among-97-companies-to-post-earnings-11730857958211.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/11/06/1600x900/2-0-1402373409-bse--1---1--0_1679756950206_1730858911128.jpg",
+      "publishedAt": "2024-11-06T02:24:57Z",
+      "content": "Among the 97 companies reporting Q2FY2025 earnings on November 6 are prominent firms Tata Steel, Apollo Hospitals, and Blue Star, spanning healthcare, power, and manufacturing sectors.Aadhar Housing … [+2279 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "theverge.com",
+      "title": "Suzuki teams up with Toyota on its first EV: the E Vitara",
+      "description": "Suzuki and Toyota have been working together on a new 4WD-capable electric SUV, and in Italy yesterday, Suzuki revealed the fruits of the collaboration: a new compact called the E Vitara. It’s the automaker’s first EV, and it’s scheduled for production at Suz…",
+      "url": "https://biztoc.com/x/e7eb97a9d8873521",
+      "urlToImage": "https://biztoc.com/cdn/e7eb97a9d8873521_s.webp",
+      "publishedAt": "2024-11-06T02:16:16Z",
+      "content": "Suzuki and Toyota have been working together on a new 4WD-capable electric SUV, and in Italy yesterday, Suzuki revealed the fruits of the collaboration: a new compact called the E Vitara. Its the aut… [+148 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Khabarhub.com"
+      },
+      "author": "Khabarhub",
+      "title": "Economic Digest: Nepal’s Business News in a Snap",
+      "description": "KATHMANDU: Economic Digest offers a concise yet comprehensive overview of significant business happenings in Nepal, presented in easily digestible summaries. The impressive rebound of Nepal’s tourism industry, with over 940,000 foreign visitors in the first t…",
+      "url": "https://english.khabarhub.com/2024/06/410629/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
+      "publishedAt": "2024-11-06T02:15:10Z",
+      "content": "KATHMANDU: Economic Digest offers a concise yet comprehensive overview of significant business happenings in Nepal, presented in easily digestible summaries.\r\nThe impressive rebound of Nepal’s touris… [+4445 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "NDTV Sports Desk",
+      "title": "\"Can't Blame BCCI, The Players...\": Rohit, Virat Lambasted Post NZ Loss",
+      "description": "The three losses against New Zealand have made India's road to the World Test Championship final a very tricky affair.",
+      "url": "https://sports.ndtv.com/cricket/cant-put-blame-on-bcci-the-players-rohit-sharma-virat-kohli-face-ire-after-nz-whitewash-6952346",
+      "urlToImage": "https://c.ndtvimg.com/2024-11/09egb08g_rohit-sharma-virat-kohli-bcci_625x300_04_November_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2024-11-06T02:07:05Z",
+      "content": "The Indian cricket team and BCCI have been at the receiving end of some stern criticism following a 3-0 loss to New Zealand in a home Test series. It was the first time in the history of Indian crick… [+1746 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Jocelyn Fernandes",
+      "title": "Chhath Puja bank holidays: Long weekend for some from November 7-10. Check details here",
+      "description": "Chhath Puja bank holidays: Long weekend for some states from November 7-10. However, in India, bank holidays vary from state-to-state, so please check with your local branch for a confirmed holiday schedule for November 2024.",
+      "url": "https://www.livemint.com/industry/banking/chhath-puja-bank-holiday-list-schedule-long-weekend-some-states-november-7-10-sunday-second-saturday-rbi-sbi-news-detail-11730856749396.html",
+      "urlToImage": "https://images.livemint.com/img/2023/03/26/original/3-0-100372714-newru1-khwD--621x414-LiveMint-0_1679853997899.jpg",
+      "publishedAt": "2024-11-06T02:06:46Z",
+      "content": "Chhath Puja bank holidays: It is likely a long weekend for customers in some states in India from November 7-10. The Reserve Bank of India (RBI) has listed at least 12 holidays for November 2024, inc… [+3018 chars]"
+    },{
+      "source": {
         "id": null,
         "name": "DW (English)"
       },
